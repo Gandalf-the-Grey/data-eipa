@@ -2241,7 +2241,7 @@
       "status": {
         "availability": 1,
         "status": 1,
-        "ts": "2022-06-05T00:01:24+02:00"
+        "ts": "2022-06-05T11:53:10+02:00"
       }
     },
     {
@@ -2257,7 +2257,7 @@
       "status": {
         "availability": 1,
         "status": 1,
-        "ts": "2022-06-05T00:01:24+02:00"
+        "ts": "2022-06-05T11:53:11+02:00"
       }
     },
     {
@@ -6232,8 +6232,8 @@
       ],
       "status": {
         "availability": 1,
-        "status": 1,
-        "ts": "2022-06-05T09:02:01+02:00"
+        "status": 0,
+        "ts": "2022-06-05T11:53:12+02:00"
       }
     },
     {
@@ -12591,7 +12591,7 @@
       "status": {
         "availability": 1,
         "status": 0,
-        "ts": "2022-06-05T11:52:32+02:00"
+        "ts": "2022-06-05T11:53:16+02:00"
       }
     },
     {
@@ -20743,7 +20743,7 @@
         }
       ],
       "status": {
-        "availability": 0,
+        "availability": 1,
         "status": 0,
         "ts": "2022-06-05T11:28:01+02:00"
       }
@@ -22082,7 +22082,7 @@
       "status": {
         "availability": 1,
         "status": 1,
-        "ts": "2022-06-03T22:03:07+02:00"
+        "ts": "2022-06-05T11:42:47+02:00"
       }
     },
     {
@@ -22096,9 +22096,9 @@
         }
       ],
       "status": {
-        "availability": 0,
-        "status": 0,
-        "ts": "2022-06-05T11:42:31+02:00"
+        "availability": 1,
+        "status": 1,
+        "ts": "2022-06-05T11:42:47+02:00"
       }
     },
     {
@@ -22283,18 +22283,7 @@
     {
       "point_id": 131662,
       "code": "PL-BB4-EKRX3YNID",
-      "prices": [
-        {
-          "price": "1.31",
-          "unit": "kWh",
-          "ts": "2022-06-05T05:23:09+02:00"
-        },
-        {
-          "price": "0.00",
-          "unit": "min",
-          "ts": "2022-06-05T05:23:09+02:00"
-        }
-      ],
+      "prices": [],
       "status": {
         "availability": 1,
         "status": 1,
@@ -22304,18 +22293,7 @@
     {
       "point_id": 131664,
       "code": "PL-BB4-E00300101",
-      "prices": [
-        {
-          "price": "2.31",
-          "unit": "kWh",
-          "ts": "2022-06-05T05:23:05+02:00"
-        },
-        {
-          "price": "0.00",
-          "unit": "min",
-          "ts": "2022-06-05T05:23:05+02:00"
-        }
-      ],
+      "prices": [],
       "status": {
         "availability": 1,
         "status": 1,
@@ -22325,18 +22303,7 @@
     {
       "point_id": 131665,
       "code": "PL-BB4-E00300102",
-      "prices": [
-        {
-          "price": "2.31",
-          "unit": "kWh",
-          "ts": "2022-06-05T05:22:57+02:00"
-        },
-        {
-          "price": "0.00",
-          "unit": "min",
-          "ts": "2022-06-05T05:22:57+02:00"
-        }
-      ],
+      "prices": [],
       "status": {
         "availability": 1,
         "status": 1,
@@ -22346,18 +22313,7 @@
     {
       "point_id": 131666,
       "code": "PL-BB4-E00300103",
-      "prices": [
-        {
-          "price": "1.31",
-          "unit": "kWh",
-          "ts": "2022-06-05T05:23:05+02:00"
-        },
-        {
-          "price": "0.00",
-          "unit": "min",
-          "ts": "2022-06-05T05:23:05+02:00"
-        }
-      ],
+      "prices": [],
       "status": {
         "availability": 1,
         "status": 1,
@@ -22367,18 +22323,7 @@
     {
       "point_id": 131667,
       "code": "PL-BB4-E00300104",
-      "prices": [
-        {
-          "price": "1.31",
-          "unit": "kWh",
-          "ts": "2022-06-05T05:23:00+02:00"
-        },
-        {
-          "price": "0.00",
-          "unit": "min",
-          "ts": "2022-06-05T05:23:00+02:00"
-        }
-      ],
+      "prices": [],
       "status": {
         "availability": 1,
         "status": 1,
@@ -22388,18 +22333,7 @@
     {
       "point_id": 131670,
       "code": "PL-BB4-EP8CONUKY",
-      "prices": [
-        {
-          "price": "1.31",
-          "unit": "kWh",
-          "ts": "2022-06-05T05:23:05+02:00"
-        },
-        {
-          "price": "0.00",
-          "unit": "min",
-          "ts": "2022-06-05T05:23:05+02:00"
-        }
-      ],
+      "prices": [],
       "status": {
         "availability": 1,
         "status": 1,
@@ -22409,18 +22343,7 @@
     {
       "point_id": 131671,
       "code": "PL-BB4-ER1L5BUXZ",
-      "prices": [
-        {
-          "price": "1.31",
-          "unit": "kWh",
-          "ts": "2022-06-05T05:23:04+02:00"
-        },
-        {
-          "price": "0.00",
-          "unit": "min",
-          "ts": "2022-06-05T05:23:04+02:00"
-        }
-      ],
+      "prices": [],
       "status": {
         "availability": 1,
         "status": 1,
@@ -22430,18 +22353,7 @@
     {
       "point_id": 131672,
       "code": "PL-BB4-EIGAHPGE8",
-      "prices": [
-        {
-          "price": "1.31",
-          "unit": "kWh",
-          "ts": "2022-06-05T05:23:02+02:00"
-        },
-        {
-          "price": "0.00",
-          "unit": "min",
-          "ts": "2022-06-05T05:23:02+02:00"
-        }
-      ],
+      "prices": [],
       "status": {
         "availability": 1,
         "status": 0,
@@ -22451,18 +22363,7 @@
     {
       "point_id": 131673,
       "code": "PL-BB4-EOS7Y33W3",
-      "prices": [
-        {
-          "price": "1.31",
-          "unit": "kWh",
-          "ts": "2022-06-05T05:23:04+02:00"
-        },
-        {
-          "price": "0.00",
-          "unit": "min",
-          "ts": "2022-06-05T05:23:04+02:00"
-        }
-      ],
+      "prices": [],
       "status": {
         "availability": 1,
         "status": 1,
@@ -22472,18 +22373,7 @@
     {
       "point_id": 131675,
       "code": "PL-BB4-EE5NWK62Z",
-      "prices": [
-        {
-          "price": "1.31",
-          "unit": "kWh",
-          "ts": "2022-06-05T05:22:59+02:00"
-        },
-        {
-          "price": "0.00",
-          "unit": "min",
-          "ts": "2022-06-05T05:22:59+02:00"
-        }
-      ],
+      "prices": [],
       "status": {
         "availability": 1,
         "status": 1,
@@ -22493,18 +22383,7 @@
     {
       "point_id": 131674,
       "code": "PL-BB4-EOLQ41V5Z",
-      "prices": [
-        {
-          "price": "1.31",
-          "unit": "kWh",
-          "ts": "2022-06-05T05:23:00+02:00"
-        },
-        {
-          "price": "0.00",
-          "unit": "min",
-          "ts": "2022-06-05T05:23:00+02:00"
-        }
-      ],
+      "prices": [],
       "status": {
         "availability": 1,
         "status": 1,
@@ -22514,18 +22393,7 @@
     {
       "point_id": 131676,
       "code": "PL-BB4-E68ML85O6",
-      "prices": [
-        {
-          "price": "1.31",
-          "unit": "kWh",
-          "ts": "2022-06-05T05:22:58+02:00"
-        },
-        {
-          "price": "0.00",
-          "unit": "min",
-          "ts": "2022-06-05T05:22:58+02:00"
-        }
-      ],
+      "prices": [],
       "status": {
         "availability": 1,
         "status": 1,
@@ -22535,18 +22403,7 @@
     {
       "point_id": 131677,
       "code": "PL-BB4-E8E1D77TQ",
-      "prices": [
-        {
-          "price": "1.31",
-          "unit": "kWh",
-          "ts": "2022-06-05T05:22:57+02:00"
-        },
-        {
-          "price": "0.00",
-          "unit": "min",
-          "ts": "2022-06-05T05:22:57+02:00"
-        }
-      ],
+      "prices": [],
       "status": {
         "availability": 1,
         "status": 1,
@@ -22556,18 +22413,7 @@
     {
       "point_id": 131679,
       "code": "PL-BB4-ENTT4W20K",
-      "prices": [
-        {
-          "price": "1.31",
-          "unit": "kWh",
-          "ts": "2022-06-05T05:23:02+02:00"
-        },
-        {
-          "price": "0.00",
-          "unit": "min",
-          "ts": "2022-06-05T05:23:02+02:00"
-        }
-      ],
+      "prices": [],
       "status": {
         "availability": 1,
         "status": 1,
@@ -22577,18 +22423,7 @@
     {
       "point_id": 131678,
       "code": "PL-BB4-EQJTMV963",
-      "prices": [
-        {
-          "price": "1.31",
-          "unit": "kWh",
-          "ts": "2022-06-05T05:23:06+02:00"
-        },
-        {
-          "price": "0.00",
-          "unit": "min",
-          "ts": "2022-06-05T05:23:06+02:00"
-        }
-      ],
+      "prices": [],
       "status": {
         "availability": 1,
         "status": 1,
@@ -22598,18 +22433,7 @@
     {
       "point_id": 131680,
       "code": "PL-BB4-E0LAK2PNG",
-      "prices": [
-        {
-          "price": "1.31",
-          "unit": "kWh",
-          "ts": "2022-06-05T05:23:02+02:00"
-        },
-        {
-          "price": "0.00",
-          "unit": "min",
-          "ts": "2022-06-05T05:23:02+02:00"
-        }
-      ],
+      "prices": [],
       "status": {
         "availability": 1,
         "status": 1,
@@ -22619,18 +22443,7 @@
     {
       "point_id": 131681,
       "code": "PL-BB4-EIRBIJKUQ",
-      "prices": [
-        {
-          "price": "1.31",
-          "unit": "kWh",
-          "ts": "2022-06-05T05:23:04+02:00"
-        },
-        {
-          "price": "0.00",
-          "unit": "min",
-          "ts": "2022-06-05T05:23:04+02:00"
-        }
-      ],
+      "prices": [],
       "status": {
         "availability": 1,
         "status": 1,
@@ -22640,18 +22453,7 @@
     {
       "point_id": 131683,
       "code": "PL-BB4-E6XUFRD93",
-      "prices": [
-        {
-          "price": "1.31",
-          "unit": "kWh",
-          "ts": "2022-06-05T05:23:05+02:00"
-        },
-        {
-          "price": "0.00",
-          "unit": "min",
-          "ts": "2022-06-05T05:23:05+02:00"
-        }
-      ],
+      "prices": [],
       "status": {
         "availability": 1,
         "status": 1,
@@ -22661,18 +22463,7 @@
     {
       "point_id": 131682,
       "code": "PL-BB4-EQPYPJBVE",
-      "prices": [
-        {
-          "price": "1.31",
-          "unit": "kWh",
-          "ts": "2022-06-05T05:23:02+02:00"
-        },
-        {
-          "price": "0.00",
-          "unit": "min",
-          "ts": "2022-06-05T05:23:02+02:00"
-        }
-      ],
+      "prices": [],
       "status": {
         "availability": 1,
         "status": 1,
@@ -22682,18 +22473,7 @@
     {
       "point_id": 131685,
       "code": "PL-BB4-EFQUW2NJU",
-      "prices": [
-        {
-          "price": "1.31",
-          "unit": "kWh",
-          "ts": "2022-06-05T05:23:08+02:00"
-        },
-        {
-          "price": "0.00",
-          "unit": "min",
-          "ts": "2022-06-05T05:23:08+02:00"
-        }
-      ],
+      "prices": [],
       "status": {
         "availability": 1,
         "status": 1,
@@ -22703,18 +22483,7 @@
     {
       "point_id": 131684,
       "code": "PL-BB4-EIQ7V8TLK",
-      "prices": [
-        {
-          "price": "1.31",
-          "unit": "kWh",
-          "ts": "2022-06-05T05:23:08+02:00"
-        },
-        {
-          "price": "0.00",
-          "unit": "min",
-          "ts": "2022-06-05T05:23:08+02:00"
-        }
-      ],
+      "prices": [],
       "status": {
         "availability": 1,
         "status": 1,
@@ -22724,18 +22493,7 @@
     {
       "point_id": 131690,
       "code": "PL-BB4-ECQHZ5HE3",
-      "prices": [
-        {
-          "price": "1.31",
-          "unit": "kWh",
-          "ts": "2022-06-05T05:23:07+02:00"
-        },
-        {
-          "price": "0.00",
-          "unit": "min",
-          "ts": "2022-06-05T05:23:07+02:00"
-        }
-      ],
+      "prices": [],
       "status": {
         "availability": 1,
         "status": 1,
@@ -22745,18 +22503,7 @@
     {
       "point_id": 131691,
       "code": "PL-BB4-EQ98A6FJS",
-      "prices": [
-        {
-          "price": "1.31",
-          "unit": "kWh",
-          "ts": "2022-06-05T05:23:07+02:00"
-        },
-        {
-          "price": "0.00",
-          "unit": "min",
-          "ts": "2022-06-05T05:23:07+02:00"
-        }
-      ],
+      "prices": [],
       "status": {
         "availability": 1,
         "status": 1,
@@ -22766,18 +22513,7 @@
     {
       "point_id": 131692,
       "code": "PL-BB4-E02VMBTJY",
-      "prices": [
-        {
-          "price": "1.31",
-          "unit": "kWh",
-          "ts": "2022-06-05T05:23:02+02:00"
-        },
-        {
-          "price": "0.00",
-          "unit": "min",
-          "ts": "2022-06-05T05:23:02+02:00"
-        }
-      ],
+      "prices": [],
       "status": {
         "availability": 1,
         "status": 1,
@@ -22787,18 +22523,7 @@
     {
       "point_id": 131693,
       "code": "PL-BB4-ENQDNKGJF",
-      "prices": [
-        {
-          "price": "1.31",
-          "unit": "kWh",
-          "ts": "2022-06-05T05:22:59+02:00"
-        },
-        {
-          "price": "0.00",
-          "unit": "min",
-          "ts": "2022-06-05T05:22:59+02:00"
-        }
-      ],
+      "prices": [],
       "status": {
         "availability": 1,
         "status": 1,
@@ -22808,18 +22533,7 @@
     {
       "point_id": 131696,
       "code": "PL-BB4-EBM68Z1I5",
-      "prices": [
-        {
-          "price": "2.31",
-          "unit": "kWh",
-          "ts": "2022-06-05T05:22:57+02:00"
-        },
-        {
-          "price": "0.00",
-          "unit": "min",
-          "ts": "2022-06-05T05:22:57+02:00"
-        }
-      ],
+      "prices": [],
       "status": {
         "availability": 1,
         "status": 1,
@@ -22829,18 +22543,7 @@
     {
       "point_id": 131695,
       "code": "PL-BB4-EQO62DRCY",
-      "prices": [
-        {
-          "price": "2.31",
-          "unit": "kWh",
-          "ts": "2022-06-05T05:22:57+02:00"
-        },
-        {
-          "price": "0.00",
-          "unit": "min",
-          "ts": "2022-06-05T05:22:57+02:00"
-        }
-      ],
+      "prices": [],
       "status": {
         "availability": 1,
         "status": 1,
@@ -22850,18 +22553,7 @@
     {
       "point_id": 131694,
       "code": "PL-BB4-EUPUM9OHK",
-      "prices": [
-        {
-          "price": "1.31",
-          "unit": "kWh",
-          "ts": "2022-06-05T05:23:01+02:00"
-        },
-        {
-          "price": "0.00",
-          "unit": "min",
-          "ts": "2022-06-05T05:23:01+02:00"
-        }
-      ],
+      "prices": [],
       "status": {
         "availability": 1,
         "status": 1,
@@ -22871,18 +22563,7 @@
     {
       "point_id": 131697,
       "code": "PL-BB4-E9VU5US4H",
-      "prices": [
-        {
-          "price": "1.31",
-          "unit": "kWh",
-          "ts": "2022-06-05T05:23:04+02:00"
-        },
-        {
-          "price": "0.00",
-          "unit": "min",
-          "ts": "2022-06-05T05:23:04+02:00"
-        }
-      ],
+      "prices": [],
       "status": {
         "availability": 1,
         "status": 1,
@@ -22892,18 +22573,7 @@
     {
       "point_id": 131698,
       "code": "PL-BB4-ECRDSSURV",
-      "prices": [
-        {
-          "price": "1.31",
-          "unit": "kWh",
-          "ts": "2022-06-05T05:23:00+02:00"
-        },
-        {
-          "price": "0.00",
-          "unit": "min",
-          "ts": "2022-06-05T05:23:00+02:00"
-        }
-      ],
+      "prices": [],
       "status": {
         "availability": 1,
         "status": 1,
@@ -22913,18 +22583,7 @@
     {
       "point_id": 131700,
       "code": "PL-BB4-ERB4LWCTS",
-      "prices": [
-        {
-          "price": "2.31",
-          "unit": "kWh",
-          "ts": "2022-06-05T05:23:08+02:00"
-        },
-        {
-          "price": "0.00",
-          "unit": "min",
-          "ts": "2022-06-05T05:23:08+02:00"
-        }
-      ],
+      "prices": [],
       "status": {
         "availability": 1,
         "status": 1,
@@ -22934,18 +22593,7 @@
     {
       "point_id": 131699,
       "code": "PL-BB4-EX9TPIGT6",
-      "prices": [
-        {
-          "price": "1.31",
-          "unit": "kWh",
-          "ts": "2022-06-05T05:23:07+02:00"
-        },
-        {
-          "price": "0.00",
-          "unit": "min",
-          "ts": "2022-06-05T05:23:07+02:00"
-        }
-      ],
+      "prices": [],
       "status": {
         "availability": 1,
         "status": 1,
@@ -22955,18 +22603,7 @@
     {
       "point_id": 131703,
       "code": "PL-BB4-EEI0O203F",
-      "prices": [
-        {
-          "price": "1.31",
-          "unit": "kWh",
-          "ts": "2022-06-05T05:23:07+02:00"
-        },
-        {
-          "price": "0.00",
-          "unit": "min",
-          "ts": "2022-06-05T05:23:07+02:00"
-        }
-      ],
+      "prices": [],
       "status": {
         "availability": 1,
         "status": 1,
@@ -22976,18 +22613,7 @@
     {
       "point_id": 131701,
       "code": "PL-BB4-EKS52Q4Z3",
-      "prices": [
-        {
-          "price": "2.31",
-          "unit": "kWh",
-          "ts": "2022-06-05T05:23:03+02:00"
-        },
-        {
-          "price": "0.00",
-          "unit": "min",
-          "ts": "2022-06-05T05:23:03+02:00"
-        }
-      ],
+      "prices": [],
       "status": {
         "availability": 1,
         "status": 1,
@@ -22997,18 +22623,7 @@
     {
       "point_id": 131702,
       "code": "PL-BB4-EQO9MC3PM",
-      "prices": [
-        {
-          "price": "2.31",
-          "unit": "kWh",
-          "ts": "2022-06-05T05:23:03+02:00"
-        },
-        {
-          "price": "0.00",
-          "unit": "min",
-          "ts": "2022-06-05T05:23:03+02:00"
-        }
-      ],
+      "prices": [],
       "status": {
         "availability": 1,
         "status": 1,
@@ -23018,18 +22633,7 @@
     {
       "point_id": 131705,
       "code": "PL-BB4-E1N6DW73C",
-      "prices": [
-        {
-          "price": "1.31",
-          "unit": "kWh",
-          "ts": "2022-06-05T05:23:00+02:00"
-        },
-        {
-          "price": "0.00",
-          "unit": "min",
-          "ts": "2022-06-05T05:23:00+02:00"
-        }
-      ],
+      "prices": [],
       "status": {
         "availability": 1,
         "status": 1,
@@ -23039,18 +22643,7 @@
     {
       "point_id": 131704,
       "code": "PL-BB4-EIZLIGDV9",
-      "prices": [
-        {
-          "price": "1.31",
-          "unit": "kWh",
-          "ts": "2022-06-05T05:23:08+02:00"
-        },
-        {
-          "price": "0.00",
-          "unit": "min",
-          "ts": "2022-06-05T05:23:08+02:00"
-        }
-      ],
+      "prices": [],
       "status": {
         "availability": 1,
         "status": 1,
@@ -23081,18 +22674,7 @@
     {
       "point_id": 131706,
       "code": "PL-BB4-EYKRFFSNY",
-      "prices": [
-        {
-          "price": "1.31",
-          "unit": "kWh",
-          "ts": "2022-06-05T05:23:08+02:00"
-        },
-        {
-          "price": "0.00",
-          "unit": "min",
-          "ts": "2022-06-05T05:23:08+02:00"
-        }
-      ],
+      "prices": [],
       "status": {
         "availability": 1,
         "status": 1,
@@ -23123,18 +22705,7 @@
     {
       "point_id": 131708,
       "code": "PL-BB4-E6HWJV8PD",
-      "prices": [
-        {
-          "price": "2.31",
-          "unit": "kWh",
-          "ts": "2022-06-05T05:23:09+02:00"
-        },
-        {
-          "price": "0.00",
-          "unit": "min",
-          "ts": "2022-06-05T05:23:09+02:00"
-        }
-      ],
+      "prices": [],
       "status": {
         "availability": 1,
         "status": 1,
@@ -23144,18 +22715,7 @@
     {
       "point_id": 131710,
       "code": "PL-BB4-E957TAXOH",
-      "prices": [
-        {
-          "price": "1.31",
-          "unit": "kWh",
-          "ts": "2022-06-05T05:23:08+02:00"
-        },
-        {
-          "price": "0.00",
-          "unit": "min",
-          "ts": "2022-06-05T05:23:08+02:00"
-        }
-      ],
+      "prices": [],
       "status": {
         "availability": 1,
         "status": 1,
@@ -23186,18 +22746,7 @@
     {
       "point_id": 131714,
       "code": "PL-BB4-EBWZ0S26Z",
-      "prices": [
-        {
-          "price": "0.00",
-          "unit": "kWh",
-          "ts": "2022-06-05T05:23:05+02:00"
-        },
-        {
-          "price": "0.00",
-          "unit": "min",
-          "ts": "2022-06-05T05:23:05+02:00"
-        }
-      ],
+      "prices": [],
       "status": {
         "availability": 1,
         "status": 1,
@@ -23207,18 +22756,7 @@
     {
       "point_id": 131716,
       "code": "PL-BB4-EC2QIDXTT",
-      "prices": [
-        {
-          "price": "0.00",
-          "unit": "kWh",
-          "ts": "2022-06-05T05:23:06+02:00"
-        },
-        {
-          "price": "0.00",
-          "unit": "min",
-          "ts": "2022-06-05T05:23:06+02:00"
-        }
-      ],
+      "prices": [],
       "status": {
         "availability": 1,
         "status": 1,
@@ -23228,18 +22766,7 @@
     {
       "point_id": 131715,
       "code": "PL-BB4-EOSFCD9O7",
-      "prices": [
-        {
-          "price": "0.00",
-          "unit": "kWh",
-          "ts": "2022-06-05T05:22:58+02:00"
-        },
-        {
-          "price": "0.00",
-          "unit": "min",
-          "ts": "2022-06-05T05:22:58+02:00"
-        }
-      ],
+      "prices": [],
       "status": {
         "availability": 1,
         "status": 1,
@@ -23249,18 +22776,7 @@
     {
       "point_id": 131713,
       "code": "PL-BB4-EQITDH273",
-      "prices": [
-        {
-          "price": "0.00",
-          "unit": "kWh",
-          "ts": "2022-06-05T05:22:59+02:00"
-        },
-        {
-          "price": "0.00",
-          "unit": "min",
-          "ts": "2022-06-05T05:22:59+02:00"
-        }
-      ],
+      "prices": [],
       "status": {
         "availability": 1,
         "status": 0,
@@ -23270,18 +22786,7 @@
     {
       "point_id": 131717,
       "code": "PL-BB4-E7UOC6ROC",
-      "prices": [
-        {
-          "price": "2.31",
-          "unit": "kWh",
-          "ts": "2022-06-05T05:22:58+02:00"
-        },
-        {
-          "price": "0.00",
-          "unit": "min",
-          "ts": "2022-06-05T05:22:58+02:00"
-        }
-      ],
+      "prices": [],
       "status": {
         "availability": 1,
         "status": 1,
@@ -23291,18 +22796,7 @@
     {
       "point_id": 131718,
       "code": "PL-BB4-EG2R625CB",
-      "prices": [
-        {
-          "price": "2.31",
-          "unit": "kWh",
-          "ts": "2022-06-05T05:22:58+02:00"
-        },
-        {
-          "price": "0.00",
-          "unit": "min",
-          "ts": "2022-06-05T05:22:58+02:00"
-        }
-      ],
+      "prices": [],
       "status": {
         "availability": 1,
         "status": 1,
@@ -23312,18 +22806,7 @@
     {
       "point_id": 131719,
       "code": "PL-BB4-ESNLT3AXG",
-      "prices": [
-        {
-          "price": "1.31",
-          "unit": "kWh",
-          "ts": "2022-06-05T05:22:58+02:00"
-        },
-        {
-          "price": "0.00",
-          "unit": "min",
-          "ts": "2022-06-05T05:22:58+02:00"
-        }
-      ],
+      "prices": [],
       "status": {
         "availability": 1,
         "status": 1,
@@ -23333,18 +22816,7 @@
     {
       "point_id": 131722,
       "code": "PL-BB4-E50IEFKU6",
-      "prices": [
-        {
-          "price": "1.31",
-          "unit": "kWh",
-          "ts": "2022-06-05T05:23:00+02:00"
-        },
-        {
-          "price": "0.00",
-          "unit": "min",
-          "ts": "2022-06-05T05:23:00+02:00"
-        }
-      ],
+      "prices": [],
       "status": {
         "availability": 1,
         "status": 1,
@@ -23354,18 +22826,7 @@
     {
       "point_id": 131721,
       "code": "PL-BB4-EPM7PNGJG",
-      "prices": [
-        {
-          "price": "2.31",
-          "unit": "kWh",
-          "ts": "2022-06-05T05:23:00+02:00"
-        },
-        {
-          "price": "0.00",
-          "unit": "min",
-          "ts": "2022-06-05T05:23:00+02:00"
-        }
-      ],
+      "prices": [],
       "status": {
         "availability": 1,
         "status": 1,
@@ -23375,18 +22836,7 @@
     {
       "point_id": 131720,
       "code": "PL-BB4-EVJIG29ND",
-      "prices": [
-        {
-          "price": "2.31",
-          "unit": "kWh",
-          "ts": "2022-06-05T05:23:01+02:00"
-        },
-        {
-          "price": "0.00",
-          "unit": "min",
-          "ts": "2022-06-05T05:23:01+02:00"
-        }
-      ],
+      "prices": [],
       "status": {
         "availability": 1,
         "status": 1,
@@ -23396,18 +22846,7 @@
     {
       "point_id": 131724,
       "code": "PL-BB4-EP4GZJHS2",
-      "prices": [
-        {
-          "price": "1.31",
-          "unit": "kWh",
-          "ts": "2022-06-05T05:23:05+02:00"
-        },
-        {
-          "price": "0.00",
-          "unit": "min",
-          "ts": "2022-06-05T05:23:05+02:00"
-        }
-      ],
+      "prices": [],
       "status": {
         "availability": 1,
         "status": 0,
@@ -23417,18 +22856,7 @@
     {
       "point_id": 131723,
       "code": "PL-BB4-EPXBGKIIU",
-      "prices": [
-        {
-          "price": "1.31",
-          "unit": "kWh",
-          "ts": "2022-06-05T05:23:06+02:00"
-        },
-        {
-          "price": "0.00",
-          "unit": "min",
-          "ts": "2022-06-05T05:23:06+02:00"
-        }
-      ],
+      "prices": [],
       "status": {
         "availability": 1,
         "status": 1,
@@ -23438,18 +22866,7 @@
     {
       "point_id": 132334,
       "code": "PL-BB4-E0DQSSIYG",
-      "prices": [
-        {
-          "price": "1.31",
-          "unit": "kWh",
-          "ts": "2022-06-05T05:22:57+02:00"
-        },
-        {
-          "price": "0.00",
-          "unit": "min",
-          "ts": "2022-06-05T05:22:57+02:00"
-        }
-      ],
+      "prices": [],
       "status": {
         "availability": 1,
         "status": 1,
@@ -23459,18 +22876,7 @@
     {
       "point_id": 131725,
       "code": "PL-BB4-E0WJEBUT8",
-      "prices": [
-        {
-          "price": "1.31",
-          "unit": "kWh",
-          "ts": "2022-06-05T05:22:58+02:00"
-        },
-        {
-          "price": "0.00",
-          "unit": "min",
-          "ts": "2022-06-05T05:22:58+02:00"
-        }
-      ],
+      "prices": [],
       "status": {
         "availability": 1,
         "status": 1,
@@ -23480,18 +22886,7 @@
     {
       "point_id": 132335,
       "code": "PL-BB4-ENJ1QYBPC",
-      "prices": [
-        {
-          "price": "1.31",
-          "unit": "kWh",
-          "ts": "2022-06-05T05:23:05+02:00"
-        },
-        {
-          "price": "0.00",
-          "unit": "min",
-          "ts": "2022-06-05T05:23:05+02:00"
-        }
-      ],
+      "prices": [],
       "status": {
         "availability": 1,
         "status": 1,
@@ -23501,18 +22896,7 @@
     {
       "point_id": 131726,
       "code": "PL-BB4-EXTYXI33W",
-      "prices": [
-        {
-          "price": "1.31",
-          "unit": "kWh",
-          "ts": "2022-06-05T05:22:58+02:00"
-        },
-        {
-          "price": "0.00",
-          "unit": "min",
-          "ts": "2022-06-05T05:22:58+02:00"
-        }
-      ],
+      "prices": [],
       "status": {
         "availability": 1,
         "status": 1,
@@ -23522,18 +22906,7 @@
     {
       "point_id": 131732,
       "code": "PL-BB4-E50QGL7VJ",
-      "prices": [
-        {
-          "price": "0.00",
-          "unit": "kWh",
-          "ts": "2022-06-05T05:22:58+02:00"
-        },
-        {
-          "price": "0.00",
-          "unit": "min",
-          "ts": "2022-06-05T05:22:58+02:00"
-        }
-      ],
+      "prices": [],
       "status": {
         "availability": 1,
         "status": 1,
@@ -23543,18 +22916,7 @@
     {
       "point_id": 131731,
       "code": "PL-BB4-E9NUMPJZ0",
-      "prices": [
-        {
-          "price": "0.00",
-          "unit": "kWh",
-          "ts": "2022-06-05T05:23:04+02:00"
-        },
-        {
-          "price": "0.00",
-          "unit": "min",
-          "ts": "2022-06-05T05:23:04+02:00"
-        }
-      ],
+      "prices": [],
       "status": {
         "availability": 1,
         "status": 1,
@@ -23564,18 +22926,7 @@
     {
       "point_id": 131729,
       "code": "PL-BB4-EFKYJ5Z7N",
-      "prices": [
-        {
-          "price": "0.00",
-          "unit": "kWh",
-          "ts": "2022-06-05T05:23:05+02:00"
-        },
-        {
-          "price": "0.00",
-          "unit": "min",
-          "ts": "2022-06-05T05:23:05+02:00"
-        }
-      ],
+      "prices": [],
       "status": {
         "availability": 1,
         "status": 1,
@@ -23585,18 +22936,7 @@
     {
       "point_id": 131730,
       "code": "PL-BB4-EXR0IJ69Z",
-      "prices": [
-        {
-          "price": "0.00",
-          "unit": "kWh",
-          "ts": "2022-06-05T05:23:00+02:00"
-        },
-        {
-          "price": "0.00",
-          "unit": "min",
-          "ts": "2022-06-05T05:23:00+02:00"
-        }
-      ],
+      "prices": [],
       "status": {
         "availability": 1,
         "status": 1,
@@ -23606,18 +22946,7 @@
     {
       "point_id": 131736,
       "code": "PL-BB4-E034VW04E",
-      "prices": [
-        {
-          "price": "0.00",
-          "unit": "kWh",
-          "ts": "2022-06-05T05:23:07+02:00"
-        },
-        {
-          "price": "0.00",
-          "unit": "min",
-          "ts": "2022-06-05T05:23:07+02:00"
-        }
-      ],
+      "prices": [],
       "status": {
         "availability": 1,
         "status": 1,
@@ -23627,18 +22956,7 @@
     {
       "point_id": 131735,
       "code": "PL-BB4-E1EM12UP1",
-      "prices": [
-        {
-          "price": "0.00",
-          "unit": "kWh",
-          "ts": "2022-06-05T05:23:08+02:00"
-        },
-        {
-          "price": "0.00",
-          "unit": "min",
-          "ts": "2022-06-05T05:23:08+02:00"
-        }
-      ],
+      "prices": [],
       "status": {
         "availability": 1,
         "status": 1,
@@ -23648,18 +22966,7 @@
     {
       "point_id": 131734,
       "code": "PL-BB4-EIZDXFOP4",
-      "prices": [
-        {
-          "price": "0.00",
-          "unit": "kWh",
-          "ts": "2022-06-05T05:23:07+02:00"
-        },
-        {
-          "price": "0.00",
-          "unit": "min",
-          "ts": "2022-06-05T05:23:07+02:00"
-        }
-      ],
+      "prices": [],
       "status": {
         "availability": 1,
         "status": 1,
@@ -23669,18 +22976,7 @@
     {
       "point_id": 131733,
       "code": "PL-BB4-EX82GVAGC",
-      "prices": [
-        {
-          "price": "0.00",
-          "unit": "kWh",
-          "ts": "2022-06-05T05:23:07+02:00"
-        },
-        {
-          "price": "0.00",
-          "unit": "min",
-          "ts": "2022-06-05T05:23:07+02:00"
-        }
-      ],
+      "prices": [],
       "status": {
         "availability": 1,
         "status": 1,
@@ -23690,18 +22986,7 @@
     {
       "point_id": 131738,
       "code": "PL-BB4-E8VUXO122",
-      "prices": [
-        {
-          "price": "0.00",
-          "unit": "kWh",
-          "ts": "2022-06-05T05:23:05+02:00"
-        },
-        {
-          "price": "0.00",
-          "unit": "min",
-          "ts": "2022-06-05T05:23:05+02:00"
-        }
-      ],
+      "prices": [],
       "status": {
         "availability": 1,
         "status": 1,
@@ -23711,18 +22996,7 @@
     {
       "point_id": 131739,
       "code": "PL-BB4-EATL9V8WZ",
-      "prices": [
-        {
-          "price": "0.00",
-          "unit": "kWh",
-          "ts": "2022-06-05T05:22:58+02:00"
-        },
-        {
-          "price": "0.00",
-          "unit": "min",
-          "ts": "2022-06-05T05:22:58+02:00"
-        }
-      ],
+      "prices": [],
       "status": {
         "availability": 1,
         "status": 1,
@@ -23732,18 +23006,7 @@
     {
       "point_id": 131737,
       "code": "PL-BB4-ELDCJB3RF",
-      "prices": [
-        {
-          "price": "0.00",
-          "unit": "kWh",
-          "ts": "2022-06-05T05:23:05+02:00"
-        },
-        {
-          "price": "0.00",
-          "unit": "min",
-          "ts": "2022-06-05T05:23:05+02:00"
-        }
-      ],
+      "prices": [],
       "status": {
         "availability": 1,
         "status": 1,
@@ -23753,18 +23016,7 @@
     {
       "point_id": 131740,
       "code": "PL-BB4-EM55FJBIE",
-      "prices": [
-        {
-          "price": "0.00",
-          "unit": "kWh",
-          "ts": "2022-06-05T05:23:00+02:00"
-        },
-        {
-          "price": "0.00",
-          "unit": "min",
-          "ts": "2022-06-05T05:23:00+02:00"
-        }
-      ],
+      "prices": [],
       "status": {
         "availability": 1,
         "status": 1,
@@ -23774,18 +23026,7 @@
     {
       "point_id": 131741,
       "code": "PL-BB4-E1ZCO51N2",
-      "prices": [
-        {
-          "price": "1.31",
-          "unit": "kWh",
-          "ts": "2022-06-05T05:23:06+02:00"
-        },
-        {
-          "price": "0.00",
-          "unit": "min",
-          "ts": "2022-06-05T05:23:06+02:00"
-        }
-      ],
+      "prices": [],
       "status": {
         "availability": 1,
         "status": 1,
@@ -23795,18 +23036,7 @@
     {
       "point_id": 131742,
       "code": "PL-BB4-EQGXW2CSL",
-      "prices": [
-        {
-          "price": "1.31",
-          "unit": "kWh",
-          "ts": "2022-06-05T05:23:06+02:00"
-        },
-        {
-          "price": "0.00",
-          "unit": "min",
-          "ts": "2022-06-05T05:23:06+02:00"
-        }
-      ],
+      "prices": [],
       "status": {
         "availability": 1,
         "status": 1,
@@ -23816,18 +23046,7 @@
     {
       "point_id": 131743,
       "code": "PL-BB4-EGC71YH51",
-      "prices": [
-        {
-          "price": "1.31",
-          "unit": "kWh",
-          "ts": "2022-06-05T05:23:03+02:00"
-        },
-        {
-          "price": "0.00",
-          "unit": "min",
-          "ts": "2022-06-05T05:23:03+02:00"
-        }
-      ],
+      "prices": [],
       "status": {
         "availability": 1,
         "status": 1,
@@ -23837,18 +23056,7 @@
     {
       "point_id": 131744,
       "code": "PL-BB4-EP0O7W8ZW",
-      "prices": [
-        {
-          "price": "1.31",
-          "unit": "kWh",
-          "ts": "2022-06-05T05:23:06+02:00"
-        },
-        {
-          "price": "0.00",
-          "unit": "min",
-          "ts": "2022-06-05T05:23:06+02:00"
-        }
-      ],
+      "prices": [],
       "status": {
         "availability": 1,
         "status": 1,
@@ -23858,18 +23066,7 @@
     {
       "point_id": 131746,
       "code": "PL-BB4-EHV46OBK8",
-      "prices": [
-        {
-          "price": "1.31",
-          "unit": "kWh",
-          "ts": "2022-06-05T05:23:05+02:00"
-        },
-        {
-          "price": "0.00",
-          "unit": "min",
-          "ts": "2022-06-05T05:23:05+02:00"
-        }
-      ],
+      "prices": [],
       "status": {
         "availability": 1,
         "status": 1,
@@ -23879,18 +23076,7 @@
     {
       "point_id": 131745,
       "code": "PL-BB4-EWIH1FZMV",
-      "prices": [
-        {
-          "price": "1.31",
-          "unit": "kWh",
-          "ts": "2022-06-05T05:23:02+02:00"
-        },
-        {
-          "price": "0.00",
-          "unit": "min",
-          "ts": "2022-06-05T05:23:02+02:00"
-        }
-      ],
+      "prices": [],
       "status": {
         "availability": 1,
         "status": 1,
@@ -23900,18 +23086,7 @@
     {
       "point_id": 131747,
       "code": "PL-BB4-E4EV2L90P",
-      "prices": [
-        {
-          "price": "1.31",
-          "unit": "kWh",
-          "ts": "2022-06-05T05:22:58+02:00"
-        },
-        {
-          "price": "0.00",
-          "unit": "min",
-          "ts": "2022-06-05T05:22:58+02:00"
-        }
-      ],
+      "prices": [],
       "status": {
         "availability": 1,
         "status": 1,
@@ -23921,18 +23096,7 @@
     {
       "point_id": 131748,
       "code": "PL-BB4-EEKOD8VXA",
-      "prices": [
-        {
-          "price": "1.31",
-          "unit": "kWh",
-          "ts": "2022-06-05T05:23:05+02:00"
-        },
-        {
-          "price": "0.00",
-          "unit": "min",
-          "ts": "2022-06-05T05:23:05+02:00"
-        }
-      ],
+      "prices": [],
       "status": {
         "availability": 1,
         "status": 1,
@@ -23942,18 +23106,7 @@
     {
       "point_id": 131749,
       "code": "PL-BB4-E37LK1H5B",
-      "prices": [
-        {
-          "price": "1.31",
-          "unit": "kWh",
-          "ts": "2022-06-05T05:23:04+02:00"
-        },
-        {
-          "price": "0.00",
-          "unit": "min",
-          "ts": "2022-06-05T05:23:04+02:00"
-        }
-      ],
+      "prices": [],
       "status": {
         "availability": 1,
         "status": 1,
@@ -23963,18 +23116,7 @@
     {
       "point_id": 131750,
       "code": "PL-BB4-EIUPXDM9F",
-      "prices": [
-        {
-          "price": "1.31",
-          "unit": "kWh",
-          "ts": "2022-06-05T05:22:59+02:00"
-        },
-        {
-          "price": "0.00",
-          "unit": "min",
-          "ts": "2022-06-05T05:22:59+02:00"
-        }
-      ],
+      "prices": [],
       "status": {
         "availability": 1,
         "status": 1,
@@ -23984,18 +23126,7 @@
     {
       "point_id": 131751,
       "code": "PL-BB4-E2AFFHCVK",
-      "prices": [
-        {
-          "price": "1.31",
-          "unit": "kWh",
-          "ts": "2022-06-05T05:23:06+02:00"
-        },
-        {
-          "price": "0.00",
-          "unit": "min",
-          "ts": "2022-06-05T05:23:06+02:00"
-        }
-      ],
+      "prices": [],
       "status": {
         "availability": 1,
         "status": 1,
@@ -24005,18 +23136,7 @@
     {
       "point_id": 131752,
       "code": "PL-BB4-EN3V8JP8S",
-      "prices": [
-        {
-          "price": "1.31",
-          "unit": "kWh",
-          "ts": "2022-06-05T05:23:00+02:00"
-        },
-        {
-          "price": "0.00",
-          "unit": "min",
-          "ts": "2022-06-05T05:23:00+02:00"
-        }
-      ],
+      "prices": [],
       "status": {
         "availability": 1,
         "status": 0,
@@ -24026,18 +23146,7 @@
     {
       "point_id": 131754,
       "code": "PL-BB4-ECQAYX6OX",
-      "prices": [
-        {
-          "price": "1.31",
-          "unit": "kWh",
-          "ts": "2022-06-05T05:22:59+02:00"
-        },
-        {
-          "price": "0.00",
-          "unit": "min",
-          "ts": "2022-06-05T05:22:59+02:00"
-        }
-      ],
+      "prices": [],
       "status": {
         "availability": 1,
         "status": 1,
@@ -24047,18 +23156,7 @@
     {
       "point_id": 131753,
       "code": "PL-BB4-ENWGY9U62",
-      "prices": [
-        {
-          "price": "1.31",
-          "unit": "kWh",
-          "ts": "2022-06-05T05:23:00+02:00"
-        },
-        {
-          "price": "0.00",
-          "unit": "min",
-          "ts": "2022-06-05T05:23:00+02:00"
-        }
-      ],
+      "prices": [],
       "status": {
         "availability": 1,
         "status": 1,
@@ -24068,18 +23166,7 @@
     {
       "point_id": 131755,
       "code": "PL-BB4-E2CA17OOS",
-      "prices": [
-        {
-          "price": "1.31",
-          "unit": "kWh",
-          "ts": "2022-06-05T05:23:06+02:00"
-        },
-        {
-          "price": "0.00",
-          "unit": "min",
-          "ts": "2022-06-05T05:23:06+02:00"
-        }
-      ],
+      "prices": [],
       "status": {
         "availability": 1,
         "status": 1,
@@ -24089,18 +23176,7 @@
     {
       "point_id": 131756,
       "code": "PL-BB4-E2S5EGG5G",
-      "prices": [
-        {
-          "price": "1.31",
-          "unit": "kWh",
-          "ts": "2022-06-05T05:23:02+02:00"
-        },
-        {
-          "price": "0.00",
-          "unit": "min",
-          "ts": "2022-06-05T05:23:02+02:00"
-        }
-      ],
+      "prices": [],
       "status": {
         "availability": 1,
         "status": 1,
@@ -24110,18 +23186,7 @@
     {
       "point_id": 131757,
       "code": "PL-BB4-E18Q21BTF",
-      "prices": [
-        {
-          "price": "1.31",
-          "unit": "kWh",
-          "ts": "2022-06-05T05:23:07+02:00"
-        },
-        {
-          "price": "0.00",
-          "unit": "min",
-          "ts": "2022-06-05T05:23:07+02:00"
-        }
-      ],
+      "prices": [],
       "status": {
         "availability": 1,
         "status": 1,
@@ -24131,18 +23196,7 @@
     {
       "point_id": 131758,
       "code": "PL-BB4-EX2WQFMUF",
-      "prices": [
-        {
-          "price": "1.31",
-          "unit": "kWh",
-          "ts": "2022-06-05T05:23:07+02:00"
-        },
-        {
-          "price": "0.00",
-          "unit": "min",
-          "ts": "2022-06-05T05:23:07+02:00"
-        }
-      ],
+      "prices": [],
       "status": {
         "availability": 1,
         "status": 1,
@@ -24152,18 +23206,7 @@
     {
       "point_id": 131759,
       "code": "PL-BB4-ECQS2GCKC",
-      "prices": [
-        {
-          "price": "1.31",
-          "unit": "kWh",
-          "ts": "2022-06-05T05:23:07+02:00"
-        },
-        {
-          "price": "0.00",
-          "unit": "min",
-          "ts": "2022-06-05T05:23:07+02:00"
-        }
-      ],
+      "prices": [],
       "status": {
         "availability": 1,
         "status": 1,
@@ -24173,18 +23216,7 @@
     {
       "point_id": 131760,
       "code": "PL-BB4-EEYQMT9AN",
-      "prices": [
-        {
-          "price": "1.31",
-          "unit": "kWh",
-          "ts": "2022-06-05T05:23:07+02:00"
-        },
-        {
-          "price": "0.00",
-          "unit": "min",
-          "ts": "2022-06-05T05:23:07+02:00"
-        }
-      ],
+      "prices": [],
       "status": {
         "availability": 1,
         "status": 1,
@@ -24194,18 +23226,7 @@
     {
       "point_id": 131762,
       "code": "PL-BB4-EK5YGT2PR",
-      "prices": [
-        {
-          "price": "1.31",
-          "unit": "kWh",
-          "ts": "2022-06-05T05:23:06+02:00"
-        },
-        {
-          "price": "0.00",
-          "unit": "min",
-          "ts": "2022-06-05T05:23:06+02:00"
-        }
-      ],
+      "prices": [],
       "status": {
         "availability": 1,
         "status": 1,
@@ -24215,18 +23236,7 @@
     {
       "point_id": 131761,
       "code": "PL-BB4-EQFDVMNLK",
-      "prices": [
-        {
-          "price": "1.31",
-          "unit": "kWh",
-          "ts": "2022-06-05T05:23:04+02:00"
-        },
-        {
-          "price": "0.00",
-          "unit": "min",
-          "ts": "2022-06-05T05:23:04+02:00"
-        }
-      ],
+      "prices": [],
       "status": {
         "availability": 1,
         "status": 1,
@@ -24236,18 +23246,7 @@
     {
       "point_id": 131764,
       "code": "PL-BB4-EEL3BUPG6",
-      "prices": [
-        {
-          "price": "1.31",
-          "unit": "kWh",
-          "ts": "2022-06-05T05:23:04+02:00"
-        },
-        {
-          "price": "0.00",
-          "unit": "min",
-          "ts": "2022-06-05T05:23:04+02:00"
-        }
-      ],
+      "prices": [],
       "status": {
         "availability": 1,
         "status": 1,
@@ -24257,18 +23256,7 @@
     {
       "point_id": 131763,
       "code": "PL-BB4-EWPA632XG",
-      "prices": [
-        {
-          "price": "1.31",
-          "unit": "kWh",
-          "ts": "2022-06-05T05:23:03+02:00"
-        },
-        {
-          "price": "0.00",
-          "unit": "min",
-          "ts": "2022-06-05T05:23:03+02:00"
-        }
-      ],
+      "prices": [],
       "status": {
         "availability": 1,
         "status": 1,
@@ -24278,18 +23266,7 @@
     {
       "point_id": 131766,
       "code": "PL-BB4-E45XJPGI1",
-      "prices": [
-        {
-          "price": "1.31",
-          "unit": "kWh",
-          "ts": "2022-06-05T05:23:04+02:00"
-        },
-        {
-          "price": "0.00",
-          "unit": "min",
-          "ts": "2022-06-05T05:23:04+02:00"
-        }
-      ],
+      "prices": [],
       "status": {
         "availability": 1,
         "status": 1,
@@ -24299,18 +23276,7 @@
     {
       "point_id": 131765,
       "code": "PL-BB4-EVN3FSWP9",
-      "prices": [
-        {
-          "price": "1.31",
-          "unit": "kWh",
-          "ts": "2022-06-05T05:22:57+02:00"
-        },
-        {
-          "price": "0.00",
-          "unit": "min",
-          "ts": "2022-06-05T05:22:57+02:00"
-        }
-      ],
+      "prices": [],
       "status": {
         "availability": 1,
         "status": 1,
@@ -24320,18 +23286,7 @@
     {
       "point_id": 131768,
       "code": "PL-BB4-E51Z3UOQ0",
-      "prices": [
-        {
-          "price": "1.31",
-          "unit": "kWh",
-          "ts": "2022-06-05T05:23:07+02:00"
-        },
-        {
-          "price": "0.00",
-          "unit": "min",
-          "ts": "2022-06-05T05:23:07+02:00"
-        }
-      ],
+      "prices": [],
       "status": {
         "availability": 1,
         "status": 1,
@@ -24341,18 +23296,7 @@
     {
       "point_id": 131767,
       "code": "PL-BB4-ENOH2YN0C",
-      "prices": [
-        {
-          "price": "1.31",
-          "unit": "kWh",
-          "ts": "2022-06-05T05:23:08+02:00"
-        },
-        {
-          "price": "0.00",
-          "unit": "min",
-          "ts": "2022-06-05T05:23:08+02:00"
-        }
-      ],
+      "prices": [],
       "status": {
         "availability": 1,
         "status": 1,
@@ -24362,18 +23306,7 @@
     {
       "point_id": 131769,
       "code": "PL-BB4-EELIGTU1U",
-      "prices": [
-        {
-          "price": "1.49",
-          "unit": "kWh",
-          "ts": "2022-06-05T05:23:08+02:00"
-        },
-        {
-          "price": "0.00",
-          "unit": "min",
-          "ts": "2022-06-05T05:23:08+02:00"
-        }
-      ],
+      "prices": [],
       "status": {
         "availability": 1,
         "status": 1,
@@ -24383,18 +23316,7 @@
     {
       "point_id": 131770,
       "code": "PL-BB4-EXTIX8Y1J",
-      "prices": [
-        {
-          "price": "1.49",
-          "unit": "kWh",
-          "ts": "2022-06-05T05:23:07+02:00"
-        },
-        {
-          "price": "0.00",
-          "unit": "min",
-          "ts": "2022-06-05T05:23:07+02:00"
-        }
-      ],
+      "prices": [],
       "status": {
         "availability": 1,
         "status": 1,
@@ -24404,18 +23326,7 @@
     {
       "point_id": 131771,
       "code": "PL-BB4-EK3FDNDK7",
-      "prices": [
-        {
-          "price": "1.49",
-          "unit": "kWh",
-          "ts": "2022-06-05T05:23:04+02:00"
-        },
-        {
-          "price": "0.00",
-          "unit": "min",
-          "ts": "2022-06-05T05:23:04+02:00"
-        }
-      ],
+      "prices": [],
       "status": {
         "availability": 1,
         "status": 1,
@@ -24425,18 +23336,7 @@
     {
       "point_id": 131772,
       "code": "PL-BB4-ENESX3MG4",
-      "prices": [
-        {
-          "price": "1.49",
-          "unit": "kWh",
-          "ts": "2022-06-05T05:22:58+02:00"
-        },
-        {
-          "price": "0.00",
-          "unit": "min",
-          "ts": "2022-06-05T05:22:58+02:00"
-        }
-      ],
+      "prices": [],
       "status": {
         "availability": 1,
         "status": 1,
@@ -24446,18 +23346,7 @@
     {
       "point_id": 131776,
       "code": "PL-BB4-E92TTICQ6",
-      "prices": [
-        {
-          "price": "1.31",
-          "unit": "kWh",
-          "ts": "2022-06-05T05:23:00+02:00"
-        },
-        {
-          "price": "0.00",
-          "unit": "min",
-          "ts": "2022-06-05T05:23:00+02:00"
-        }
-      ],
+      "prices": [],
       "status": {
         "availability": 1,
         "status": 1,
@@ -24467,18 +23356,7 @@
     {
       "point_id": 131774,
       "code": "PL-BB4-EH69VYXUS",
-      "prices": [
-        {
-          "price": "1.31",
-          "unit": "kWh",
-          "ts": "2022-06-05T05:22:58+02:00"
-        },
-        {
-          "price": "0.00",
-          "unit": "min",
-          "ts": "2022-06-05T05:22:58+02:00"
-        }
-      ],
+      "prices": [],
       "status": {
         "availability": 1,
         "status": 1,
@@ -24488,18 +23366,7 @@
     {
       "point_id": 131775,
       "code": "PL-BB4-EJPYOMG3D",
-      "prices": [
-        {
-          "price": "1.31",
-          "unit": "kWh",
-          "ts": "2022-06-05T05:22:59+02:00"
-        },
-        {
-          "price": "0.00",
-          "unit": "min",
-          "ts": "2022-06-05T05:22:59+02:00"
-        }
-      ],
+      "prices": [],
       "status": {
         "availability": 1,
         "status": 1,
@@ -24509,18 +23376,7 @@
     {
       "point_id": 131773,
       "code": "PL-BB4-EUH09LY6K",
-      "prices": [
-        {
-          "price": "1.31",
-          "unit": "kWh",
-          "ts": "2022-06-05T05:23:04+02:00"
-        },
-        {
-          "price": "0.00",
-          "unit": "min",
-          "ts": "2022-06-05T05:23:04+02:00"
-        }
-      ],
+      "prices": [],
       "status": {
         "availability": 1,
         "status": 1,
@@ -24530,18 +23386,7 @@
     {
       "point_id": 131778,
       "code": "PL-BB4-EI39SSA5T",
-      "prices": [
-        {
-          "price": "1.31",
-          "unit": "kWh",
-          "ts": "2022-06-05T05:23:05+02:00"
-        },
-        {
-          "price": "0.00",
-          "unit": "min",
-          "ts": "2022-06-05T05:23:05+02:00"
-        }
-      ],
+      "prices": [],
       "status": {
         "availability": 1,
         "status": 1,
@@ -24551,18 +23396,7 @@
     {
       "point_id": 131777,
       "code": "PL-BB4-EZRHCXHIK",
-      "prices": [
-        {
-          "price": "1.31",
-          "unit": "kWh",
-          "ts": "2022-06-05T05:22:59+02:00"
-        },
-        {
-          "price": "0.00",
-          "unit": "min",
-          "ts": "2022-06-05T05:22:59+02:00"
-        }
-      ],
+      "prices": [],
       "status": {
         "availability": 1,
         "status": 1,
@@ -24572,18 +23406,7 @@
     {
       "point_id": 131780,
       "code": "PL-BB4-EFNMP2IMU",
-      "prices": [
-        {
-          "price": "2.31",
-          "unit": "kWh",
-          "ts": "2022-06-05T05:22:58+02:00"
-        },
-        {
-          "price": "0.00",
-          "unit": "min",
-          "ts": "2022-06-05T05:22:58+02:00"
-        }
-      ],
+      "prices": [],
       "status": {
         "availability": 1,
         "status": 1,
@@ -24593,18 +23416,7 @@
     {
       "point_id": 131779,
       "code": "PL-BB4-EYI29334X",
-      "prices": [
-        {
-          "price": "2.31",
-          "unit": "kWh",
-          "ts": "2022-06-05T05:23:05+02:00"
-        },
-        {
-          "price": "0.00",
-          "unit": "min",
-          "ts": "2022-06-05T05:23:05+02:00"
-        }
-      ],
+      "prices": [],
       "status": {
         "availability": 1,
         "status": 1,
@@ -24614,18 +23426,7 @@
     {
       "point_id": 131781,
       "code": "PL-BB4-E498VB0WC",
-      "prices": [
-        {
-          "price": "1.31",
-          "unit": "kWh",
-          "ts": "2022-06-05T05:23:04+02:00"
-        },
-        {
-          "price": "0.00",
-          "unit": "min",
-          "ts": "2022-06-05T05:23:04+02:00"
-        }
-      ],
+      "prices": [],
       "status": {
         "availability": 1,
         "status": 0,
@@ -24635,18 +23436,7 @@
     {
       "point_id": 131782,
       "code": "PL-BB4-EXNFFRES0",
-      "prices": [
-        {
-          "price": "1.31",
-          "unit": "kWh",
-          "ts": "2022-06-05T05:23:04+02:00"
-        },
-        {
-          "price": "0.00",
-          "unit": "min",
-          "ts": "2022-06-05T05:23:04+02:00"
-        }
-      ],
+      "prices": [],
       "status": {
         "availability": 1,
         "status": 1,
@@ -24656,18 +23446,7 @@
     {
       "point_id": 131783,
       "code": "PL-BB4-ELHFMIQ89",
-      "prices": [
-        {
-          "price": "1.31",
-          "unit": "kWh",
-          "ts": "2022-06-05T05:23:08+02:00"
-        },
-        {
-          "price": "0.00",
-          "unit": "min",
-          "ts": "2022-06-05T05:23:08+02:00"
-        }
-      ],
+      "prices": [],
       "status": {
         "availability": 1,
         "status": 1,
@@ -24677,18 +23456,7 @@
     {
       "point_id": 131784,
       "code": "PL-BB4-EWMR2IHJ5",
-      "prices": [
-        {
-          "price": "1.31",
-          "unit": "kWh",
-          "ts": "2022-06-05T05:23:09+02:00"
-        },
-        {
-          "price": "0.00",
-          "unit": "min",
-          "ts": "2022-06-05T05:23:09+02:00"
-        }
-      ],
+      "prices": [],
       "status": {
         "availability": 1,
         "status": 1,
@@ -24698,18 +23466,7 @@
     {
       "point_id": 131785,
       "code": "PL-BB4-EI5HE82QJ",
-      "prices": [
-        {
-          "price": "1.31",
-          "unit": "kWh",
-          "ts": "2022-06-05T05:23:03+02:00"
-        },
-        {
-          "price": "0.00",
-          "unit": "min",
-          "ts": "2022-06-05T05:23:03+02:00"
-        }
-      ],
+      "prices": [],
       "status": {
         "availability": 1,
         "status": 1,
@@ -24719,18 +23476,7 @@
     {
       "point_id": 131786,
       "code": "PL-BB4-ETD347SLG",
-      "prices": [
-        {
-          "price": "1.31",
-          "unit": "kWh",
-          "ts": "2022-06-05T05:23:08+02:00"
-        },
-        {
-          "price": "0.00",
-          "unit": "min",
-          "ts": "2022-06-05T05:23:08+02:00"
-        }
-      ],
+      "prices": [],
       "status": {
         "availability": 1,
         "status": 1,
@@ -24740,18 +23486,7 @@
     {
       "point_id": 131787,
       "code": "PL-BB4-EUEGQ6EU2",
-      "prices": [
-        {
-          "price": "1.31",
-          "unit": "kWh",
-          "ts": "2022-06-05T05:22:59+02:00"
-        },
-        {
-          "price": "0.00",
-          "unit": "min",
-          "ts": "2022-06-05T05:22:59+02:00"
-        }
-      ],
+      "prices": [],
       "status": {
         "availability": 1,
         "status": 1,
@@ -24761,18 +23496,7 @@
     {
       "point_id": 131788,
       "code": "PL-BB4-EWZEZ5UMJ",
-      "prices": [
-        {
-          "price": "1.31",
-          "unit": "kWh",
-          "ts": "2022-06-05T05:23:00+02:00"
-        },
-        {
-          "price": "0.00",
-          "unit": "min",
-          "ts": "2022-06-05T05:23:00+02:00"
-        }
-      ],
+      "prices": [],
       "status": {
         "availability": 1,
         "status": 1,
@@ -24782,18 +23506,7 @@
     {
       "point_id": 131789,
       "code": "PL-BB4-E9C90YU18",
-      "prices": [
-        {
-          "price": "1.31",
-          "unit": "kWh",
-          "ts": "2022-06-05T05:23:01+02:00"
-        },
-        {
-          "price": "0.00",
-          "unit": "min",
-          "ts": "2022-06-05T05:23:01+02:00"
-        }
-      ],
+      "prices": [],
       "status": {
         "availability": 1,
         "status": 1,
@@ -24803,18 +23516,7 @@
     {
       "point_id": 131790,
       "code": "PL-BB4-EY04SZMHT",
-      "prices": [
-        {
-          "price": "1.31",
-          "unit": "kWh",
-          "ts": "2022-06-05T05:23:05+02:00"
-        },
-        {
-          "price": "0.00",
-          "unit": "min",
-          "ts": "2022-06-05T05:23:05+02:00"
-        }
-      ],
+      "prices": [],
       "status": {
         "availability": 1,
         "status": 1,
@@ -24824,18 +23526,7 @@
     {
       "point_id": 131791,
       "code": "PL-BB4-ECTF9VURB",
-      "prices": [
-        {
-          "price": "1.31",
-          "unit": "kWh",
-          "ts": "2022-06-05T05:23:01+02:00"
-        },
-        {
-          "price": "0.00",
-          "unit": "min",
-          "ts": "2022-06-05T05:23:01+02:00"
-        }
-      ],
+      "prices": [],
       "status": {
         "availability": 1,
         "status": 1,
@@ -24845,18 +23536,7 @@
     {
       "point_id": 131792,
       "code": "PL-BB4-EW4LEYX29",
-      "prices": [
-        {
-          "price": "1.31",
-          "unit": "kWh",
-          "ts": "2022-06-05T05:23:03+02:00"
-        },
-        {
-          "price": "0.00",
-          "unit": "min",
-          "ts": "2022-06-05T05:23:03+02:00"
-        }
-      ],
+      "prices": [],
       "status": {
         "availability": 1,
         "status": 1,
@@ -24866,18 +23546,7 @@
     {
       "point_id": 131794,
       "code": "PL-BB4-E5RGV82PA",
-      "prices": [
-        {
-          "price": "1.31",
-          "unit": "kWh",
-          "ts": "2022-06-05T05:23:01+02:00"
-        },
-        {
-          "price": "0.00",
-          "unit": "min",
-          "ts": "2022-06-05T05:23:01+02:00"
-        }
-      ],
+      "prices": [],
       "status": {
         "availability": 1,
         "status": 1,
@@ -24887,18 +23556,7 @@
     {
       "point_id": 131793,
       "code": "PL-BB4-EGXXNOI56",
-      "prices": [
-        {
-          "price": "1.31",
-          "unit": "kWh",
-          "ts": "2022-06-05T05:23:01+02:00"
-        },
-        {
-          "price": "0.00",
-          "unit": "min",
-          "ts": "2022-06-05T05:23:01+02:00"
-        }
-      ],
+      "prices": [],
       "status": {
         "availability": 1,
         "status": 1,
@@ -24908,18 +23566,7 @@
     {
       "point_id": 131795,
       "code": "PL-BB4-EBT2DUNK4",
-      "prices": [
-        {
-          "price": "2.31",
-          "unit": "kWh",
-          "ts": "2022-06-05T05:22:57+02:00"
-        },
-        {
-          "price": "0.00",
-          "unit": "min",
-          "ts": "2022-06-05T05:22:57+02:00"
-        }
-      ],
+      "prices": [],
       "status": {
         "availability": 1,
         "status": 1,
@@ -24929,18 +23576,7 @@
     {
       "point_id": 131797,
       "code": "PL-BB4-EOVE0C92P",
-      "prices": [
-        {
-          "price": "1.31",
-          "unit": "kWh",
-          "ts": "2022-06-05T05:23:05+02:00"
-        },
-        {
-          "price": "0.00",
-          "unit": "min",
-          "ts": "2022-06-05T05:23:05+02:00"
-        }
-      ],
+      "prices": [],
       "status": {
         "availability": 1,
         "status": 1,
@@ -24950,18 +23586,7 @@
     {
       "point_id": 131796,
       "code": "PL-BB4-ESWITYLFC",
-      "prices": [
-        {
-          "price": "2.31",
-          "unit": "kWh",
-          "ts": "2022-06-05T05:23:04+02:00"
-        },
-        {
-          "price": "0.00",
-          "unit": "min",
-          "ts": "2022-06-05T05:23:04+02:00"
-        }
-      ],
+      "prices": [],
       "status": {
         "availability": 1,
         "status": 1,
@@ -24971,18 +23596,7 @@
     {
       "point_id": 131798,
       "code": "PL-BB4-EWX4D87L3",
-      "prices": [
-        {
-          "price": "1.31",
-          "unit": "kWh",
-          "ts": "2022-06-05T05:22:59+02:00"
-        },
-        {
-          "price": "0.00",
-          "unit": "min",
-          "ts": "2022-06-05T05:22:59+02:00"
-        }
-      ],
+      "prices": [],
       "status": {
         "availability": 1,
         "status": 1,
@@ -24992,18 +23606,7 @@
     {
       "point_id": 131799,
       "code": "PL-BB4-EBWTSRCTL",
-      "prices": [
-        {
-          "price": "1.31",
-          "unit": "kWh",
-          "ts": "2022-06-05T05:23:01+02:00"
-        },
-        {
-          "price": "0.00",
-          "unit": "min",
-          "ts": "2022-06-05T05:23:01+02:00"
-        }
-      ],
+      "prices": [],
       "status": {
         "availability": 1,
         "status": 1,
@@ -25013,18 +23616,7 @@
     {
       "point_id": 131800,
       "code": "PL-BB4-EHLCSJB24",
-      "prices": [
-        {
-          "price": "1.31",
-          "unit": "kWh",
-          "ts": "2022-06-05T05:23:02+02:00"
-        },
-        {
-          "price": "0.00",
-          "unit": "min",
-          "ts": "2022-06-05T05:23:02+02:00"
-        }
-      ],
+      "prices": [],
       "status": {
         "availability": 1,
         "status": 1,
@@ -25034,18 +23626,7 @@
     {
       "point_id": 131801,
       "code": "PL-BB4-E8N0T99P5",
-      "prices": [
-        {
-          "price": "1.31",
-          "unit": "kWh",
-          "ts": "2022-06-05T05:23:03+02:00"
-        },
-        {
-          "price": "0.00",
-          "unit": "min",
-          "ts": "2022-06-05T05:23:03+02:00"
-        }
-      ],
+      "prices": [],
       "status": {
         "availability": 1,
         "status": 1,
@@ -25055,18 +23636,7 @@
     {
       "point_id": 131802,
       "code": "PL-BB4-EYA16PVDS",
-      "prices": [
-        {
-          "price": "1.31",
-          "unit": "kWh",
-          "ts": "2022-06-05T05:23:06+02:00"
-        },
-        {
-          "price": "0.00",
-          "unit": "min",
-          "ts": "2022-06-05T05:23:06+02:00"
-        }
-      ],
+      "prices": [],
       "status": {
         "availability": 1,
         "status": 1,
@@ -25076,18 +23646,7 @@
     {
       "point_id": 131803,
       "code": "PL-BB4-E368DWRDN",
-      "prices": [
-        {
-          "price": "1.31",
-          "unit": "kWh",
-          "ts": "2022-06-05T05:23:00+02:00"
-        },
-        {
-          "price": "0.00",
-          "unit": "min",
-          "ts": "2022-06-05T05:23:00+02:00"
-        }
-      ],
+      "prices": [],
       "status": {
         "availability": 1,
         "status": 1,
@@ -25097,18 +23656,7 @@
     {
       "point_id": 131804,
       "code": "PL-BB4-EAWWCDOUF",
-      "prices": [
-        {
-          "price": "1.31",
-          "unit": "kWh",
-          "ts": "2022-06-05T05:23:02+02:00"
-        },
-        {
-          "price": "0.00",
-          "unit": "min",
-          "ts": "2022-06-05T05:23:02+02:00"
-        }
-      ],
+      "prices": [],
       "status": {
         "availability": 1,
         "status": 1,
@@ -25118,18 +23666,7 @@
     {
       "point_id": 131806,
       "code": "PL-BB4-E6AOE6556",
-      "prices": [
-        {
-          "price": "1.31",
-          "unit": "kWh",
-          "ts": "2022-06-05T05:23:05+02:00"
-        },
-        {
-          "price": "0.00",
-          "unit": "min",
-          "ts": "2022-06-05T05:23:05+02:00"
-        }
-      ],
+      "prices": [],
       "status": {
         "availability": 1,
         "status": 1,
@@ -25139,18 +23676,7 @@
     {
       "point_id": 131805,
       "code": "PL-BB4-EZXDZD419",
-      "prices": [
-        {
-          "price": "1.31",
-          "unit": "kWh",
-          "ts": "2022-06-05T05:22:59+02:00"
-        },
-        {
-          "price": "0.00",
-          "unit": "min",
-          "ts": "2022-06-05T05:22:59+02:00"
-        }
-      ],
+      "prices": [],
       "status": {
         "availability": 1,
         "status": 1,
@@ -25160,18 +23686,7 @@
     {
       "point_id": 131807,
       "code": "PL-BB4-EF2POK3VT",
-      "prices": [
-        {
-          "price": "1.31",
-          "unit": "kWh",
-          "ts": "2022-06-05T05:22:59+02:00"
-        },
-        {
-          "price": "0.00",
-          "unit": "min",
-          "ts": "2022-06-05T05:22:59+02:00"
-        }
-      ],
+      "prices": [],
       "status": {
         "availability": 1,
         "status": 1,
@@ -25181,18 +23696,7 @@
     {
       "point_id": 131808,
       "code": "PL-BB4-EHJHT0EHP",
-      "prices": [
-        {
-          "price": "1.31",
-          "unit": "kWh",
-          "ts": "2022-06-05T05:23:00+02:00"
-        },
-        {
-          "price": "0.00",
-          "unit": "min",
-          "ts": "2022-06-05T05:23:00+02:00"
-        }
-      ],
+      "prices": [],
       "status": {
         "availability": 1,
         "status": 1,
@@ -25202,18 +23706,7 @@
     {
       "point_id": 131809,
       "code": "PL-BB4-EVWP1Z1KN",
-      "prices": [
-        {
-          "price": "1.31",
-          "unit": "kWh",
-          "ts": "2022-06-05T05:23:01+02:00"
-        },
-        {
-          "price": "0.00",
-          "unit": "min",
-          "ts": "2022-06-05T05:23:01+02:00"
-        }
-      ],
+      "prices": [],
       "status": {
         "availability": 1,
         "status": 1,
@@ -25223,18 +23716,7 @@
     {
       "point_id": 131810,
       "code": "PL-BB4-EX7TBJIF5",
-      "prices": [
-        {
-          "price": "1.31",
-          "unit": "kWh",
-          "ts": "2022-06-05T05:23:02+02:00"
-        },
-        {
-          "price": "0.00",
-          "unit": "min",
-          "ts": "2022-06-05T05:23:02+02:00"
-        }
-      ],
+      "prices": [],
       "status": {
         "availability": 1,
         "status": 1,
@@ -25244,18 +23726,7 @@
     {
       "point_id": 131812,
       "code": "PL-BB4-EKPSFCJQI",
-      "prices": [
-        {
-          "price": "1.31",
-          "unit": "kWh",
-          "ts": "2022-06-05T05:23:06+02:00"
-        },
-        {
-          "price": "0.00",
-          "unit": "min",
-          "ts": "2022-06-05T05:23:06+02:00"
-        }
-      ],
+      "prices": [],
       "status": {
         "availability": 1,
         "status": 1,
@@ -25265,18 +23736,7 @@
     {
       "point_id": 131811,
       "code": "PL-BB4-EPXVE4OTV",
-      "prices": [
-        {
-          "price": "1.31",
-          "unit": "kWh",
-          "ts": "2022-06-05T05:23:03+02:00"
-        },
-        {
-          "price": "0.00",
-          "unit": "min",
-          "ts": "2022-06-05T05:23:03+02:00"
-        }
-      ],
+      "prices": [],
       "status": {
         "availability": 1,
         "status": 1,
@@ -25286,18 +23746,7 @@
     {
       "point_id": 131813,
       "code": "PL-BB4-EONMC7G2R",
-      "prices": [
-        {
-          "price": "1.31",
-          "unit": "kWh",
-          "ts": "2022-06-05T05:23:01+02:00"
-        },
-        {
-          "price": "0.00",
-          "unit": "min",
-          "ts": "2022-06-05T05:23:01+02:00"
-        }
-      ],
+      "prices": [],
       "status": {
         "availability": 1,
         "status": 1,
@@ -25307,18 +23756,7 @@
     {
       "point_id": 131814,
       "code": "PL-BB4-EYRXKY4EA",
-      "prices": [
-        {
-          "price": "1.31",
-          "unit": "kWh",
-          "ts": "2022-06-05T05:22:59+02:00"
-        },
-        {
-          "price": "0.00",
-          "unit": "min",
-          "ts": "2022-06-05T05:22:59+02:00"
-        }
-      ],
+      "prices": [],
       "status": {
         "availability": 1,
         "status": 1,
@@ -25328,18 +23766,7 @@
     {
       "point_id": 131815,
       "code": "PL-BB4-E6D8ECDC2",
-      "prices": [
-        {
-          "price": "1.31",
-          "unit": "kWh",
-          "ts": "2022-06-05T05:23:03+02:00"
-        },
-        {
-          "price": "0.00",
-          "unit": "min",
-          "ts": "2022-06-05T05:23:03+02:00"
-        }
-      ],
+      "prices": [],
       "status": {
         "availability": 1,
         "status": 1,
@@ -25349,18 +23776,7 @@
     {
       "point_id": 131816,
       "code": "PL-BB4-E79ZINVBR",
-      "prices": [
-        {
-          "price": "1.31",
-          "unit": "kWh",
-          "ts": "2022-06-05T05:23:01+02:00"
-        },
-        {
-          "price": "0.00",
-          "unit": "min",
-          "ts": "2022-06-05T05:23:01+02:00"
-        }
-      ],
+      "prices": [],
       "status": {
         "availability": 1,
         "status": 1,
@@ -25370,18 +23786,7 @@
     {
       "point_id": 131818,
       "code": "PL-BB4-E3XH59TES",
-      "prices": [
-        {
-          "price": "1.31",
-          "unit": "kWh",
-          "ts": "2022-06-05T05:23:05+02:00"
-        },
-        {
-          "price": "0.00",
-          "unit": "min",
-          "ts": "2022-06-05T05:23:05+02:00"
-        }
-      ],
+      "prices": [],
       "status": {
         "availability": 1,
         "status": 1,
@@ -25391,18 +23796,7 @@
     {
       "point_id": 131817,
       "code": "PL-BB4-ELV6DKH89",
-      "prices": [
-        {
-          "price": "1.31",
-          "unit": "kWh",
-          "ts": "2022-06-05T05:23:06+02:00"
-        },
-        {
-          "price": "0.00",
-          "unit": "min",
-          "ts": "2022-06-05T05:23:06+02:00"
-        }
-      ],
+      "prices": [],
       "status": {
         "availability": 1,
         "status": 1,
@@ -25412,18 +23806,7 @@
     {
       "point_id": 131820,
       "code": "PL-BB4-E9VGO0B3K",
-      "prices": [
-        {
-          "price": "1.31",
-          "unit": "kWh",
-          "ts": "2022-06-05T05:23:06+02:00"
-        },
-        {
-          "price": "0.00",
-          "unit": "min",
-          "ts": "2022-06-05T05:23:06+02:00"
-        }
-      ],
+      "prices": [],
       "status": {
         "availability": 1,
         "status": 1,
@@ -25433,18 +23816,7 @@
     {
       "point_id": 131819,
       "code": "PL-BB4-EZOS26XVR",
-      "prices": [
-        {
-          "price": "1.31",
-          "unit": "kWh",
-          "ts": "2022-06-05T05:22:58+02:00"
-        },
-        {
-          "price": "0.00",
-          "unit": "min",
-          "ts": "2022-06-05T05:22:58+02:00"
-        }
-      ],
+      "prices": [],
       "status": {
         "availability": 1,
         "status": 1,
@@ -25454,18 +23826,7 @@
     {
       "point_id": 131822,
       "code": "PL-BB4-EJ2VS4Q0P",
-      "prices": [
-        {
-          "price": "1.31",
-          "unit": "kWh",
-          "ts": "2022-06-05T05:23:00+02:00"
-        },
-        {
-          "price": "0.00",
-          "unit": "min",
-          "ts": "2022-06-05T05:23:00+02:00"
-        }
-      ],
+      "prices": [],
       "status": {
         "availability": 1,
         "status": 1,
@@ -25475,18 +23836,7 @@
     {
       "point_id": 131821,
       "code": "PL-BB4-EVDDDSHN0",
-      "prices": [
-        {
-          "price": "1.31",
-          "unit": "kWh",
-          "ts": "2022-06-05T05:23:04+02:00"
-        },
-        {
-          "price": "0.00",
-          "unit": "min",
-          "ts": "2022-06-05T05:23:04+02:00"
-        }
-      ],
+      "prices": [],
       "status": {
         "availability": 1,
         "status": 1,
@@ -25496,18 +23846,7 @@
     {
       "point_id": 131824,
       "code": "PL-BB4-EDJ5IYN1C",
-      "prices": [
-        {
-          "price": "1.31",
-          "unit": "kWh",
-          "ts": "2022-06-05T05:23:01+02:00"
-        },
-        {
-          "price": "0.00",
-          "unit": "min",
-          "ts": "2022-06-05T05:23:01+02:00"
-        }
-      ],
+      "prices": [],
       "status": {
         "availability": 1,
         "status": 1,
@@ -25517,18 +23856,7 @@
     {
       "point_id": 131823,
       "code": "PL-BB4-ERNB5KNSQ",
-      "prices": [
-        {
-          "price": "1.31",
-          "unit": "kWh",
-          "ts": "2022-06-05T05:23:01+02:00"
-        },
-        {
-          "price": "0.00",
-          "unit": "min",
-          "ts": "2022-06-05T05:23:01+02:00"
-        }
-      ],
+      "prices": [],
       "status": {
         "availability": 1,
         "status": 1,
@@ -25538,18 +23866,7 @@
     {
       "point_id": 131826,
       "code": "PL-BB4-E2N4T3Z5F",
-      "prices": [
-        {
-          "price": "1.31",
-          "unit": "kWh",
-          "ts": "2022-06-05T05:23:06+02:00"
-        },
-        {
-          "price": "0.00",
-          "unit": "min",
-          "ts": "2022-06-05T05:23:06+02:00"
-        }
-      ],
+      "prices": [],
       "status": {
         "availability": 1,
         "status": 1,
@@ -25559,18 +23876,7 @@
     {
       "point_id": 131825,
       "code": "PL-BB4-E6NVOM2UL",
-      "prices": [
-        {
-          "price": "1.31",
-          "unit": "kWh",
-          "ts": "2022-06-05T05:23:01+02:00"
-        },
-        {
-          "price": "0.00",
-          "unit": "min",
-          "ts": "2022-06-05T05:23:01+02:00"
-        }
-      ],
+      "prices": [],
       "status": {
         "availability": 1,
         "status": 1,
@@ -25580,18 +23886,7 @@
     {
       "point_id": 131828,
       "code": "PL-BB4-ECMYTWMAZ",
-      "prices": [
-        {
-          "price": "2.31",
-          "unit": "kWh",
-          "ts": "2022-06-05T05:22:57+02:00"
-        },
-        {
-          "price": "0.00",
-          "unit": "min",
-          "ts": "2022-06-05T05:22:57+02:00"
-        }
-      ],
+      "prices": [],
       "status": {
         "availability": 1,
         "status": 1,
@@ -25601,18 +23896,7 @@
     {
       "point_id": 131829,
       "code": "PL-BB4-EHG6273ST",
-      "prices": [
-        {
-          "price": "2.31",
-          "unit": "kWh",
-          "ts": "2022-06-05T05:23:02+02:00"
-        },
-        {
-          "price": "0.00",
-          "unit": "min",
-          "ts": "2022-06-05T05:23:02+02:00"
-        }
-      ],
+      "prices": [],
       "status": {
         "availability": 1,
         "status": 1,
@@ -25622,18 +23906,7 @@
     {
       "point_id": 131827,
       "code": "PL-BB4-EQ2F9ETO5",
-      "prices": [
-        {
-          "price": "1.31",
-          "unit": "kWh",
-          "ts": "2022-06-05T05:23:02+02:00"
-        },
-        {
-          "price": "0.00",
-          "unit": "min",
-          "ts": "2022-06-05T05:23:02+02:00"
-        }
-      ],
+      "prices": [],
       "status": {
         "availability": 1,
         "status": 1,
@@ -25643,18 +23916,7 @@
     {
       "point_id": 131830,
       "code": "PL-BB4-EASN5OIVF",
-      "prices": [
-        {
-          "price": "1.31",
-          "unit": "kWh",
-          "ts": "2022-06-05T05:23:03+02:00"
-        },
-        {
-          "price": "0.00",
-          "unit": "min",
-          "ts": "2022-06-05T05:23:03+02:00"
-        }
-      ],
+      "prices": [],
       "status": {
         "availability": 1,
         "status": 1,
@@ -25664,18 +23926,7 @@
     {
       "point_id": 131831,
       "code": "PL-BB4-EGZ0TMAVX",
-      "prices": [
-        {
-          "price": "1.31",
-          "unit": "kWh",
-          "ts": "2022-06-05T05:22:59+02:00"
-        },
-        {
-          "price": "0.00",
-          "unit": "min",
-          "ts": "2022-06-05T05:22:59+02:00"
-        }
-      ],
+      "prices": [],
       "status": {
         "availability": 1,
         "status": 1,
@@ -25685,18 +23936,7 @@
     {
       "point_id": 131832,
       "code": "PL-BB4-EPD12NK0O",
-      "prices": [
-        {
-          "price": "1.31",
-          "unit": "kWh",
-          "ts": "2022-06-05T05:23:04+02:00"
-        },
-        {
-          "price": "0.00",
-          "unit": "min",
-          "ts": "2022-06-05T05:23:04+02:00"
-        }
-      ],
+      "prices": [],
       "status": {
         "availability": 1,
         "status": 1,
@@ -25706,18 +23946,7 @@
     {
       "point_id": 131833,
       "code": "PL-BB4-EZJ94J4WY",
-      "prices": [
-        {
-          "price": "1.31",
-          "unit": "kWh",
-          "ts": "2022-06-05T05:23:00+02:00"
-        },
-        {
-          "price": "0.00",
-          "unit": "min",
-          "ts": "2022-06-05T05:23:00+02:00"
-        }
-      ],
+      "prices": [],
       "status": {
         "availability": 1,
         "status": 0,
@@ -25727,18 +23956,7 @@
     {
       "point_id": 131836,
       "code": "PL-BB4-EMUXHM9WN",
-      "prices": [
-        {
-          "price": "2.31",
-          "unit": "kWh",
-          "ts": "2022-06-05T05:22:58+02:00"
-        },
-        {
-          "price": "0.00",
-          "unit": "min",
-          "ts": "2022-06-05T05:22:58+02:00"
-        }
-      ],
+      "prices": [],
       "status": {
         "availability": 1,
         "status": 1,
@@ -25748,18 +23966,7 @@
     {
       "point_id": 131838,
       "code": "PL-BB4-ERMD3B3W7",
-      "prices": [
-        {
-          "price": "1.31",
-          "unit": "kWh",
-          "ts": "2022-06-05T05:22:58+02:00"
-        },
-        {
-          "price": "0.00",
-          "unit": "min",
-          "ts": "2022-06-05T05:22:58+02:00"
-        }
-      ],
+      "prices": [],
       "status": {
         "availability": 0,
         "status": 0,
@@ -25769,18 +23976,7 @@
     {
       "point_id": 131837,
       "code": "PL-BB4-ETN255WXR",
-      "prices": [
-        {
-          "price": "2.31",
-          "unit": "kWh",
-          "ts": "2022-06-05T05:22:58+02:00"
-        },
-        {
-          "price": "0.00",
-          "unit": "min",
-          "ts": "2022-06-05T05:22:58+02:00"
-        }
-      ],
+      "prices": [],
       "status": {
         "availability": 1,
         "status": 1,
@@ -25790,18 +23986,7 @@
     {
       "point_id": 131840,
       "code": "PL-BB4-E4JQ39FT8",
-      "prices": [
-        {
-          "price": "1.31",
-          "unit": "kWh",
-          "ts": "2022-06-05T05:23:04+02:00"
-        },
-        {
-          "price": "0.00",
-          "unit": "min",
-          "ts": "2022-06-05T05:23:04+02:00"
-        }
-      ],
+      "prices": [],
       "status": {
         "availability": 1,
         "status": 1,
@@ -25811,18 +23996,7 @@
     {
       "point_id": 131839,
       "code": "PL-BB4-E8T59YYQH",
-      "prices": [
-        {
-          "price": "1.31",
-          "unit": "kWh",
-          "ts": "2022-06-05T05:23:02+02:00"
-        },
-        {
-          "price": "0.00",
-          "unit": "min",
-          "ts": "2022-06-05T05:23:02+02:00"
-        }
-      ],
+      "prices": [],
       "status": {
         "availability": 1,
         "status": 1,
@@ -25832,18 +24006,7 @@
     {
       "point_id": 131841,
       "code": "PL-BB4-EOFB4NWDI",
-      "prices": [
-        {
-          "price": "1.31",
-          "unit": "kWh",
-          "ts": "2022-06-05T05:23:03+02:00"
-        },
-        {
-          "price": "0.00",
-          "unit": "min",
-          "ts": "2022-06-05T05:23:03+02:00"
-        }
-      ],
+      "prices": [],
       "status": {
         "availability": 1,
         "status": 1,
@@ -25853,18 +24016,7 @@
     {
       "point_id": 131842,
       "code": "PL-BB4-EX5W476NS",
-      "prices": [
-        {
-          "price": "1.31",
-          "unit": "kWh",
-          "ts": "2022-06-05T05:23:03+02:00"
-        },
-        {
-          "price": "0.00",
-          "unit": "min",
-          "ts": "2022-06-05T05:23:03+02:00"
-        }
-      ],
+      "prices": [],
       "status": {
         "availability": 1,
         "status": 1,
@@ -25874,18 +24026,7 @@
     {
       "point_id": 131843,
       "code": "PL-BB4-EPJDGCP6N",
-      "prices": [
-        {
-          "price": "2.31",
-          "unit": "kWh",
-          "ts": "2022-06-05T05:23:06+02:00"
-        },
-        {
-          "price": "0.00",
-          "unit": "min",
-          "ts": "2022-06-05T05:23:06+02:00"
-        }
-      ],
+      "prices": [],
       "status": {
         "availability": 1,
         "status": 1,
@@ -25895,18 +24036,7 @@
     {
       "point_id": 131844,
       "code": "PL-BB4-EW462MVPA",
-      "prices": [
-        {
-          "price": "2.31",
-          "unit": "kWh",
-          "ts": "2022-06-05T05:23:00+02:00"
-        },
-        {
-          "price": "0.00",
-          "unit": "min",
-          "ts": "2022-06-05T05:23:00+02:00"
-        }
-      ],
+      "prices": [],
       "status": {
         "availability": 1,
         "status": 1,
@@ -25916,18 +24046,7 @@
     {
       "point_id": 131846,
       "code": "PL-BB4-ET6Q9EWY5",
-      "prices": [
-        {
-          "price": "1.31",
-          "unit": "kWh",
-          "ts": "2022-06-05T05:23:02+02:00"
-        },
-        {
-          "price": "0.00",
-          "unit": "min",
-          "ts": "2022-06-05T05:23:02+02:00"
-        }
-      ],
+      "prices": [],
       "status": {
         "availability": 1,
         "status": 1,
@@ -25937,18 +24056,7 @@
     {
       "point_id": 131845,
       "code": "PL-BB4-EUKU3ZQXP",
-      "prices": [
-        {
-          "price": "1.31",
-          "unit": "kWh",
-          "ts": "2022-06-05T05:23:00+02:00"
-        },
-        {
-          "price": "0.00",
-          "unit": "min",
-          "ts": "2022-06-05T05:23:00+02:00"
-        }
-      ],
+      "prices": [],
       "status": {
         "availability": 1,
         "status": 1,
@@ -25958,18 +24066,7 @@
     {
       "point_id": 131848,
       "code": "PL-BB4-E004YP3DT",
-      "prices": [
-        {
-          "price": "1.31",
-          "unit": "kWh",
-          "ts": "2022-06-05T05:23:04+02:00"
-        },
-        {
-          "price": "0.00",
-          "unit": "min",
-          "ts": "2022-06-05T05:23:04+02:00"
-        }
-      ],
+      "prices": [],
       "status": {
         "availability": 1,
         "status": 1,
@@ -25979,18 +24076,7 @@
     {
       "point_id": 131847,
       "code": "PL-BB4-E0EYNWHBR",
-      "prices": [
-        {
-          "price": "1.31",
-          "unit": "kWh",
-          "ts": "2022-06-05T05:23:06+02:00"
-        },
-        {
-          "price": "0.00",
-          "unit": "min",
-          "ts": "2022-06-05T05:23:06+02:00"
-        }
-      ],
+      "prices": [],
       "status": {
         "availability": 1,
         "status": 1,
@@ -26000,18 +24086,7 @@
     {
       "point_id": 131850,
       "code": "PL-BB4-E5VW49MVU",
-      "prices": [
-        {
-          "price": "2.31",
-          "unit": "kWh",
-          "ts": "2022-06-05T05:22:59+02:00"
-        },
-        {
-          "price": "0.00",
-          "unit": "min",
-          "ts": "2022-06-05T05:22:59+02:00"
-        }
-      ],
+      "prices": [],
       "status": {
         "availability": 1,
         "status": 1,
@@ -26021,18 +24096,7 @@
     {
       "point_id": 131851,
       "code": "PL-BB4-E7RY6O4JS",
-      "prices": [
-        {
-          "price": "2.31",
-          "unit": "kWh",
-          "ts": "2022-06-05T05:23:03+02:00"
-        },
-        {
-          "price": "0.00",
-          "unit": "min",
-          "ts": "2022-06-05T05:23:03+02:00"
-        }
-      ],
+      "prices": [],
       "status": {
         "availability": 1,
         "status": 1,
@@ -26042,18 +24106,7 @@
     {
       "point_id": 131849,
       "code": "PL-BB4-EEB6YKQT5",
-      "prices": [
-        {
-          "price": "1.31",
-          "unit": "kWh",
-          "ts": "2022-06-05T05:23:09+02:00"
-        },
-        {
-          "price": "0.00",
-          "unit": "min",
-          "ts": "2022-06-05T05:23:09+02:00"
-        }
-      ],
+      "prices": [],
       "status": {
         "availability": 1,
         "status": 1,
@@ -26063,18 +24116,7 @@
     {
       "point_id": 131853,
       "code": "PL-BB4-E09H94MZP",
-      "prices": [
-        {
-          "price": "2.31",
-          "unit": "kWh",
-          "ts": "2022-06-05T05:22:58+02:00"
-        },
-        {
-          "price": "0.00",
-          "unit": "min",
-          "ts": "2022-06-05T05:22:58+02:00"
-        }
-      ],
+      "prices": [],
       "status": {
         "availability": 1,
         "status": 1,
@@ -26084,18 +24126,7 @@
     {
       "point_id": 131852,
       "code": "PL-BB4-EOTJ8OKBO",
-      "prices": [
-        {
-          "price": "2.31",
-          "unit": "kWh",
-          "ts": "2022-06-05T05:22:57+02:00"
-        },
-        {
-          "price": "0.00",
-          "unit": "min",
-          "ts": "2022-06-05T05:22:57+02:00"
-        }
-      ],
+      "prices": [],
       "status": {
         "availability": 1,
         "status": 1,
@@ -26105,18 +24136,7 @@
     {
       "point_id": 131854,
       "code": "PL-BB4-ETI2OK6KV",
-      "prices": [
-        {
-          "price": "1.31",
-          "unit": "kWh",
-          "ts": "2022-06-05T05:23:01+02:00"
-        },
-        {
-          "price": "0.00",
-          "unit": "min",
-          "ts": "2022-06-05T05:23:01+02:00"
-        }
-      ],
+      "prices": [],
       "status": {
         "availability": 1,
         "status": 1,
@@ -26126,18 +24146,7 @@
     {
       "point_id": 132349,
       "code": "PL-BB4-E44130101",
-      "prices": [
-        {
-          "price": "1.31",
-          "unit": "kWh",
-          "ts": "2022-06-05T05:22:58+02:00"
-        },
-        {
-          "price": "0.00",
-          "unit": "min",
-          "ts": "2022-06-05T05:22:58+02:00"
-        }
-      ],
+      "prices": [],
       "status": {
         "availability": 1,
         "status": 1,
@@ -26147,18 +24156,7 @@
     {
       "point_id": 132350,
       "code": "PL-BB4-E44130102",
-      "prices": [
-        {
-          "price": "2.31",
-          "unit": "kWh",
-          "ts": "2022-06-05T05:23:06+02:00"
-        },
-        {
-          "price": "0.00",
-          "unit": "min",
-          "ts": "2022-06-05T05:23:06+02:00"
-        }
-      ],
+      "prices": [],
       "status": {
         "availability": 1,
         "status": 1,
@@ -26168,18 +24166,7 @@
     {
       "point_id": 132351,
       "code": "PL-BB4-E44130103",
-      "prices": [
-        {
-          "price": "2.31",
-          "unit": "kWh",
-          "ts": "2022-06-05T05:23:06+02:00"
-        },
-        {
-          "price": "0.00",
-          "unit": "min",
-          "ts": "2022-06-05T05:23:06+02:00"
-        }
-      ],
+      "prices": [],
       "status": {
         "availability": 1,
         "status": 1,
@@ -26189,18 +24176,7 @@
     {
       "point_id": 132352,
       "code": "PL-BB4-E44140101",
-      "prices": [
-        {
-          "price": "1.31",
-          "unit": "kWh",
-          "ts": "2022-06-05T05:23:02+02:00"
-        },
-        {
-          "price": "0.00",
-          "unit": "min",
-          "ts": "2022-06-05T05:23:02+02:00"
-        }
-      ],
+      "prices": [],
       "status": {
         "availability": 1,
         "status": 1,
@@ -26210,18 +24186,7 @@
     {
       "point_id": 132353,
       "code": "PL-BB4-E44140102",
-      "prices": [
-        {
-          "price": "1.31",
-          "unit": "kWh",
-          "ts": "2022-06-05T05:23:06+02:00"
-        },
-        {
-          "price": "0.00",
-          "unit": "min",
-          "ts": "2022-06-05T05:23:06+02:00"
-        }
-      ],
+      "prices": [],
       "status": {
         "availability": 1,
         "status": 1,
@@ -26231,18 +24196,7 @@
     {
       "point_id": 132354,
       "code": "PL-BB4-E44150101",
-      "prices": [
-        {
-          "price": "1.31",
-          "unit": "kWh",
-          "ts": "2022-06-05T05:23:02+02:00"
-        },
-        {
-          "price": "0.00",
-          "unit": "min",
-          "ts": "2022-06-05T05:23:02+02:00"
-        }
-      ],
+      "prices": [],
       "status": {
         "availability": 1,
         "status": 1,
@@ -26252,18 +24206,7 @@
     {
       "point_id": 132355,
       "code": "PL-BB4-E44150102",
-      "prices": [
-        {
-          "price": "1.31",
-          "unit": "kWh",
-          "ts": "2022-06-05T05:23:03+02:00"
-        },
-        {
-          "price": "0.00",
-          "unit": "min",
-          "ts": "2022-06-05T05:23:03+02:00"
-        }
-      ],
+      "prices": [],
       "status": {
         "availability": 1,
         "status": 1,
@@ -26273,18 +24216,7 @@
     {
       "point_id": 132356,
       "code": "PL-BB4-E44160101",
-      "prices": [
-        {
-          "price": "2.31",
-          "unit": "kWh",
-          "ts": "2022-06-05T05:22:59+02:00"
-        },
-        {
-          "price": "0.00",
-          "unit": "min",
-          "ts": "2022-06-05T05:22:59+02:00"
-        }
-      ],
+      "prices": [],
       "status": {
         "availability": 1,
         "status": 1,
@@ -26294,18 +24226,7 @@
     {
       "point_id": 132357,
       "code": "PL-BB4-E44160102",
-      "prices": [
-        {
-          "price": "2.31",
-          "unit": "kWh",
-          "ts": "2022-06-05T05:23:00+02:00"
-        },
-        {
-          "price": "0.00",
-          "unit": "min",
-          "ts": "2022-06-05T05:23:00+02:00"
-        }
-      ],
+      "prices": [],
       "status": {
         "availability": 1,
         "status": 1,
@@ -26315,18 +24236,7 @@
     {
       "point_id": 132358,
       "code": "PL-BB4-E44160103",
-      "prices": [
-        {
-          "price": "2.31",
-          "unit": "kWh",
-          "ts": "2022-06-05T05:22:57+02:00"
-        },
-        {
-          "price": "0.00",
-          "unit": "min",
-          "ts": "2022-06-05T05:22:57+02:00"
-        }
-      ],
+      "prices": [],
       "status": {
         "availability": 1,
         "status": 1,
@@ -26336,18 +24246,7 @@
     {
       "point_id": 132359,
       "code": "PL-BB4-E44160104",
-      "prices": [
-        {
-          "price": "1.31",
-          "unit": "kWh",
-          "ts": "2022-06-05T05:22:57+02:00"
-        },
-        {
-          "price": "0.00",
-          "unit": "min",
-          "ts": "2022-06-05T05:22:57+02:00"
-        }
-      ],
+      "prices": [],
       "status": {
         "availability": 1,
         "status": 1,
@@ -26357,18 +24256,7 @@
     {
       "point_id": 132360,
       "code": "PL-BB4-E44160201",
-      "prices": [
-        {
-          "price": "1.31",
-          "unit": "kWh",
-          "ts": "2022-06-05T05:22:57+02:00"
-        },
-        {
-          "price": "0.00",
-          "unit": "min",
-          "ts": "2022-06-05T05:22:57+02:00"
-        }
-      ],
+      "prices": [],
       "status": {
         "availability": 1,
         "status": 1,
@@ -26378,18 +24266,7 @@
     {
       "point_id": 132361,
       "code": "PL-BB4-E44160202",
-      "prices": [
-        {
-          "price": "1.31",
-          "unit": "kWh",
-          "ts": "2022-06-05T05:23:03+02:00"
-        },
-        {
-          "price": "0.00",
-          "unit": "min",
-          "ts": "2022-06-05T05:23:03+02:00"
-        }
-      ],
+      "prices": [],
       "status": {
         "availability": 1,
         "status": 1,
@@ -26399,18 +24276,7 @@
     {
       "point_id": 132362,
       "code": "PL-BB4-E44170101",
-      "prices": [
-        {
-          "price": "1.31",
-          "unit": "kWh",
-          "ts": "2022-06-05T05:23:01+02:00"
-        },
-        {
-          "price": "0.00",
-          "unit": "min",
-          "ts": "2022-06-05T05:23:01+02:00"
-        }
-      ],
+      "prices": [],
       "status": {
         "availability": 1,
         "status": 1,
@@ -26420,18 +24286,7 @@
     {
       "point_id": 132363,
       "code": "PL-BB4-E44170102",
-      "prices": [
-        {
-          "price": "1.31",
-          "unit": "kWh",
-          "ts": "2022-06-05T05:23:03+02:00"
-        },
-        {
-          "price": "0.00",
-          "unit": "min",
-          "ts": "2022-06-05T05:23:03+02:00"
-        }
-      ],
+      "prices": [],
       "status": {
         "availability": 1,
         "status": 1,
@@ -26441,18 +24296,7 @@
     {
       "point_id": 132364,
       "code": "PL-BB4-E44180101",
-      "prices": [
-        {
-          "price": "1.31",
-          "unit": "kWh",
-          "ts": "2022-06-05T05:23:01+02:00"
-        },
-        {
-          "price": "0.00",
-          "unit": "min",
-          "ts": "2022-06-05T05:23:01+02:00"
-        }
-      ],
+      "prices": [],
       "status": {
         "availability": 1,
         "status": 1,
@@ -26462,18 +24306,7 @@
     {
       "point_id": 132365,
       "code": "PL-BB4-E44180102",
-      "prices": [
-        {
-          "price": "2.31",
-          "unit": "kWh",
-          "ts": "2022-06-05T05:22:59+02:00"
-        },
-        {
-          "price": "0.00",
-          "unit": "min",
-          "ts": "2022-06-05T05:22:59+02:00"
-        }
-      ],
+      "prices": [],
       "status": {
         "availability": 1,
         "status": 1,
@@ -26483,18 +24316,7 @@
     {
       "point_id": 132366,
       "code": "PL-BB4-E44180103",
-      "prices": [
-        {
-          "price": "2.31",
-          "unit": "kWh",
-          "ts": "2022-06-05T05:23:01+02:00"
-        },
-        {
-          "price": "0.00",
-          "unit": "min",
-          "ts": "2022-06-05T05:23:01+02:00"
-        }
-      ],
+      "prices": [],
       "status": {
         "availability": 1,
         "status": 1,
@@ -26504,18 +24326,7 @@
     {
       "point_id": 133404,
       "code": "PL-BB4-E44190101",
-      "prices": [
-        {
-          "price": "1.31",
-          "unit": "kWh",
-          "ts": "2022-06-05T05:23:07+02:00"
-        },
-        {
-          "price": "0.00",
-          "unit": "min",
-          "ts": "2022-06-05T05:23:07+02:00"
-        }
-      ],
+      "prices": [],
       "status": {
         "availability": 1,
         "status": 1,
@@ -26525,18 +24336,7 @@
     {
       "point_id": 133405,
       "code": "PL-BB4-E44190102",
-      "prices": [
-        {
-          "price": "1.31",
-          "unit": "kWh",
-          "ts": "2022-06-05T05:23:07+02:00"
-        },
-        {
-          "price": "0.00",
-          "unit": "min",
-          "ts": "2022-06-05T05:23:07+02:00"
-        }
-      ],
+      "prices": [],
       "status": {
         "availability": 1,
         "status": 1,
@@ -26546,18 +24346,7 @@
     {
       "point_id": 133402,
       "code": "PL-BB4-E10004409",
-      "prices": [
-        {
-          "price": "1.31",
-          "unit": "kWh",
-          "ts": "2022-06-05T05:23:07+02:00"
-        },
-        {
-          "price": "0.00",
-          "unit": "min",
-          "ts": "2022-06-05T05:23:07+02:00"
-        }
-      ],
+      "prices": [],
       "status": {
         "availability": 1,
         "status": 1,
@@ -26567,18 +24356,7 @@
     {
       "point_id": 133403,
       "code": "PL-BB4-E20004409",
-      "prices": [
-        {
-          "price": "1.31",
-          "unit": "kWh",
-          "ts": "2022-06-05T05:23:07+02:00"
-        },
-        {
-          "price": "0.00",
-          "unit": "min",
-          "ts": "2022-06-05T05:23:07+02:00"
-        }
-      ],
+      "prices": [],
       "status": {
         "availability": 1,
         "status": 1,
@@ -26588,18 +24366,7 @@
     {
       "point_id": 133407,
       "code": "PL-BB4-E44200101",
-      "prices": [
-        {
-          "price": "1.31",
-          "unit": "kWh",
-          "ts": "2022-06-05T05:22:57+02:00"
-        },
-        {
-          "price": "0.00",
-          "unit": "min",
-          "ts": "2022-06-05T05:22:57+02:00"
-        }
-      ],
+      "prices": [],
       "status": {
         "availability": 1,
         "status": 1,
@@ -26609,18 +24376,7 @@
     {
       "point_id": 133408,
       "code": "PL-BB4-E44200102",
-      "prices": [
-        {
-          "price": "1.31",
-          "unit": "kWh",
-          "ts": "2022-06-05T05:23:06+02:00"
-        },
-        {
-          "price": "0.00",
-          "unit": "min",
-          "ts": "2022-06-05T05:23:06+02:00"
-        }
-      ],
+      "prices": [],
       "status": {
         "availability": 1,
         "status": 1,
@@ -26630,18 +24386,7 @@
     {
       "point_id": 134061,
       "code": "PL-BB4-E44210101",
-      "prices": [
-        {
-          "price": "2.31",
-          "unit": "kWh",
-          "ts": "2022-06-05T05:23:08+02:00"
-        },
-        {
-          "price": "0.00",
-          "unit": "min",
-          "ts": "2022-06-05T05:23:08+02:00"
-        }
-      ],
+      "prices": [],
       "status": {
         "availability": 1,
         "status": 1,
@@ -26651,18 +24396,7 @@
     {
       "point_id": 134062,
       "code": "PL-BB4-E44210102",
-      "prices": [
-        {
-          "price": "2.31",
-          "unit": "kWh",
-          "ts": "2022-06-05T05:23:08+02:00"
-        },
-        {
-          "price": "0.00",
-          "unit": "min",
-          "ts": "2022-06-05T05:23:08+02:00"
-        }
-      ],
+      "prices": [],
       "status": {
         "availability": 1,
         "status": 1,
@@ -26672,18 +24406,7 @@
     {
       "point_id": 144056,
       "code": "PL-BB4-E44230101",
-      "prices": [
-        {
-          "price": "1.31",
-          "unit": "kWh",
-          "ts": "2022-06-05T05:23:01+02:00"
-        },
-        {
-          "price": "0.00",
-          "unit": "min",
-          "ts": "2022-06-05T05:23:01+02:00"
-        }
-      ],
+      "prices": [],
       "status": {
         "availability": 1,
         "status": 1,
@@ -26693,18 +24416,7 @@
     {
       "point_id": 144057,
       "code": "PL-BB4-E44230102",
-      "prices": [
-        {
-          "price": "1.31",
-          "unit": "kWh",
-          "ts": "2022-06-05T05:22:57+02:00"
-        },
-        {
-          "price": "0.00",
-          "unit": "min",
-          "ts": "2022-06-05T05:22:57+02:00"
-        }
-      ],
+      "prices": [],
       "status": {
         "availability": 1,
         "status": 1,
@@ -26714,18 +24426,7 @@
     {
       "point_id": 150201,
       "code": "PL-BB4-E44240101",
-      "prices": [
-        {
-          "price": "1.31",
-          "unit": "kWh",
-          "ts": "2022-06-05T05:23:02+02:00"
-        },
-        {
-          "price": "0.00",
-          "unit": "min",
-          "ts": "2022-06-05T05:23:02+02:00"
-        }
-      ],
+      "prices": [],
       "status": {
         "availability": 1,
         "status": 1,
@@ -26735,18 +24436,7 @@
     {
       "point_id": 150202,
       "code": "PL-BB4-E44240102",
-      "prices": [
-        {
-          "price": "1.31",
-          "unit": "kWh",
-          "ts": "2022-06-05T05:22:59+02:00"
-        },
-        {
-          "price": "0.00",
-          "unit": "min",
-          "ts": "2022-06-05T05:22:59+02:00"
-        }
-      ],
+      "prices": [],
       "status": {
         "availability": 1,
         "status": 1,
@@ -26756,18 +24446,7 @@
     {
       "point_id": 150203,
       "code": "PL-BB4-E44250101",
-      "prices": [
-        {
-          "price": "1.31",
-          "unit": "kWh",
-          "ts": "2022-06-05T05:22:58+02:00"
-        },
-        {
-          "price": "0.00",
-          "unit": "min",
-          "ts": "2022-06-05T05:22:58+02:00"
-        }
-      ],
+      "prices": [],
       "status": {
         "availability": 1,
         "status": 1,
@@ -26777,18 +24456,7 @@
     {
       "point_id": 150204,
       "code": "PL-BB4-E44250102",
-      "prices": [
-        {
-          "price": "1.31",
-          "unit": "kWh",
-          "ts": "2022-06-05T05:23:01+02:00"
-        },
-        {
-          "price": "0.00",
-          "unit": "min",
-          "ts": "2022-06-05T05:23:01+02:00"
-        }
-      ],
+      "prices": [],
       "status": {
         "availability": 1,
         "status": 1,
@@ -26798,18 +24466,7 @@
     {
       "point_id": 151928,
       "code": "PL-BB4-E44260101",
-      "prices": [
-        {
-          "price": "2.31",
-          "unit": "kWh",
-          "ts": "2022-06-05T05:23:08+02:00"
-        },
-        {
-          "price": "0.00",
-          "unit": "min",
-          "ts": "2022-06-05T05:23:08+02:00"
-        }
-      ],
+      "prices": [],
       "status": {
         "availability": 1,
         "status": 1,
@@ -26819,18 +24476,7 @@
     {
       "point_id": 151929,
       "code": "PL-BB4-E44260102",
-      "prices": [
-        {
-          "price": "2.31",
-          "unit": "kWh",
-          "ts": "2022-06-05T05:23:08+02:00"
-        },
-        {
-          "price": "0.00",
-          "unit": "min",
-          "ts": "2022-06-05T05:23:08+02:00"
-        }
-      ],
+      "prices": [],
       "status": {
         "availability": 1,
         "status": 1,
@@ -26840,18 +24486,7 @@
     {
       "point_id": 151930,
       "code": "PL-BB4-E44260103",
-      "prices": [
-        {
-          "price": "1.31",
-          "unit": "kWh",
-          "ts": "2022-06-05T05:23:07+02:00"
-        },
-        {
-          "price": "0.00",
-          "unit": "min",
-          "ts": "2022-06-05T05:23:07+02:00"
-        }
-      ],
+      "prices": [],
       "status": {
         "availability": 1,
         "status": 1,
@@ -26861,18 +24496,7 @@
     {
       "point_id": 151931,
       "code": "PL-BB4-E44260104",
-      "prices": [
-        {
-          "price": "1.31",
-          "unit": "kWh",
-          "ts": "2022-06-05T05:22:59+02:00"
-        },
-        {
-          "price": "0.00",
-          "unit": "min",
-          "ts": "2022-06-05T05:22:59+02:00"
-        }
-      ],
+      "prices": [],
       "status": {
         "availability": 1,
         "status": 1,
@@ -26882,18 +24506,7 @@
     {
       "point_id": 156384,
       "code": "PL-BB4-E44270101",
-      "prices": [
-        {
-          "price": "1.31",
-          "unit": "kWh",
-          "ts": "2022-06-05T05:23:01+02:00"
-        },
-        {
-          "price": "0.00",
-          "unit": "min",
-          "ts": "2022-06-05T05:23:01+02:00"
-        }
-      ],
+      "prices": [],
       "status": {
         "availability": 1,
         "status": 1,
@@ -26903,18 +24516,7 @@
     {
       "point_id": 156385,
       "code": "PL-BB4-E44270102",
-      "prices": [
-        {
-          "price": "1.31",
-          "unit": "kWh",
-          "ts": "2022-06-05T05:23:05+02:00"
-        },
-        {
-          "price": "0.00",
-          "unit": "min",
-          "ts": "2022-06-05T05:23:05+02:00"
-        }
-      ],
+      "prices": [],
       "status": {
         "availability": 1,
         "status": 1,
@@ -26956,18 +24558,7 @@
     {
       "point_id": 166538,
       "code": "PL-BB4-E44340101",
-      "prices": [
-        {
-          "price": "1.31",
-          "unit": "kWh",
-          "ts": "2022-06-05T05:22:57+02:00"
-        },
-        {
-          "price": "0.00",
-          "unit": "min",
-          "ts": "2022-06-05T05:22:57+02:00"
-        }
-      ],
+      "prices": [],
       "status": {
         "availability": 1,
         "status": 1,
@@ -26977,18 +24568,7 @@
     {
       "point_id": 166539,
       "code": "PL-BB4-E44340102",
-      "prices": [
-        {
-          "price": "1.31",
-          "unit": "kWh",
-          "ts": "2022-06-05T05:23:02+02:00"
-        },
-        {
-          "price": "0.00",
-          "unit": "min",
-          "ts": "2022-06-05T05:23:02+02:00"
-        }
-      ],
+      "prices": [],
       "status": {
         "availability": 1,
         "status": 1,
@@ -26998,18 +24578,7 @@
     {
       "point_id": 166540,
       "code": "PL-BB4-E44350101",
-      "prices": [
-        {
-          "price": "1.31",
-          "unit": "kWh",
-          "ts": "2022-06-05T05:23:05+02:00"
-        },
-        {
-          "price": "0.00",
-          "unit": "min",
-          "ts": "2022-06-05T05:23:05+02:00"
-        }
-      ],
+      "prices": [],
       "status": {
         "availability": 1,
         "status": 1,
@@ -27019,18 +24588,7 @@
     {
       "point_id": 166541,
       "code": "PL-BB4-E44350102",
-      "prices": [
-        {
-          "price": "1.31",
-          "unit": "kWh",
-          "ts": "2022-06-05T05:23:02+02:00"
-        },
-        {
-          "price": "0.00",
-          "unit": "min",
-          "ts": "2022-06-05T05:23:02+02:00"
-        }
-      ],
+      "prices": [],
       "status": {
         "availability": 1,
         "status": 1,
@@ -27040,18 +24598,7 @@
     {
       "point_id": 166542,
       "code": "PL-BB4-E44370101",
-      "prices": [
-        {
-          "price": "1.31",
-          "unit": "kWh",
-          "ts": "2022-06-05T05:22:58+02:00"
-        },
-        {
-          "price": "0.00",
-          "unit": "min",
-          "ts": "2022-06-05T05:22:58+02:00"
-        }
-      ],
+      "prices": [],
       "status": {
         "availability": 1,
         "status": 1,
@@ -27061,18 +24608,7 @@
     {
       "point_id": 166543,
       "code": "PL-BB4-E44370102",
-      "prices": [
-        {
-          "price": "1.31",
-          "unit": "kWh",
-          "ts": "2022-06-05T05:23:05+02:00"
-        },
-        {
-          "price": "0.00",
-          "unit": "min",
-          "ts": "2022-06-05T05:23:05+02:00"
-        }
-      ],
+      "prices": [],
       "status": {
         "availability": 1,
         "status": 1,
@@ -27082,18 +24618,7 @@
     {
       "point_id": 169179,
       "code": "PL-BB4-E44360101",
-      "prices": [
-        {
-          "price": "1.31",
-          "unit": "kWh",
-          "ts": "2022-06-05T05:23:04+02:00"
-        },
-        {
-          "price": "0.00",
-          "unit": "min",
-          "ts": "2022-06-05T05:23:04+02:00"
-        }
-      ],
+      "prices": [],
       "status": {
         "availability": 1,
         "status": 1,
@@ -27103,18 +24628,7 @@
     {
       "point_id": 169180,
       "code": "PL-BB4-E44360102",
-      "prices": [
-        {
-          "price": "1.31",
-          "unit": "kWh",
-          "ts": "2022-06-05T05:23:03+02:00"
-        },
-        {
-          "price": "0.00",
-          "unit": "min",
-          "ts": "2022-06-05T05:23:03+02:00"
-        }
-      ],
+      "prices": [],
       "status": {
         "availability": 1,
         "status": 1,
@@ -27124,18 +24638,7 @@
     {
       "point_id": 171222,
       "code": "PL-BB4-E44450101",
-      "prices": [
-        {
-          "price": "1.31",
-          "unit": "kWh",
-          "ts": "2022-06-05T05:23:00+02:00"
-        },
-        {
-          "price": "0.00",
-          "unit": "min",
-          "ts": "2022-06-05T05:23:00+02:00"
-        }
-      ],
+      "prices": [],
       "status": {
         "availability": 1,
         "status": 1,
@@ -27145,18 +24648,7 @@
     {
       "point_id": 171223,
       "code": "PL-BB4-E44450102",
-      "prices": [
-        {
-          "price": "1.31",
-          "unit": "kWh",
-          "ts": "2022-06-05T05:23:00+02:00"
-        },
-        {
-          "price": "0.00",
-          "unit": "min",
-          "ts": "2022-06-05T05:23:00+02:00"
-        }
-      ],
+      "prices": [],
       "status": {
         "availability": 1,
         "status": 1,
@@ -27166,18 +24658,7 @@
     {
       "point_id": 174191,
       "code": "PL-BB4-E44492101",
-      "prices": [
-        {
-          "price": "1.31",
-          "unit": "kWh",
-          "ts": "2022-06-05T05:23:06+02:00"
-        },
-        {
-          "price": "0.00",
-          "unit": "min",
-          "ts": "2022-06-05T05:23:06+02:00"
-        }
-      ],
+      "prices": [],
       "status": {
         "availability": 1,
         "status": 1,
@@ -27187,18 +24668,7 @@
     {
       "point_id": 174192,
       "code": "PL-BB4-E44492102",
-      "prices": [
-        {
-          "price": "1.31",
-          "unit": "kWh",
-          "ts": "2022-06-05T05:22:57+02:00"
-        },
-        {
-          "price": "0.00",
-          "unit": "min",
-          "ts": "2022-06-05T05:22:57+02:00"
-        }
-      ],
+      "prices": [],
       "status": {
         "availability": 1,
         "status": 1,
@@ -27208,18 +24678,7 @@
     {
       "point_id": 178135,
       "code": "PL-BB4-E44494101",
-      "prices": [
-        {
-          "price": "2.31",
-          "unit": "kWh",
-          "ts": "2022-06-05T05:23:08+02:00"
-        },
-        {
-          "price": "0.00",
-          "unit": "min",
-          "ts": "2022-06-05T05:23:08+02:00"
-        }
-      ],
+      "prices": [],
       "status": {
         "availability": 1,
         "status": 1,
@@ -27229,18 +24688,7 @@
     {
       "point_id": 178136,
       "code": "PL-BB4-E44494102",
-      "prices": [
-        {
-          "price": "2.31",
-          "unit": "kWh",
-          "ts": "2022-06-05T05:23:07+02:00"
-        },
-        {
-          "price": "0.00",
-          "unit": "min",
-          "ts": "2022-06-05T05:23:07+02:00"
-        }
-      ],
+      "prices": [],
       "status": {
         "availability": 1,
         "status": 1,
@@ -27250,18 +24698,7 @@
     {
       "point_id": 178137,
       "code": "PL-BB4-E44494103",
-      "prices": [
-        {
-          "price": "1.31",
-          "unit": "kWh",
-          "ts": "2022-06-05T05:23:07+02:00"
-        },
-        {
-          "price": "0.00",
-          "unit": "min",
-          "ts": "2022-06-05T05:23:07+02:00"
-        }
-      ],
+      "prices": [],
       "status": {
         "availability": 1,
         "status": 1,
@@ -27271,18 +24708,7 @@
     {
       "point_id": 213715,
       "code": "PL-BB4-E44970101",
-      "prices": [
-        {
-          "price": "1.31",
-          "unit": "kWh",
-          "ts": "2022-06-05T05:23:00+02:00"
-        },
-        {
-          "price": "0.00",
-          "unit": "min",
-          "ts": "2022-06-05T05:23:00+02:00"
-        }
-      ],
+      "prices": [],
       "status": {
         "availability": 1,
         "status": 1,
@@ -27292,18 +24718,7 @@
     {
       "point_id": 213716,
       "code": "PL-BB4-E44970102",
-      "prices": [
-        {
-          "price": "1.31",
-          "unit": "kWh",
-          "ts": "2022-06-05T05:23:03+02:00"
-        },
-        {
-          "price": "0.00",
-          "unit": "min",
-          "ts": "2022-06-05T05:23:03+02:00"
-        }
-      ],
+      "prices": [],
       "status": {
         "availability": 1,
         "status": 1,
@@ -27313,18 +24728,7 @@
     {
       "point_id": 221248,
       "code": "PL-BB4-E44980101",
-      "prices": [
-        {
-          "price": "2.31",
-          "unit": "kWh",
-          "ts": "2022-06-05T05:23:08+02:00"
-        },
-        {
-          "price": "0.00",
-          "unit": "min",
-          "ts": "2022-06-05T05:23:08+02:00"
-        }
-      ],
+      "prices": [],
       "status": {
         "availability": 1,
         "status": 1,
@@ -27334,18 +24738,7 @@
     {
       "point_id": 221250,
       "code": "PL-BB4-E44980102",
-      "prices": [
-        {
-          "price": "2.31",
-          "unit": "kWh",
-          "ts": "2022-06-05T05:23:08+02:00"
-        },
-        {
-          "price": "0.00",
-          "unit": "min",
-          "ts": "2022-06-05T05:23:08+02:00"
-        }
-      ],
+      "prices": [],
       "status": {
         "availability": 1,
         "status": 1,
@@ -27355,18 +24748,7 @@
     {
       "point_id": 221251,
       "code": "PL-BB4-E44980103",
-      "prices": [
-        {
-          "price": "1.31",
-          "unit": "kWh",
-          "ts": "2022-06-05T05:23:08+02:00"
-        },
-        {
-          "price": "0.00",
-          "unit": "min",
-          "ts": "2022-06-05T05:23:08+02:00"
-        }
-      ],
+      "prices": [],
       "status": {
         "availability": 1,
         "status": 1,
@@ -27376,18 +24758,7 @@
     {
       "point_id": 221252,
       "code": "PL-BB4-E44980104",
-      "prices": [
-        {
-          "price": "1.31",
-          "unit": "kWh",
-          "ts": "2022-06-05T05:23:08+02:00"
-        },
-        {
-          "price": "0.00",
-          "unit": "min",
-          "ts": "2022-06-05T05:23:08+02:00"
-        }
-      ],
+      "prices": [],
       "status": {
         "availability": 1,
         "status": 1,
@@ -27397,18 +24768,7 @@
     {
       "point_id": 229581,
       "code": "PL-BB4-E44990101",
-      "prices": [
-        {
-          "price": "2.31",
-          "unit": "kWh",
-          "ts": "2022-06-05T05:22:57+02:00"
-        },
-        {
-          "price": "0.00",
-          "unit": "min",
-          "ts": "2022-06-05T05:22:57+02:00"
-        }
-      ],
+      "prices": [],
       "status": {
         "availability": 1,
         "status": 1,
@@ -27418,18 +24778,7 @@
     {
       "point_id": 229582,
       "code": "PL-BB4-E44990102",
-      "prices": [
-        {
-          "price": "2.31",
-          "unit": "kWh",
-          "ts": "2022-06-05T05:23:04+02:00"
-        },
-        {
-          "price": "0.00",
-          "unit": "min",
-          "ts": "2022-06-05T05:23:04+02:00"
-        }
-      ],
+      "prices": [],
       "status": {
         "availability": 1,
         "status": 1,
@@ -27439,18 +24788,7 @@
     {
       "point_id": 229583,
       "code": "PL-BB4-E44990103",
-      "prices": [
-        {
-          "price": "1.31",
-          "unit": "kWh",
-          "ts": "2022-06-05T05:22:59+02:00"
-        },
-        {
-          "price": "0.00",
-          "unit": "min",
-          "ts": "2022-06-05T05:22:59+02:00"
-        }
-      ],
+      "prices": [],
       "status": {
         "availability": 1,
         "status": 1,
@@ -27460,18 +24798,7 @@
     {
       "point_id": 229585,
       "code": "PL-BB4-E44990104",
-      "prices": [
-        {
-          "price": "1.31",
-          "unit": "kWh",
-          "ts": "2022-06-05T05:22:58+02:00"
-        },
-        {
-          "price": "0.00",
-          "unit": "min",
-          "ts": "2022-06-05T05:22:58+02:00"
-        }
-      ],
+      "prices": [],
       "status": {
         "availability": 1,
         "status": 1,
@@ -52581,9 +49908,9 @@
         }
       ],
       "status": {
-        "availability": 0,
+        "availability": 1,
         "status": 1,
-        "ts": "2022-06-05T11:02:33+02:00"
+        "ts": "2022-06-05T11:53:50+02:00"
       }
     },
     {
@@ -69681,8 +67008,8 @@
       ],
       "status": {
         "availability": 1,
-        "status": 0,
-        "ts": "2022-06-05T11:36:12+02:00"
+        "status": 1,
+        "ts": "2022-06-05T11:53:58+02:00"
       }
     },
     {
@@ -71336,9 +68663,9 @@
         }
       ],
       "status": {
-        "availability": 1,
-        "status": 1,
-        "ts": "2022-06-02T07:27:57+02:00"
+        "availability": 0,
+        "status": 0,
+        "ts": "2022-06-05T11:53:53+02:00"
       }
     },
     {
@@ -71382,9 +68709,9 @@
         }
       ],
       "status": {
-        "availability": 1,
+        "availability": 0,
         "status": 0,
-        "ts": "2022-06-05T11:43:06+02:00"
+        "ts": "2022-06-05T11:53:59+02:00"
       }
     },
     {
@@ -79374,7 +76701,7 @@
       "status": {
         "availability": 1,
         "status": 1,
-        "ts": "2022-06-05T11:50:10+02:00"
+        "ts": "2022-06-05T11:51:11+02:00"
       }
     },
     {
@@ -79390,7 +76717,7 @@
       "status": {
         "availability": 1,
         "status": 1,
-        "ts": "2022-06-05T11:50:10+02:00"
+        "ts": "2022-06-05T11:51:11+02:00"
       }
     },
     {
@@ -79406,7 +76733,7 @@
       "status": {
         "availability": 1,
         "status": 1,
-        "ts": "2022-06-05T11:50:10+02:00"
+        "ts": "2022-06-05T11:51:11+02:00"
       }
     },
     {
@@ -79416,7 +76743,7 @@
       "status": {
         "availability": 1,
         "status": 1,
-        "ts": "2022-06-05T11:50:10+02:00"
+        "ts": "2022-06-05T11:51:11+02:00"
       }
     },
     {
@@ -79426,7 +76753,7 @@
       "status": {
         "availability": 1,
         "status": 1,
-        "ts": "2022-06-05T11:50:10+02:00"
+        "ts": "2022-06-05T11:51:11+02:00"
       }
     },
     {
@@ -79436,7 +76763,7 @@
       "status": {
         "availability": 1,
         "status": 1,
-        "ts": "2022-06-05T11:50:10+02:00"
+        "ts": "2022-06-05T11:51:11+02:00"
       }
     },
     {
@@ -81858,5 +79185,5 @@
       }
     }
   ],
-  "generated": "2022-06-05T11:53:04+02:00"
+  "generated": "2022-06-05T11:54:05+02:00"
 }
