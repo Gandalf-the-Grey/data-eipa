@@ -35601,32 +35601,6 @@
     },
     {
       "authentication_methods": [
-        2,
-        4,
-        8,
-        32
-      ],
-      "latitude": 50.06667,
-      "longitude": 21.930668,
-      "payment_methods": [
-        1,
-        2,
-        128
-      ],
-      "pool_id": 83939,
-      "id": 99580,
-      "images": [],
-      "location": {
-        "city": "Świlcza",
-        "community": "Świlcza",
-        "district": "rzeszowski",
-        "province": "podkarpackie"
-      },
-      "ts": "2022-01-14T18:48:54+01:00",
-      "type": "E"
-    },
-    {
-      "authentication_methods": [
         0
       ],
       "latitude": 50.0111,
@@ -36597,5 +36571,5 @@
       "type": "E"
     }
   ],
-  "generated": "2022-06-06T20:25:05+02:00"
+  "generated": "2022-06-06T20:40:05+02:00"
 }
