@@ -74033,6 +74033,31 @@
       "fuel_types": [],
       "gas_connector_interfaces": [],
       "hydrogen_refill_solutions": [],
+      "station_id": 99694,
+      "charging_solutions": [
+        {
+          "mode": 7,
+          "power": 30
+        }
+      ],
+      "connectors": [
+        {
+          "interfaces": [
+            29
+          ],
+          "cable_attached": true,
+          "power": 30,
+          "ts": "2022-05-18T20:47:22+02:00"
+        }
+      ],
+      "code": "PL-35S-E10000632",
+      "id": 264043,
+      "ts": "2022-05-25T12:19:45+02:00"
+    },
+    {
+      "fuel_types": [],
+      "gas_connector_interfaces": [],
+      "hydrogen_refill_solutions": [],
       "station_id": 41983,
       "charging_solutions": [
         {
@@ -76633,5 +76658,5 @@
       "ts": "2022-06-01T19:11:44+02:00"
     }
   ],
-  "generated": "2022-06-06T19:10:09+02:00"
+  "generated": "2022-06-06T19:25:09+02:00"
 }
