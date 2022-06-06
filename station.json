@@ -36118,57 +36118,6 @@
     },
     {
       "authentication_methods": [
-        2,
-        4,
-        8,
-        32
-      ],
-      "latitude": 50.067182,
-      "longitude": 22.014142,
-      "payment_methods": [
-        1,
-        2,
-        128
-      ],
-      "pool_id": 83925,
-      "id": 99562,
-      "images": [],
-      "location": {
-        "city": "Rzeszów",
-        "community": "Rzeszów",
-        "district": "Rzeszów",
-        "province": "podkarpackie"
-      },
-      "ts": "2022-02-01T12:04:56+01:00",
-      "type": "E"
-    },
-    {
-      "authentication_methods": [
-        2,
-        4,
-        8,
-        32
-      ],
-      "latitude": 50.067182,
-      "longitude": 22.014142,
-      "payment_methods": [
-        2,
-        128
-      ],
-      "pool_id": 83925,
-      "id": 99563,
-      "images": [],
-      "location": {
-        "city": "Rzeszów",
-        "community": "Rzeszów",
-        "district": "Rzeszów",
-        "province": "podkarpackie"
-      },
-      "ts": "2022-01-05T20:52:04+01:00",
-      "type": "E"
-    },
-    {
-      "authentication_methods": [
         0
       ],
       "latitude": 50.246,
@@ -36647,5 +36596,5 @@
       "type": "E"
     }
   ],
-  "generated": "2022-06-06T14:25:05+02:00"
+  "generated": "2022-06-06T14:40:05+02:00"
 }
