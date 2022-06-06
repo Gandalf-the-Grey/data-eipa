@@ -1821,15 +1821,6 @@
       "website": "https://czach.volvocars-partner.pl"
     },
     {
-      "code": "PL-6B6",
-      "country": "pl",
-      "id": 210,
-      "name": "OMIG Sielecka Sp. z o.o.",
-      "phone": "228410031",
-      "type": 1,
-      "website": "http://www.omig.pl"
-    },
-    {
       "code": "PL-DEJ",
       "country": "pl",
       "email": "lcjdl.res@hilton.com",
@@ -2644,5 +2635,5 @@
       "website": "http://remontujesz-budujesz@wp.pl"
     }
   ],
-  "generated": "2022-06-06T09:10:03+02:00"
+  "generated": "2022-06-06T09:25:03+02:00"
 }
