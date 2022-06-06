@@ -35396,6 +35396,32 @@
     },
     {
       "authentication_methods": [
+        2,
+        4,
+        8,
+        32
+      ],
+      "latitude": 50.379811,
+      "longitude": 18.81216,
+      "payment_methods": [
+        1,
+        2,
+        128
+      ],
+      "pool_id": 84017,
+      "id": 99693,
+      "images": [],
+      "location": {
+        "city": "Zabrze",
+        "community": "Zabrze",
+        "district": "Zabrze",
+        "province": "śląskie"
+      },
+      "ts": "2021-08-30T15:02:00+02:00",
+      "type": "E"
+    },
+    {
+      "authentication_methods": [
         32
       ],
       "latitude": 53.1244682,
@@ -36621,5 +36647,5 @@
       "type": "E"
     }
   ],
-  "generated": "2022-06-06T17:10:05+02:00"
+  "generated": "2022-06-06T17:25:06+02:00"
 }
