@@ -33959,31 +33959,6 @@
         128
       ],
       "pool_id": 83987,
-      "id": 99644,
-      "images": [],
-      "location": {
-        "city": "Gdańsk",
-        "community": "Gdańsk",
-        "district": "Gdańsk",
-        "province": "pomorskie"
-      },
-      "ts": "2021-12-30T21:30:48+01:00",
-      "type": "E"
-    },
-    {
-      "authentication_methods": [
-        2,
-        4,
-        8,
-        32
-      ],
-      "latitude": 54.396335,
-      "longitude": 18.579018,
-      "payment_methods": [
-        2,
-        128
-      ],
-      "pool_id": 83987,
       "id": 99645,
       "images": [],
       "location": {
@@ -36245,6 +36220,32 @@
     },
     {
       "authentication_methods": [
+        2,
+        4,
+        8,
+        32
+      ],
+      "latitude": 52.480795,
+      "longitude": 16.865863,
+      "payment_methods": [
+        1,
+        2,
+        128
+      ],
+      "pool_id": 84027,
+      "id": 99705,
+      "images": [],
+      "location": {
+        "city": "Suchy Las",
+        "community": "Suchy Las",
+        "district": "poznański",
+        "province": "wielkopolskie"
+      },
+      "ts": "2022-01-14T18:13:39+01:00",
+      "type": "E"
+    },
+    {
+      "authentication_methods": [
         32
       ],
       "latitude": 50.8060769,
@@ -36596,5 +36597,5 @@
       "type": "E"
     }
   ],
-  "generated": "2022-06-06T20:10:06+02:00"
+  "generated": "2022-06-06T20:25:05+02:00"
 }
