@@ -35755,6 +35755,162 @@
     },
     {
       "authentication_methods": [
+        2,
+        4,
+        8,
+        32
+      ],
+      "latitude": 52.213721,
+      "longitude": 20.691277,
+      "payment_methods": [
+        1,
+        2,
+        128
+      ],
+      "pool_id": 84030,
+      "id": 99709,
+      "images": [],
+      "location": {
+        "city": "Święcice",
+        "community": "Ożarów Mazowiecki",
+        "district": "warszawski zachodni",
+        "province": "mazowieckie"
+      },
+      "ts": "2021-10-19T12:17:20+02:00",
+      "type": "E"
+    },
+    {
+      "authentication_methods": [
+        2,
+        4,
+        8,
+        32
+      ],
+      "latitude": 52.213721,
+      "longitude": 20.691277,
+      "payment_methods": [
+        1,
+        2,
+        128
+      ],
+      "pool_id": 84030,
+      "id": 99710,
+      "images": [],
+      "location": {
+        "city": "Święcice",
+        "community": "Ożarów Mazowiecki",
+        "district": "warszawski zachodni",
+        "province": "mazowieckie"
+      },
+      "ts": "2021-10-19T13:24:55+02:00",
+      "type": "E"
+    },
+    {
+      "authentication_methods": [
+        2,
+        4,
+        8,
+        32
+      ],
+      "latitude": 54.326466,
+      "longitude": 18.539241,
+      "payment_methods": [
+        1,
+        2,
+        128
+      ],
+      "pool_id": 84031,
+      "id": 99711,
+      "images": [],
+      "location": {
+        "city": "Gdańsk",
+        "community": "Gdańsk",
+        "district": "Gdańsk",
+        "province": "pomorskie"
+      },
+      "ts": "2021-10-19T13:22:02+02:00",
+      "type": "E"
+    },
+    {
+      "authentication_methods": [
+        2,
+        4,
+        8,
+        32
+      ],
+      "latitude": 54.326466,
+      "longitude": 18.539241,
+      "payment_methods": [
+        1,
+        2,
+        128
+      ],
+      "pool_id": 84031,
+      "id": 99712,
+      "images": [],
+      "location": {
+        "city": "Gdańsk",
+        "community": "Gdańsk",
+        "district": "Gdańsk",
+        "province": "pomorskie"
+      },
+      "ts": "2021-10-19T13:22:02+02:00",
+      "type": "E"
+    },
+    {
+      "authentication_methods": [
+        2,
+        4,
+        8,
+        32
+      ],
+      "latitude": 53.331354,
+      "longitude": 14.542727,
+      "payment_methods": [
+        1,
+        2,
+        128
+      ],
+      "pool_id": 84032,
+      "id": 99713,
+      "images": [],
+      "location": {
+        "city": "Radziszewo",
+        "community": "Gryfino",
+        "district": "gryfiński",
+        "province": "zachodniopomorskie"
+      },
+      "ts": "2021-10-19T13:02:50+02:00",
+      "type": "E"
+    },
+    {
+      "authentication_methods": [
+        2,
+        4,
+        8,
+        32
+      ],
+      "latitude": 53.331354,
+      "longitude": 14.542727,
+      "payment_methods": [
+        1,
+        2,
+        128
+      ],
+      "pool_id": 84032,
+      "id": 99714,
+      "images": [],
+      "location": {
+        "city": "Radziszewo",
+        "community": "Gryfino",
+        "district": "gryfiński",
+        "province": "zachodniopomorskie"
+      },
+      "ts": "2021-10-19T13:02:50+02:00",
+      "type": "E"
+    },
+    {
+      "authentication_methods": [
         32
       ],
       "latitude": 54.03431,
@@ -36552,5 +36708,5 @@
       "type": "E"
     }
   ],
-  "generated": "2022-06-07T15:10:06+02:00"
+  "generated": "2022-06-07T15:25:05+02:00"
 }
