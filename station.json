@@ -35933,83 +35933,6 @@
     },
     {
       "authentication_methods": [
-        2,
-        4,
-        8,
-        32
-      ],
-      "latitude": 51.212113,
-      "longitude": 22.645503,
-      "payment_methods": [
-        1,
-        2,
-        128
-      ],
-      "pool_id": 83952,
-      "id": 99600,
-      "images": [],
-      "location": {
-        "city": "Świdnik",
-        "community": "Świdnik",
-        "district": "świdnicki",
-        "province": "lubelskie"
-      },
-      "ts": "2021-11-03T16:53:52+01:00",
-      "type": "E"
-    },
-    {
-      "authentication_methods": [
-        2,
-        4,
-        8,
-        32
-      ],
-      "latitude": 51.212113,
-      "longitude": 22.645503,
-      "payment_methods": [
-        1,
-        2,
-        128
-      ],
-      "pool_id": 83952,
-      "id": 99601,
-      "images": [],
-      "location": {
-        "city": "Świdnik",
-        "community": "Świdnik",
-        "district": "świdnicki",
-        "province": "lubelskie"
-      },
-      "ts": "2021-11-05T18:07:14+01:00",
-      "type": "E"
-    },
-    {
-      "authentication_methods": [
-        2,
-        4,
-        8,
-        32
-      ],
-      "latitude": 51.212113,
-      "longitude": 22.645503,
-      "payment_methods": [
-        2,
-        128
-      ],
-      "pool_id": 83952,
-      "id": 99602,
-      "images": [],
-      "location": {
-        "city": "Świdnik",
-        "community": "Świdnik",
-        "district": "świdnicki",
-        "province": "lubelskie"
-      },
-      "ts": "2021-11-03T16:53:52+01:00",
-      "type": "E"
-    },
-    {
-      "authentication_methods": [
         0,
         2,
         4,
@@ -36708,5 +36631,5 @@
       "type": "E"
     }
   ],
-  "generated": "2022-06-07T21:40:06+02:00"
+  "generated": "2022-06-07T21:55:05+02:00"
 }
