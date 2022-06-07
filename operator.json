@@ -1429,8 +1429,8 @@
       "country": "pl",
       "email": "support@nexity.io",
       "id": 164,
-      "name": "AUTOCENTRUM GLIWICE-LELLEK GROUP SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ–SPÓŁKAKOMANDYTOWA",
-      "phone": "48185428428",
+      "name": "LELLEK Gliwice Sp. z o.o.",
+      "phone": "+48185428428",
       "short_name": "Lellek Gliwice",
       "type": 1,
       "website": "http://www.nexity.io"
@@ -1440,8 +1440,8 @@
       "country": "pl",
       "email": "support@nexity.io",
       "id": 165,
-      "name": "KATOWICE LELLEK GROUP SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ–SPÓŁKAKOMANDYTOWA",
-      "phone": "48185428428",
+      "name": "LELLEK Katowice Sp. z o.o.",
+      "phone": "+48185428428",
       "short_name": "Lellek Group Katowice",
       "type": 1,
       "website": "http://www.nexity.io"
@@ -1451,8 +1451,8 @@
       "country": "pl",
       "email": "support@nexity.io",
       "id": 166,
-      "name": "AUTO CENTRUM KOŹLE LELLEK GROUP Sp.zo.o. Sp.k.",
-      "phone": "48185428428",
+      "name": "LELLEK Koźle Sp. z o.o.",
+      "phone": "+48185428428",
       "short_name": "Lellek Group Kędzierzyn Koźle",
       "type": 1,
       "website": "http://www.nexity.io"
@@ -2635,5 +2635,5 @@
       "website": "http://remontujesz-budujesz@wp.pl"
     }
   ],
-  "generated": "2022-06-07T13:25:03+02:00"
+  "generated": "2022-06-07T13:40:03+02:00"
 }
