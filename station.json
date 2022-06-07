@@ -30772,6 +30772,27 @@
     },
     {
       "authentication_methods": [
+        32
+      ],
+      "latitude": 52.22552,
+      "longitude": 21.03739,
+      "payment_methods": [
+        2
+      ],
+      "pool_id": 74447,
+      "id": 89387,
+      "images": [],
+      "location": {
+        "city": "Warszawa",
+        "community": "Warszawa",
+        "district": "Warszawa",
+        "province": "mazowieckie"
+      },
+      "ts": "2022-01-27T13:48:37+01:00",
+      "type": "E"
+    },
+    {
+      "authentication_methods": [
         2,
         8,
         64
@@ -34663,6 +34684,50 @@
     },
     {
       "authentication_methods": [
+        2,
+        32
+      ],
+      "latitude": 53.146035,
+      "longitude": 23.071477,
+      "payment_methods": [
+        4
+      ],
+      "pool_id": 35143,
+      "id": 41591,
+      "images": [],
+      "location": {
+        "city": "Porosły",
+        "community": "Choroszcz",
+        "district": "białostocki",
+        "province": "podlaskie"
+      },
+      "ts": "2021-03-26T09:32:06+01:00",
+      "type": "E"
+    },
+    {
+      "authentication_methods": [
+        2,
+        32
+      ],
+      "latitude": 53.145978,
+      "longitude": 23.070927,
+      "payment_methods": [
+        4
+      ],
+      "pool_id": 35143,
+      "id": 97353,
+      "images": [],
+      "location": {
+        "city": "Białystok",
+        "community": "Białystok",
+        "district": "Białystok",
+        "province": "podlaskie"
+      },
+      "ts": "2022-02-24T08:46:52+01:00",
+      "type": "E"
+    },
+    {
+      "authentication_methods": [
         1
       ],
       "latitude": 54.409944,
@@ -36270,6 +36335,27 @@
     },
     {
       "authentication_methods": [
+        512
+      ],
+      "latitude": 50.2664,
+      "longitude": 19.01041,
+      "payment_methods": [
+        0
+      ],
+      "pool_id": 83616,
+      "id": 99621,
+      "images": [],
+      "location": {
+        "city": "Katowice",
+        "community": "Katowice",
+        "district": "Katowice",
+        "province": "śląskie"
+      },
+      "ts": "2022-06-01T12:05:32+02:00",
+      "type": "E"
+    },
+    {
+      "authentication_methods": [
         32
       ],
       "latitude": 52.20917913,
@@ -36546,6 +36632,31 @@
       "type": "E"
     },
     {
+      "authentication_methods": [
+        2,
+        4,
+        8,
+        32
+      ],
+      "latitude": 51.826774,
+      "longitude": 16.604616,
+      "payment_methods": [
+        2,
+        128
+      ],
+      "pool_id": 83977,
+      "id": 99630,
+      "images": [],
+      "location": {
+        "city": "Leszno",
+        "community": "Leszno",
+        "district": "Leszno",
+        "province": "wielkopolskie"
+      },
+      "ts": "2022-05-25T12:19:45+02:00",
+      "type": "E"
+    },
+    {
       "authentication_methods": [],
       "latitude": 51.16648,
       "longitude": 15.02348,
@@ -36597,5 +36708,5 @@
       "type": "E"
     }
   ],
-  "generated": "2022-06-07T05:10:06+02:00"
+  "generated": "2022-06-07T05:25:05+02:00"
 }

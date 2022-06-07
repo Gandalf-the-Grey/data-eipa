@@ -68232,6 +68232,31 @@
       "fuel_types": [],
       "gas_connector_interfaces": [],
       "hydrogen_refill_solutions": [],
+      "station_id": 89387,
+      "charging_solutions": [
+        {
+          "mode": 5,
+          "power": 22
+        }
+      ],
+      "connectors": [
+        {
+          "interfaces": [
+            23
+          ],
+          "cable_attached": false,
+          "power": 22,
+          "ts": "2022-01-26T18:10:03+01:00"
+        }
+      ],
+      "code": "PL-Z75-E00000106",
+      "id": 249477,
+      "ts": "2022-01-26T17:57:02+01:00"
+    },
+    {
+      "fuel_types": [],
+      "gas_connector_interfaces": [],
+      "hydrogen_refill_solutions": [],
       "station_id": 98533,
       "charging_solutions": [
         {
@@ -73883,6 +73908,56 @@
       "fuel_types": [],
       "gas_connector_interfaces": [],
       "hydrogen_refill_solutions": [],
+      "station_id": 41591,
+      "charging_solutions": [
+        {
+          "mode": 7,
+          "power": 30
+        }
+      ],
+      "connectors": [
+        {
+          "interfaces": [
+            29
+          ],
+          "cable_attached": true,
+          "power": 30,
+          "ts": "2021-03-26T09:24:26+01:00"
+        }
+      ],
+      "code": "PL-G3X-ENX055908",
+      "id": 148541,
+      "ts": "2021-03-26T09:22:58+01:00"
+    },
+    {
+      "fuel_types": [],
+      "gas_connector_interfaces": [],
+      "hydrogen_refill_solutions": [],
+      "station_id": 97353,
+      "charging_solutions": [
+        {
+          "mode": 6,
+          "power": 22
+        }
+      ],
+      "connectors": [
+        {
+          "interfaces": [
+            17
+          ],
+          "cable_attached": true,
+          "power": 22,
+          "ts": "2022-02-24T08:46:44+01:00"
+        }
+      ],
+      "code": "PL-G3X-ENX056222",
+      "id": 257510,
+      "ts": "2022-02-24T08:44:41+01:00"
+    },
+    {
+      "fuel_types": [],
+      "gas_connector_interfaces": [],
+      "hydrogen_refill_solutions": [],
       "station_id": 41732,
       "charging_solutions": [
         {
@@ -76126,6 +76201,28 @@
       "fuel_types": [],
       "gas_connector_interfaces": [],
       "hydrogen_refill_solutions": [],
+      "station_id": 99621,
+      "charging_solutions": [],
+      "connectors": [],
+      "code": "PL-X1T-E99621E01",
+      "id": 263951,
+      "ts": "2022-06-01T11:50:08+02:00"
+    },
+    {
+      "fuel_types": [],
+      "gas_connector_interfaces": [],
+      "hydrogen_refill_solutions": [],
+      "station_id": 99621,
+      "charging_solutions": [],
+      "connectors": [],
+      "code": "PL-X1T-E99621E02",
+      "id": 263952,
+      "ts": "2022-06-01T11:50:08+02:00"
+    },
+    {
+      "fuel_types": [],
+      "gas_connector_interfaces": [],
+      "hydrogen_refill_solutions": [],
       "station_id": 97076,
       "charging_solutions": [
         {
@@ -76551,6 +76648,31 @@
       "ts": "2022-04-12T13:17:16+02:00"
     },
     {
+      "fuel_types": [],
+      "gas_connector_interfaces": [],
+      "hydrogen_refill_solutions": [],
+      "station_id": 99630,
+      "charging_solutions": [
+        {
+          "mode": 6,
+          "power": 22
+        }
+      ],
+      "connectors": [
+        {
+          "interfaces": [
+            10
+          ],
+          "cable_attached": false,
+          "power": 22,
+          "ts": "2022-05-26T12:19:14+02:00"
+        }
+      ],
+      "code": "PL-QAW-E53OCLZQT",
+      "id": 263962,
+      "ts": "2022-05-25T12:19:45+02:00"
+    },
+    {
       "fuel_types": [
         1
       ],
@@ -76608,5 +76730,5 @@
       "ts": "2022-06-01T19:11:44+02:00"
     }
   ],
-  "generated": "2022-06-07T05:10:09+02:00"
+  "generated": "2022-06-07T05:25:09+02:00"
 }
