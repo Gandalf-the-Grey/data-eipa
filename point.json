@@ -74616,31 +74616,6 @@
       "fuel_types": [],
       "gas_connector_interfaces": [],
       "hydrogen_refill_solutions": [],
-      "station_id": 99597,
-      "charging_solutions": [
-        {
-          "mode": 7,
-          "power": 30
-        }
-      ],
-      "connectors": [
-        {
-          "interfaces": [
-            29
-          ],
-          "cable_attached": true,
-          "power": 30,
-          "ts": "2022-04-26T18:28:07+02:00"
-        }
-      ],
-      "code": "PL-115-E01891275",
-      "id": 263909,
-      "ts": "2022-04-05T18:55:14+02:00"
-    },
-    {
-      "fuel_types": [],
-      "gas_connector_interfaces": [],
-      "hydrogen_refill_solutions": [],
       "station_id": 99722,
       "charging_solutions": [
         {
@@ -76713,5 +76688,5 @@
       "ts": "2022-06-01T19:11:44+02:00"
     }
   ],
-  "generated": "2022-06-07T19:25:09+02:00"
+  "generated": "2022-06-07T19:40:09+02:00"
 }
