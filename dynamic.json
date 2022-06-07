@@ -223,7 +223,7 @@
       "status": {
         "availability": 1,
         "status": 1,
-        "ts": "2022-06-05T10:39:08+02:00"
+        "ts": "2022-06-07T14:49:06+02:00"
       }
     },
     {
@@ -10324,8 +10324,8 @@
       ],
       "status": {
         "availability": 1,
-        "status": 0,
-        "ts": "2022-06-07T14:47:19+02:00"
+        "status": 1,
+        "ts": "2022-06-07T14:49:29+02:00"
       }
     },
     {
@@ -17022,8 +17022,8 @@
       ],
       "status": {
         "availability": 1,
-        "status": 1,
-        "ts": "2022-06-07T10:29:57+02:00"
+        "status": 0,
+        "ts": "2022-06-07T14:49:19+02:00"
       }
     },
     {
@@ -17044,8 +17044,8 @@
       ],
       "status": {
         "availability": 1,
-        "status": 0,
-        "ts": "2022-06-07T14:48:49+02:00"
+        "status": 1,
+        "ts": "2022-06-07T14:49:09+02:00"
       }
     },
     {
@@ -20361,8 +20361,8 @@
         }
       ],
       "status": {
-        "availability": 1,
-        "status": 1,
+        "availability": 0,
+        "status": 0,
         "ts": "2022-06-06T03:46:10+02:00"
       }
     },
@@ -20377,8 +20377,8 @@
         }
       ],
       "status": {
-        "availability": 1,
-        "status": 1,
+        "availability": 0,
+        "status": 0,
         "ts": "2022-06-05T17:45:46+02:00"
       }
     },
@@ -20425,8 +20425,8 @@
         }
       ],
       "status": {
-        "availability": 1,
-        "status": 1,
+        "availability": 0,
+        "status": 0,
         "ts": "2022-06-05T22:45:01+02:00"
       }
     },
@@ -20446,8 +20446,8 @@
         }
       ],
       "status": {
-        "availability": 1,
-        "status": 1,
+        "availability": 0,
+        "status": 0,
         "ts": "2022-06-06T17:35:02+02:00"
       }
     },
@@ -20462,8 +20462,8 @@
         }
       ],
       "status": {
-        "availability": 1,
-        "status": 1,
+        "availability": 0,
+        "status": 0,
         "ts": "2022-06-03T14:15:40+02:00"
       }
     },
@@ -20483,8 +20483,8 @@
         }
       ],
       "status": {
-        "availability": 1,
-        "status": 1,
+        "availability": 0,
+        "status": 0,
         "ts": "2022-06-03T15:09:52+02:00"
       }
     },
@@ -20536,8 +20536,8 @@
         }
       ],
       "status": {
-        "availability": 1,
-        "status": 1,
+        "availability": 0,
+        "status": 0,
         "ts": "2022-05-25T13:51:12+02:00"
       }
     },
@@ -20557,8 +20557,8 @@
         }
       ],
       "status": {
-        "availability": 1,
-        "status": 1,
+        "availability": 0,
+        "status": 0,
         "ts": "2022-06-01T23:50:32+02:00"
       }
     },
@@ -20573,8 +20573,8 @@
         }
       ],
       "status": {
-        "availability": 1,
-        "status": 1,
+        "availability": 0,
+        "status": 0,
         "ts": "2022-06-05T15:41:55+02:00"
       }
     },
@@ -20594,8 +20594,8 @@
         }
       ],
       "status": {
-        "availability": 1,
-        "status": 1,
+        "availability": 0,
+        "status": 0,
         "ts": "2022-06-06T17:36:39+02:00"
       }
     },
@@ -20642,8 +20642,8 @@
         }
       ],
       "status": {
-        "availability": 1,
-        "status": 1,
+        "availability": 0,
+        "status": 0,
         "ts": "2022-06-03T20:48:26+02:00"
       }
     },
@@ -20658,8 +20658,8 @@
         }
       ],
       "status": {
-        "availability": 1,
-        "status": 1,
+        "availability": 0,
+        "status": 0,
         "ts": "2022-03-26T16:56:33+01:00"
       }
     },
@@ -20695,8 +20695,8 @@
         }
       ],
       "status": {
-        "availability": 1,
-        "status": 1,
+        "availability": 0,
+        "status": 0,
         "ts": "2022-06-05T02:27:09+02:00"
       }
     },
@@ -20817,8 +20817,8 @@
         }
       ],
       "status": {
-        "availability": 1,
-        "status": 1,
+        "availability": 0,
+        "status": 0,
         "ts": "2022-06-02T15:35:58+02:00"
       }
     },
@@ -20838,8 +20838,8 @@
         }
       ],
       "status": {
-        "availability": 1,
-        "status": 1,
+        "availability": 0,
+        "status": 0,
         "ts": "2022-06-06T20:01:13+02:00"
       }
     },
@@ -20854,8 +20854,8 @@
         }
       ],
       "status": {
-        "availability": 1,
-        "status": 1,
+        "availability": 0,
+        "status": 0,
         "ts": "2022-05-28T00:39:05+02:00"
       }
     },
@@ -20875,8 +20875,8 @@
         }
       ],
       "status": {
-        "availability": 1,
-        "status": 1,
+        "availability": 0,
+        "status": 0,
         "ts": "2022-06-02T13:34:59+02:00"
       }
     },
@@ -20923,8 +20923,8 @@
         }
       ],
       "status": {
-        "availability": 1,
-        "status": 1,
+        "availability": 0,
+        "status": 0,
         "ts": "2022-05-19T09:43:27+02:00"
       }
     },
@@ -20944,8 +20944,8 @@
         }
       ],
       "status": {
-        "availability": 1,
-        "status": 1,
+        "availability": 0,
+        "status": 0,
         "ts": "2022-05-19T09:43:27+02:00"
       }
     },
@@ -20992,8 +20992,8 @@
         }
       ],
       "status": {
-        "availability": 1,
-        "status": 1,
+        "availability": 0,
+        "status": 0,
         "ts": "2022-06-04T10:13:04+02:00"
       }
     },
@@ -21008,8 +21008,8 @@
         }
       ],
       "status": {
-        "availability": 1,
-        "status": 1,
+        "availability": 0,
+        "status": 0,
         "ts": "2022-05-22T17:18:58+02:00"
       }
     },
@@ -21024,8 +21024,8 @@
         }
       ],
       "status": {
-        "availability": 1,
-        "status": 1,
+        "availability": 0,
+        "status": 0,
         "ts": "2022-05-23T10:35:47+02:00"
       }
     },
@@ -21040,8 +21040,8 @@
         }
       ],
       "status": {
-        "availability": 1,
-        "status": 1,
+        "availability": 0,
+        "status": 0,
         "ts": "2022-05-23T09:43:07+02:00"
       }
     },
@@ -21157,8 +21157,8 @@
         }
       ],
       "status": {
-        "availability": 1,
-        "status": 1,
+        "availability": 0,
+        "status": 0,
         "ts": "2022-06-04T12:03:39+02:00"
       }
     },
@@ -21178,8 +21178,8 @@
         }
       ],
       "status": {
-        "availability": 1,
-        "status": 1,
+        "availability": 0,
+        "status": 0,
         "ts": "2022-06-07T13:15:44+02:00"
       }
     },
@@ -21194,8 +21194,8 @@
         }
       ],
       "status": {
-        "availability": 1,
-        "status": 1,
+        "availability": 0,
+        "status": 0,
         "ts": "2022-05-24T08:41:49+02:00"
       }
     },
@@ -21215,8 +21215,8 @@
         }
       ],
       "status": {
-        "availability": 1,
-        "status": 1,
+        "availability": 0,
+        "status": 0,
         "ts": "2022-05-24T08:12:16+02:00"
       }
     },
@@ -21305,8 +21305,8 @@
         }
       ],
       "status": {
-        "availability": 1,
-        "status": 1,
+        "availability": 0,
+        "status": 0,
         "ts": "2022-05-28T18:05:28+02:00"
       }
     },
@@ -21321,8 +21321,8 @@
         }
       ],
       "status": {
-        "availability": 1,
-        "status": 1,
+        "availability": 0,
+        "status": 0,
         "ts": "2022-04-27T22:02:36+02:00"
       }
     },
@@ -21337,7 +21337,7 @@
         }
       ],
       "status": {
-        "availability": 1,
+        "availability": 0,
         "status": 0,
         "ts": "2022-06-07T13:52:15+02:00"
       }
@@ -21358,8 +21358,8 @@
         }
       ],
       "status": {
-        "availability": 1,
-        "status": 1,
+        "availability": 0,
+        "status": 0,
         "ts": "2022-06-07T14:02:38+02:00"
       }
     },
@@ -21491,9 +21491,9 @@
         }
       ],
       "status": {
-        "availability": 1,
-        "status": 1,
-        "ts": "2022-06-04T21:43:49+02:00"
+        "availability": 0,
+        "status": 0,
+        "ts": "2022-06-07T12:26:06+02:00"
       }
     },
     {
@@ -21544,8 +21544,8 @@
         }
       ],
       "status": {
-        "availability": 1,
-        "status": 1,
+        "availability": 0,
+        "status": 0,
         "ts": "2022-06-05T12:04:48+02:00"
       }
     },
@@ -21655,8 +21655,8 @@
         }
       ],
       "status": {
-        "availability": 1,
-        "status": 1,
+        "availability": 0,
+        "status": 0,
         "ts": "2022-06-05T20:46:38+02:00"
       }
     },
@@ -21777,8 +21777,8 @@
         }
       ],
       "status": {
-        "availability": 1,
-        "status": 1,
+        "availability": 0,
+        "status": 0,
         "ts": "2022-06-06T15:37:05+02:00"
       }
     },
@@ -21798,8 +21798,8 @@
         }
       ],
       "status": {
-        "availability": 1,
-        "status": 1,
+        "availability": 0,
+        "status": 0,
         "ts": "2022-06-07T07:44:33+02:00"
       }
     },
@@ -21947,8 +21947,8 @@
         }
       ],
       "status": {
-        "availability": 1,
-        "status": 1,
+        "availability": 0,
+        "status": 0,
         "ts": "2022-06-05T03:13:28+02:00"
       }
     },
@@ -21963,8 +21963,8 @@
         }
       ],
       "status": {
-        "availability": 1,
-        "status": 1,
+        "availability": 0,
+        "status": 0,
         "ts": "2022-05-30T14:03:00+02:00"
       }
     },
@@ -22080,8 +22080,8 @@
         }
       ],
       "status": {
-        "availability": 1,
-        "status": 1,
+        "availability": 0,
+        "status": 0,
         "ts": "2022-06-06T07:08:16+02:00"
       }
     },
@@ -22096,8 +22096,8 @@
         }
       ],
       "status": {
-        "availability": 1,
-        "status": 1,
+        "availability": 0,
+        "status": 0,
         "ts": "2022-06-06T09:25:38+02:00"
       }
     },
@@ -52359,7 +52359,7 @@
       "status": {
         "availability": 1,
         "status": 1,
-        "ts": "2022-06-07T08:49:18+02:00"
+        "ts": "2022-06-07T14:49:20+02:00"
       }
     },
     {
@@ -61285,8 +61285,8 @@
         }
       ],
       "status": {
-        "availability": 1,
-        "status": 1,
+        "availability": 0,
+        "status": 0,
         "ts": "2022-04-17T17:00:19+02:00"
       }
     },
@@ -61308,8 +61308,8 @@
         }
       ],
       "status": {
-        "availability": 1,
-        "status": 1,
+        "availability": 0,
+        "status": 0,
         "ts": "2022-04-19T07:57:31+02:00"
       }
     },
@@ -62205,8 +62205,8 @@
         }
       ],
       "status": {
-        "availability": 1,
-        "status": 1,
+        "availability": 0,
+        "status": 0,
         "ts": "2022-05-26T12:16:16+02:00"
       }
     },
@@ -62228,8 +62228,8 @@
         }
       ],
       "status": {
-        "availability": 1,
-        "status": 1,
+        "availability": 0,
+        "status": 0,
         "ts": "2022-05-04T15:30:56+02:00"
       }
     },
@@ -63171,8 +63171,8 @@
         }
       ],
       "status": {
-        "availability": 1,
-        "status": 1,
+        "availability": 0,
+        "status": 0,
         "ts": "2022-05-31T11:35:38+02:00"
       }
     },
@@ -63194,8 +63194,8 @@
         }
       ],
       "status": {
-        "availability": 1,
-        "status": 1,
+        "availability": 0,
+        "status": 0,
         "ts": "2022-05-31T15:27:31+02:00"
       }
     },
@@ -64459,8 +64459,8 @@
         }
       ],
       "status": {
-        "availability": 0,
-        "status": 0,
+        "availability": 1,
+        "status": 1,
         "ts": "2022-05-24T08:55:30+02:00"
       }
     },
@@ -64482,8 +64482,8 @@
         }
       ],
       "status": {
-        "availability": 0,
-        "status": 0,
+        "availability": 1,
+        "status": 1,
         "ts": "2022-05-08T09:20:08+02:00"
       }
     },
@@ -65149,8 +65149,8 @@
         }
       ],
       "status": {
-        "availability": 1,
-        "status": 1,
+        "availability": 0,
+        "status": 0,
         "ts": "2022-05-30T06:02:35+02:00"
       }
     },
@@ -65172,8 +65172,8 @@
         }
       ],
       "status": {
-        "availability": 1,
-        "status": 1,
+        "availability": 0,
+        "status": 0,
         "ts": "2022-06-06T21:19:30+02:00"
       }
     },
@@ -65241,8 +65241,8 @@
         }
       ],
       "status": {
-        "availability": 1,
-        "status": 1,
+        "availability": 0,
+        "status": 0,
         "ts": "2022-06-07T12:04:39+02:00"
       }
     },
@@ -65264,8 +65264,8 @@
         }
       ],
       "status": {
-        "availability": 1,
-        "status": 1,
+        "availability": 0,
+        "status": 0,
         "ts": "2022-06-07T12:04:24+02:00"
       }
     },
@@ -65287,8 +65287,8 @@
         }
       ],
       "status": {
-        "availability": 1,
-        "status": 1,
+        "availability": 0,
+        "status": 0,
         "ts": "2022-06-04T21:02:25+02:00"
       }
     },
@@ -65310,8 +65310,8 @@
         }
       ],
       "status": {
-        "availability": 1,
-        "status": 1,
+        "availability": 0,
+        "status": 0,
         "ts": "2022-06-04T21:25:04+02:00"
       }
     },
@@ -74797,8 +74797,8 @@
       ],
       "status": {
         "availability": 1,
-        "status": 0,
-        "ts": "2022-06-07T10:55:02+02:00"
+        "status": 1,
+        "ts": "2022-06-07T14:49:16+02:00"
       }
     },
     {
@@ -76794,7 +76794,7 @@
       "status": {
         "availability": 1,
         "status": 1,
-        "ts": "2022-06-07T14:41:09+02:00"
+        "ts": "2022-06-07T14:49:19+02:00"
       }
     },
     {
@@ -76810,7 +76810,7 @@
       "status": {
         "availability": 0,
         "status": 0,
-        "ts": "2022-06-07T14:41:09+02:00"
+        "ts": "2022-06-07T14:49:19+02:00"
       }
     },
     {
@@ -76826,7 +76826,7 @@
       "status": {
         "availability": 0,
         "status": 0,
-        "ts": "2022-06-07T14:41:09+02:00"
+        "ts": "2022-06-07T14:49:20+02:00"
       }
     },
     {
@@ -76842,7 +76842,7 @@
       "status": {
         "availability": 1,
         "status": 1,
-        "ts": "2022-06-07T14:41:10+02:00"
+        "ts": "2022-06-07T14:49:19+02:00"
       }
     },
     {
@@ -76858,7 +76858,7 @@
       "status": {
         "availability": 1,
         "status": 1,
-        "ts": "2022-06-07T14:41:10+02:00"
+        "ts": "2022-06-07T14:49:20+02:00"
       }
     },
     {
@@ -76874,7 +76874,7 @@
       "status": {
         "availability": 1,
         "status": 1,
-        "ts": "2022-06-07T14:41:09+02:00"
+        "ts": "2022-06-07T14:49:19+02:00"
       }
     },
     {
@@ -76890,7 +76890,7 @@
       "status": {
         "availability": 0,
         "status": 0,
-        "ts": "2022-06-07T14:41:09+02:00"
+        "ts": "2022-06-07T14:49:19+02:00"
       }
     },
     {
@@ -76906,7 +76906,7 @@
       "status": {
         "availability": 1,
         "status": 1,
-        "ts": "2022-06-07T14:41:09+02:00"
+        "ts": "2022-06-07T14:49:20+02:00"
       }
     },
     {
@@ -76922,7 +76922,7 @@
       "status": {
         "availability": 1,
         "status": 1,
-        "ts": "2022-06-07T14:41:10+02:00"
+        "ts": "2022-06-07T14:49:20+02:00"
       }
     },
     {
@@ -76938,7 +76938,7 @@
       "status": {
         "availability": 0,
         "status": 0,
-        "ts": "2022-06-07T14:41:10+02:00"
+        "ts": "2022-06-07T14:49:20+02:00"
       }
     },
     {
@@ -76954,7 +76954,7 @@
       "status": {
         "availability": 0,
         "status": 0,
-        "ts": "2022-06-07T14:41:10+02:00"
+        "ts": "2022-06-07T14:49:20+02:00"
       }
     },
     {
@@ -77627,9 +77627,9 @@
         }
       ],
       "status": {
-        "availability": 0,
+        "availability": 1,
         "status": 1,
-        "ts": "2022-06-07T14:46:27+02:00"
+        "ts": "2022-06-07T14:49:18+02:00"
       }
     },
     {
@@ -78269,7 +78269,7 @@
       "status": {
         "availability": 1,
         "status": 1,
-        "ts": "2022-06-07T14:48:49+02:00"
+        "ts": "2022-06-07T14:49:05+02:00"
       }
     },
     {
@@ -78525,7 +78525,7 @@
       "status": {
         "availability": 1,
         "status": 1,
-        "ts": "2022-06-07T14:48:27+02:00"
+        "ts": "2022-06-07T14:49:31+02:00"
       }
     },
     {
@@ -78541,7 +78541,7 @@
       "status": {
         "availability": 1,
         "status": 1,
-        "ts": "2022-06-07T14:48:29+02:00"
+        "ts": "2022-06-07T14:49:30+02:00"
       }
     },
     {
@@ -79384,7 +79384,7 @@
       "status": {
         "availability": 1,
         "status": 1,
-        "ts": "2022-06-07T14:46:11+02:00"
+        "ts": "2022-06-07T14:47:11+02:00"
       }
     },
     {
@@ -79400,7 +79400,7 @@
       "status": {
         "availability": 1,
         "status": 1,
-        "ts": "2022-06-07T14:46:11+02:00"
+        "ts": "2022-06-07T14:47:11+02:00"
       }
     },
     {
@@ -79416,7 +79416,7 @@
       "status": {
         "availability": 1,
         "status": 1,
-        "ts": "2022-06-07T14:46:11+02:00"
+        "ts": "2022-06-07T14:47:11+02:00"
       }
     },
     {
@@ -79426,7 +79426,7 @@
       "status": {
         "availability": 1,
         "status": 1,
-        "ts": "2022-06-07T14:46:11+02:00"
+        "ts": "2022-06-07T14:47:11+02:00"
       }
     },
     {
@@ -79436,7 +79436,7 @@
       "status": {
         "availability": 1,
         "status": 1,
-        "ts": "2022-06-07T14:46:11+02:00"
+        "ts": "2022-06-07T14:47:11+02:00"
       }
     },
     {
@@ -79446,7 +79446,7 @@
       "status": {
         "availability": 1,
         "status": 1,
-        "ts": "2022-06-07T14:46:11+02:00"
+        "ts": "2022-06-07T14:47:11+02:00"
       }
     },
     {
@@ -80949,7 +80949,7 @@
       "status": {
         "availability": 1,
         "status": 1,
-        "ts": "2022-06-07T14:45:56+02:00"
+        "ts": "2022-06-07T14:49:41+02:00"
       }
     },
     {
@@ -81461,7 +81461,7 @@
       "status": {
         "availability": 1,
         "status": 1,
-        "ts": "2022-06-07T14:49:02+02:00"
+        "ts": "2022-06-07T14:50:03+02:00"
       }
     },
     {
@@ -81477,7 +81477,7 @@
       "status": {
         "availability": 1,
         "status": 1,
-        "ts": "2022-06-07T14:49:01+02:00"
+        "ts": "2022-06-07T14:50:02+02:00"
       }
     },
     {
@@ -81774,5 +81774,5 @@
       }
     }
   ],
-  "generated": "2022-06-07T14:49:04+02:00"
+  "generated": "2022-06-07T14:50:05+02:00"
 }
