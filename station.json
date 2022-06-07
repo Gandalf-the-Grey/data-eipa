@@ -35166,6 +35166,31 @@
         8,
         32
       ],
+      "latitude": 49.995461,
+      "longitude": 20.038647,
+      "payment_methods": [
+        2,
+        128
+      ],
+      "pool_id": 84042,
+      "id": 99727,
+      "images": [],
+      "location": {
+        "city": "Wieliczka",
+        "community": "Wieliczka",
+        "district": "wielicki",
+        "province": "małopolskie"
+      },
+      "ts": "2022-04-05T18:55:14+02:00",
+      "type": "E"
+    },
+    {
+      "authentication_methods": [
+        2,
+        4,
+        8,
+        32
+      ],
       "latitude": 53.276643,
       "longitude": 19.409378,
       "payment_methods": [
@@ -36683,5 +36708,5 @@
       "type": "E"
     }
   ],
-  "generated": "2022-06-07T20:10:05+02:00"
+  "generated": "2022-06-07T20:25:06+02:00"
 }
