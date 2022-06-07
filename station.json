@@ -35186,56 +35186,6 @@
     },
     {
       "authentication_methods": [
-        2,
-        4,
-        8,
-        32
-      ],
-      "latitude": 53.276643,
-      "longitude": 19.409378,
-      "payment_methods": [
-        2,
-        128
-      ],
-      "pool_id": 83947,
-      "id": 99592,
-      "images": [],
-      "location": {
-        "city": "Karbowo",
-        "community": "Brodnica",
-        "district": "brodnicki",
-        "province": "kujawsko-pomorskie"
-      },
-      "ts": "2021-06-22T15:51:07+02:00",
-      "type": "E"
-    },
-    {
-      "authentication_methods": [
-        2,
-        4,
-        8,
-        32
-      ],
-      "latitude": 53.276643,
-      "longitude": 19.409378,
-      "payment_methods": [
-        2,
-        128
-      ],
-      "pool_id": 83947,
-      "id": 99593,
-      "images": [],
-      "location": {
-        "city": "Karbowo",
-        "community": "Brodnica",
-        "district": "brodnicki",
-        "province": "kujawsko-pomorskie"
-      },
-      "ts": "2021-06-22T15:51:07+02:00",
-      "type": "E"
-    },
-    {
-      "authentication_methods": [
         32
       ],
       "latitude": 52.859722,
@@ -36708,5 +36658,5 @@
       "type": "E"
     }
   ],
-  "generated": "2022-06-07T17:25:05+02:00"
+  "generated": "2022-06-07T17:40:06+02:00"
 }
