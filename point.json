@@ -75578,6 +75578,81 @@
       "fuel_types": [],
       "gas_connector_interfaces": [],
       "hydrogen_refill_solutions": [],
+      "station_id": 99730,
+      "charging_solutions": [
+        {
+          "mode": 7,
+          "power": 25
+        }
+      ],
+      "connectors": [
+        {
+          "interfaces": [
+            29
+          ],
+          "cable_attached": true,
+          "power": 25,
+          "ts": "2021-11-03T16:53:52+01:00"
+        }
+      ],
+      "code": "PL-T29-EXNFJUQO3",
+      "id": 264089,
+      "ts": "2021-11-03T16:53:52+01:00"
+    },
+    {
+      "fuel_types": [],
+      "gas_connector_interfaces": [],
+      "hydrogen_refill_solutions": [],
+      "station_id": 99731,
+      "charging_solutions": [
+        {
+          "mode": 6,
+          "power": 22
+        }
+      ],
+      "connectors": [
+        {
+          "interfaces": [
+            17
+          ],
+          "cable_attached": true,
+          "power": 22,
+          "ts": "2021-11-05T18:07:14+01:00"
+        }
+      ],
+      "code": "PL-T29-E8NN0JGYH",
+      "id": 264090,
+      "ts": "2021-11-05T18:07:14+01:00"
+    },
+    {
+      "fuel_types": [],
+      "gas_connector_interfaces": [],
+      "hydrogen_refill_solutions": [],
+      "station_id": 99732,
+      "charging_solutions": [
+        {
+          "mode": 7,
+          "power": 22
+        }
+      ],
+      "connectors": [
+        {
+          "interfaces": [
+            29
+          ],
+          "cable_attached": true,
+          "power": 22,
+          "ts": "2022-05-20T14:26:35+02:00"
+        }
+      ],
+      "code": "PL-T29-EOY9YSIPJ",
+      "id": 264091,
+      "ts": "2021-11-03T16:53:52+01:00"
+    },
+    {
+      "fuel_types": [],
+      "gas_connector_interfaces": [],
+      "hydrogen_refill_solutions": [],
       "station_id": 94989,
       "charging_solutions": [
         {
@@ -76638,5 +76713,5 @@
       "ts": "2022-06-01T19:11:44+02:00"
     }
   ],
-  "generated": "2022-06-07T22:10:09+02:00"
+  "generated": "2022-06-07T22:25:08+02:00"
 }
