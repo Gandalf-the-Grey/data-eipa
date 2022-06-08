@@ -32914,6 +32914,30 @@
       "authentication_methods": [
         32
       ],
+      "latitude": 50.02819632,
+      "longitude": 19.1984421,
+      "payment_methods": [
+        2,
+        4,
+        16,
+        32
+      ],
+      "pool_id": 70290,
+      "id": 84784,
+      "images": [],
+      "location": {
+        "city": "Oświęcim",
+        "community": "Oświęcim",
+        "district": "oświęcimski",
+        "province": "małopolskie"
+      },
+      "ts": "2022-01-12T11:25:29+01:00",
+      "type": "E"
+    },
+    {
+      "authentication_methods": [
+        32
+      ],
       "latitude": 50.37511791,
       "longitude": 18.32746653,
       "payment_methods": [
@@ -36708,5 +36732,5 @@
       "type": "E"
     }
   ],
-  "generated": "2022-06-08T05:10:07+02:00"
+  "generated": "2022-06-08T05:25:06+02:00"
 }
