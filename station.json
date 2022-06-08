@@ -34996,8 +34996,8 @@
         2,
         128
       ],
-      "pool_id": 83975,
-      "id": 99628,
+      "pool_id": 84053,
+      "id": 99745,
       "images": [],
       "location": {
         "city": "Płock",
@@ -36374,6 +36374,56 @@
     {
       "authentication_methods": [
         2,
+        4,
+        8,
+        32
+      ],
+      "latitude": 54.34811,
+      "longitude": 18.670714,
+      "payment_methods": [
+        2,
+        128
+      ],
+      "pool_id": 84052,
+      "id": 99743,
+      "images": [],
+      "location": {
+        "city": "Gdańsk",
+        "community": "Gdańsk",
+        "district": "Gdańsk",
+        "province": "pomorskie"
+      },
+      "ts": "2022-02-10T14:35:48+01:00",
+      "type": "E"
+    },
+    {
+      "authentication_methods": [
+        2,
+        4,
+        8,
+        32
+      ],
+      "latitude": 54.34811,
+      "longitude": 18.670714,
+      "payment_methods": [
+        2,
+        128
+      ],
+      "pool_id": 84052,
+      "id": 99744,
+      "images": [],
+      "location": {
+        "city": "Gdańsk",
+        "community": "Gdańsk",
+        "district": "Gdańsk",
+        "province": "pomorskie"
+      },
+      "ts": "2022-02-09T15:48:55+01:00",
+      "type": "E"
+    },
+    {
+      "authentication_methods": [
+        2,
         4
       ],
       "latitude": 52.86544444,
@@ -36627,5 +36677,5 @@
       "type": "E"
     }
   ],
-  "generated": "2022-06-08T18:10:05+02:00"
+  "generated": "2022-06-08T18:25:05+02:00"
 }
