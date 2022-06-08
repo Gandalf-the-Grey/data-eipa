@@ -41310,7 +41310,7 @@
           ],
           "cable_attached": true,
           "power": 22,
-          "ts": "2022-06-07T20:20:56+02:00"
+          "ts": "2022-06-08T20:14:43+02:00"
         }
       ],
       "code": "PL-ECX-E60101183",
@@ -76711,7 +76711,32 @@
       "id": 262606,
       "max_output": 40,
       "ts": "2022-04-20T14:32:03+02:00"
+    },
+    {
+      "fuel_types": [],
+      "gas_connector_interfaces": [],
+      "hydrogen_refill_solutions": [],
+      "station_id": 99748,
+      "charging_solutions": [
+        {
+          "mode": 6,
+          "power": 22
+        }
+      ],
+      "connectors": [
+        {
+          "interfaces": [
+            10
+          ],
+          "cable_attached": false,
+          "power": 22,
+          "ts": "2022-06-01T19:34:19+02:00"
+        }
+      ],
+      "code": "PL-WB1-EV7C7JEVZ",
+      "id": 264113,
+      "ts": "2022-06-01T19:11:44+02:00"
     }
   ],
-  "generated": "2022-06-08T20:10:09+02:00"
+  "generated": "2022-06-08T20:25:08+02:00"
 }
