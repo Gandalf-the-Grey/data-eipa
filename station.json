@@ -16096,6 +16096,29 @@
       "type": "E"
     },
     {
+      "authentication_methods": [
+        2,
+        32
+      ],
+      "latitude": 50.459206,
+      "longitude": 19.087011,
+      "payment_methods": [
+        2,
+        128
+      ],
+      "pool_id": 84047,
+      "id": 99735,
+      "images": [],
+      "location": {
+        "city": "Pyrzowice",
+        "community": "Ożarowice",
+        "district": "tarnogórski",
+        "province": "śląskie"
+      },
+      "ts": "2022-06-08T08:20:56+02:00",
+      "type": "E"
+    },
+    {
       "authentication_methods": [],
       "latitude": 50.1712,
       "longitude": 19.472465,
@@ -36732,5 +36755,5 @@
       "type": "E"
     }
   ],
-  "generated": "2022-06-08T09:10:05+02:00"
+  "generated": "2022-06-08T09:25:05+02:00"
 }
