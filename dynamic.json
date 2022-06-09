@@ -9290,8 +9290,8 @@
       ],
       "status": {
         "availability": 1,
-        "status": 0,
-        "ts": "2022-06-09T20:09:09+02:00"
+        "status": 1,
+        "ts": "2022-06-09T21:22:33+02:00"
       }
     },
     {
@@ -10016,8 +10016,8 @@
       ],
       "status": {
         "availability": 1,
-        "status": 1,
-        "ts": "2022-06-09T20:10:43+02:00"
+        "status": 0,
+        "ts": "2022-06-09T21:22:49+02:00"
       }
     },
     {
@@ -17664,8 +17664,8 @@
       ],
       "status": {
         "availability": 1,
-        "status": 0,
-        "ts": "2022-06-09T20:18:12+02:00"
+        "status": 1,
+        "ts": "2022-06-09T21:22:13+02:00"
       }
     },
     {
@@ -69083,9 +69083,9 @@
         }
       ],
       "status": {
-        "availability": 0,
-        "status": 0,
-        "ts": "2022-06-09T20:36:30+02:00"
+        "availability": 1,
+        "status": 1,
+        "ts": "2022-06-09T21:22:30+02:00"
       }
     },
     {
@@ -79506,7 +79506,7 @@
       "status": {
         "availability": 1,
         "status": 1,
-        "ts": "2022-06-09T21:19:10+02:00"
+        "ts": "2022-06-09T21:20:11+02:00"
       }
     },
     {
@@ -79522,7 +79522,7 @@
       "status": {
         "availability": 1,
         "status": 1,
-        "ts": "2022-06-09T21:19:10+02:00"
+        "ts": "2022-06-09T21:20:11+02:00"
       }
     },
     {
@@ -79538,7 +79538,7 @@
       "status": {
         "availability": 1,
         "status": 1,
-        "ts": "2022-06-09T21:19:10+02:00"
+        "ts": "2022-06-09T21:20:11+02:00"
       }
     },
     {
@@ -79548,7 +79548,7 @@
       "status": {
         "availability": 1,
         "status": 1,
-        "ts": "2022-06-09T21:19:10+02:00"
+        "ts": "2022-06-09T21:20:11+02:00"
       }
     },
     {
@@ -79558,7 +79558,7 @@
       "status": {
         "availability": 1,
         "status": 1,
-        "ts": "2022-06-09T21:19:10+02:00"
+        "ts": "2022-06-09T21:20:11+02:00"
       }
     },
     {
@@ -79568,7 +79568,7 @@
       "status": {
         "availability": 1,
         "status": 1,
-        "ts": "2022-06-09T21:19:10+02:00"
+        "ts": "2022-06-09T21:20:11+02:00"
       }
     },
     {
@@ -79637,422 +79637,6 @@
         "availability": 1,
         "status": 1,
         "ts": "2022-06-09T21:12:54+02:00"
-      }
-    },
-    {
-      "point_id": 263978,
-      "code": "PL-9W5-E11717908",
-      "prices": [
-        {
-          "price": "2.82",
-          "unit": "kWh",
-          "ts": "2022-06-02T20:33:49+02:00"
-        }
-      ],
-      "status": {
-        "availability": 1,
-        "status": 1,
-        "ts": "2022-06-08T11:45:11+02:00"
-      }
-    },
-    {
-      "point_id": 263980,
-      "code": "PL-9W5-E11717909",
-      "prices": [
-        {
-          "price": "2.82",
-          "unit": "kWh",
-          "ts": "2022-06-02T20:33:49+02:00"
-        }
-      ],
-      "status": {
-        "availability": 1,
-        "status": 1,
-        "ts": "2022-06-09T14:25:13+02:00"
-      }
-    },
-    {
-      "point_id": 263981,
-      "code": "PL-9W5-EPSIQTQTR",
-      "prices": [
-        {
-          "price": "2.82",
-          "unit": "kWh",
-          "ts": "2022-06-02T20:33:49+02:00"
-        }
-      ],
-      "status": {
-        "availability": 1,
-        "status": 0,
-        "ts": "2021-10-22T16:33:14+02:00"
-      }
-    },
-    {
-      "point_id": 263982,
-      "code": "PL-9W5-EMCJOFNVV",
-      "prices": [
-        {
-          "price": "2.82",
-          "unit": "kWh",
-          "ts": "2022-06-02T20:33:49+02:00"
-        }
-      ],
-      "status": {
-        "availability": 1,
-        "status": 1,
-        "ts": "2022-06-09T14:03:46+02:00"
-      }
-    },
-    {
-      "point_id": 263983,
-      "code": "PL-9W5-E1CW91BGW",
-      "prices": [
-        {
-          "price": "2.82",
-          "unit": "kWh",
-          "ts": "2022-06-02T20:33:49+02:00"
-        }
-      ],
-      "status": {
-        "availability": 1,
-        "status": 1,
-        "ts": "2022-06-09T11:13:53+02:00"
-      }
-    },
-    {
-      "point_id": 263984,
-      "code": "PL-9W5-EYG92UBQW",
-      "prices": [
-        {
-          "price": "2.82",
-          "unit": "kWh",
-          "ts": "2022-06-02T20:33:49+02:00"
-        }
-      ],
-      "status": {
-        "availability": 1,
-        "status": 1,
-        "ts": "2022-06-07T19:07:36+02:00"
-      }
-    },
-    {
-      "point_id": 263985,
-      "code": "PL-9W5-EGDC18AE9",
-      "prices": [
-        {
-          "price": "2.82",
-          "unit": "kWh",
-          "ts": "2022-06-02T20:33:49+02:00"
-        }
-      ],
-      "status": {
-        "availability": 1,
-        "status": 1,
-        "ts": "2022-06-09T12:36:50+02:00"
-      }
-    },
-    {
-      "point_id": 263986,
-      "code": "PL-9W5-EYM7DOCES",
-      "prices": [
-        {
-          "price": "2.82",
-          "unit": "kWh",
-          "ts": "2022-06-02T20:33:49+02:00"
-        }
-      ],
-      "status": {
-        "availability": 1,
-        "status": 1,
-        "ts": "2022-06-04T14:00:58+02:00"
-      }
-    },
-    {
-      "point_id": 263987,
-      "code": "PL-9W5-ED9E2TBLM",
-      "prices": [
-        {
-          "price": "2.82",
-          "unit": "kWh",
-          "ts": "2022-06-02T20:33:49+02:00"
-        }
-      ],
-      "status": {
-        "availability": 1,
-        "status": 1,
-        "ts": "2022-06-04T09:27:17+02:00"
-      }
-    },
-    {
-      "point_id": 263988,
-      "code": "PL-9W5-E3VBVQC9W",
-      "prices": [
-        {
-          "price": "2.82",
-          "unit": "kWh",
-          "ts": "2022-06-02T20:33:49+02:00"
-        }
-      ],
-      "status": {
-        "availability": 1,
-        "status": 1,
-        "ts": "2022-06-09T18:21:27+02:00"
-      }
-    },
-    {
-      "point_id": 263989,
-      "code": "PL-9W5-E11727401",
-      "prices": [
-        {
-          "price": "2.82",
-          "unit": "kWh",
-          "ts": "2022-06-02T20:33:49+02:00"
-        }
-      ],
-      "status": {
-        "availability": 1,
-        "status": 1,
-        "ts": "2022-06-03T10:35:30+02:00"
-      }
-    },
-    {
-      "point_id": 263990,
-      "code": "PL-9W5-E11717906",
-      "prices": [
-        {
-          "price": "2.82",
-          "unit": "kWh",
-          "ts": "2022-06-02T20:33:49+02:00"
-        }
-      ],
-      "status": {
-        "availability": 1,
-        "status": 0,
-        "ts": "2022-06-09T18:17:42+02:00"
-      }
-    },
-    {
-      "point_id": 263991,
-      "code": "PL-9W5-E01895912",
-      "prices": [
-        {
-          "price": "2.82",
-          "unit": "kWh",
-          "ts": "2022-06-02T20:33:49+02:00"
-        }
-      ],
-      "status": {
-        "availability": 1,
-        "status": 1,
-        "ts": "2022-05-27T11:04:52+02:00"
-      }
-    },
-    {
-      "point_id": 263992,
-      "code": "PL-9W5-EESMEARL1",
-      "prices": [
-        {
-          "price": "2.82",
-          "unit": "kWh",
-          "ts": "2022-06-02T20:33:49+02:00"
-        }
-      ],
-      "status": {
-        "availability": 1,
-        "status": 1,
-        "ts": "2022-06-09T13:36:11+02:00"
-      }
-    },
-    {
-      "point_id": 263993,
-      "code": "PL-9W5-EYF4LYPH9",
-      "prices": [
-        {
-          "price": "2.82",
-          "unit": "kWh",
-          "ts": "2022-06-02T20:33:49+02:00"
-        }
-      ],
-      "status": {
-        "availability": 0,
-        "status": 0,
-        "ts": "2022-05-12T20:55:01+02:00"
-      }
-    },
-    {
-      "point_id": 263994,
-      "code": "PL-9W5-E9ZILDYP3",
-      "prices": [
-        {
-          "price": "2.82",
-          "unit": "kWh",
-          "ts": "2022-06-02T20:33:49+02:00"
-        }
-      ],
-      "status": {
-        "availability": 1,
-        "status": 1,
-        "ts": "2022-05-25T13:20:50+02:00"
-      }
-    },
-    {
-      "point_id": 263995,
-      "code": "PL-9W5-E9W6RVVLQ",
-      "prices": [
-        {
-          "price": "2.82",
-          "unit": "kWh",
-          "ts": "2022-06-02T20:33:49+02:00"
-        }
-      ],
-      "status": {
-        "availability": 1,
-        "status": 1,
-        "ts": "2022-06-07T09:58:48+02:00"
-      }
-    },
-    {
-      "point_id": 263996,
-      "code": "PL-9W5-E11717584",
-      "prices": [
-        {
-          "price": "2.82",
-          "unit": "kWh",
-          "ts": "2022-06-02T20:33:49+02:00"
-        }
-      ],
-      "status": {
-        "availability": 1,
-        "status": 1,
-        "ts": "2022-06-09T18:20:51+02:00"
-      }
-    },
-    {
-      "point_id": 263997,
-      "code": "PL-9W5-E11717585",
-      "prices": [
-        {
-          "price": "2.82",
-          "unit": "kWh",
-          "ts": "2022-06-02T20:33:49+02:00"
-        }
-      ],
-      "status": {
-        "availability": 1,
-        "status": 1,
-        "ts": "2022-06-09T17:27:28+02:00"
-      }
-    },
-    {
-      "point_id": 263998,
-      "code": "PL-9W5-E11717907",
-      "prices": [
-        {
-          "price": "2.82",
-          "unit": "kWh",
-          "ts": "2022-06-02T20:33:49+02:00"
-        }
-      ],
-      "status": {
-        "availability": 1,
-        "status": 1,
-        "ts": "2022-03-25T09:42:53+01:00"
-      }
-    },
-    {
-      "point_id": 263999,
-      "code": "PL-9W5-E01896260",
-      "prices": [
-        {
-          "price": "2.82",
-          "unit": "kWh",
-          "ts": "2022-06-02T20:33:49+02:00"
-        }
-      ],
-      "status": {
-        "availability": 1,
-        "status": 1,
-        "ts": "2022-03-06T13:37:45+01:00"
-      }
-    },
-    {
-      "point_id": 264000,
-      "code": "PL-9W5-EZ9AO18DP",
-      "prices": [
-        {
-          "price": "2.82",
-          "unit": "kWh",
-          "ts": "2022-06-02T20:33:49+02:00"
-        }
-      ],
-      "status": {
-        "availability": 1,
-        "status": 1,
-        "ts": "2022-06-09T17:52:04+02:00"
-      }
-    },
-    {
-      "point_id": 264001,
-      "code": "PL-9W5-E11726944",
-      "prices": [
-        {
-          "price": "2.82",
-          "unit": "kWh",
-          "ts": "2022-06-02T20:33:49+02:00"
-        }
-      ],
-      "status": {
-        "availability": 1,
-        "status": 1,
-        "ts": "2022-06-08T18:14:28+02:00"
-      }
-    },
-    {
-      "point_id": 264003,
-      "code": "PL-9W5-EO9DMXQBC",
-      "prices": [
-        {
-          "price": "2.82",
-          "unit": "kWh",
-          "ts": "2022-06-07T12:30:26+02:00"
-        }
-      ],
-      "status": {
-        "availability": 1,
-        "status": 1,
-        "ts": "2022-06-09T11:58:49+02:00"
-      }
-    },
-    {
-      "point_id": 264004,
-      "code": "PL-9W5-EY1FKOU23",
-      "prices": [
-        {
-          "price": "2.82",
-          "unit": "kWh",
-          "ts": "2022-06-07T12:30:26+02:00"
-        }
-      ],
-      "status": {
-        "availability": 1,
-        "status": 1,
-        "ts": "2022-06-08T10:15:45+02:00"
-      }
-    },
-    {
-      "point_id": 264005,
-      "code": "PL-9W5-EC5W5K95P",
-      "prices": [
-        {
-          "price": "2.82",
-          "unit": "kWh",
-          "ts": "2022-06-02T20:33:49+02:00"
-        }
-      ],
-      "status": {
-        "availability": 1,
-        "status": 1,
-        "ts": "2022-05-12T20:29:48+02:00"
       }
     },
     {
@@ -81947,5 +81531,5 @@
       }
     }
   ],
-  "generated": "2022-06-09T21:22:04+02:00"
+  "generated": "2022-06-09T21:23:05+02:00"
 }
