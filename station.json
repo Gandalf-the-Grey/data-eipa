@@ -34041,6 +34041,681 @@
         8,
         32
       ],
+      "latitude": 54.60277,
+      "longitude": 18.295822,
+      "payment_methods": [
+        2,
+        128
+      ],
+      "pool_id": 84071,
+      "id": 99764,
+      "images": [],
+      "location": {
+        "city": "Wejherowo",
+        "community": "Wejherowo",
+        "district": "wejherowski",
+        "province": "pomorskie"
+      },
+      "ts": "2021-12-30T20:50:42+01:00",
+      "type": "E"
+    },
+    {
+      "authentication_methods": [
+        2,
+        4,
+        8,
+        32
+      ],
+      "latitude": 54.60277,
+      "longitude": 18.295822,
+      "payment_methods": [
+        2,
+        128
+      ],
+      "pool_id": 84071,
+      "id": 99765,
+      "images": [],
+      "location": {
+        "city": "Wejherowo",
+        "community": "Wejherowo",
+        "district": "wejherowski",
+        "province": "pomorskie"
+      },
+      "ts": "2021-12-30T20:50:42+01:00",
+      "type": "E"
+    },
+    {
+      "authentication_methods": [
+        2,
+        4,
+        8,
+        32
+      ],
+      "latitude": 54.396335,
+      "longitude": 18.579018,
+      "payment_methods": [
+        2,
+        128
+      ],
+      "pool_id": 84072,
+      "id": 99766,
+      "images": [],
+      "location": {
+        "city": "Gdańsk",
+        "community": "Gdańsk",
+        "district": "Gdańsk",
+        "province": "pomorskie"
+      },
+      "ts": "2021-12-30T21:30:48+01:00",
+      "type": "E"
+    },
+    {
+      "authentication_methods": [
+        2,
+        4,
+        8,
+        32
+      ],
+      "latitude": 54.396335,
+      "longitude": 18.579018,
+      "payment_methods": [
+        2,
+        128
+      ],
+      "pool_id": 84072,
+      "id": 99767,
+      "images": [],
+      "location": {
+        "city": "Gdańsk",
+        "community": "Gdańsk",
+        "district": "Gdańsk",
+        "province": "pomorskie"
+      },
+      "ts": "2021-12-30T21:30:48+01:00",
+      "type": "E"
+    },
+    {
+      "authentication_methods": [
+        2,
+        4,
+        8,
+        32
+      ],
+      "latitude": 53.135755,
+      "longitude": 18.126746,
+      "payment_methods": [
+        2,
+        128
+      ],
+      "pool_id": 84073,
+      "id": 99768,
+      "images": [],
+      "location": {
+        "city": "Bydgoszcz",
+        "community": "Bydgoszcz",
+        "district": "Bydgoszcz",
+        "province": "kujawsko-pomorskie"
+      },
+      "ts": "2021-04-21T09:12:53+02:00",
+      "type": "E"
+    },
+    {
+      "authentication_methods": [
+        2,
+        4,
+        8,
+        32
+      ],
+      "latitude": 53.135755,
+      "longitude": 18.126746,
+      "payment_methods": [
+        2,
+        128
+      ],
+      "pool_id": 84073,
+      "id": 99769,
+      "images": [],
+      "location": {
+        "city": "Bydgoszcz",
+        "community": "Bydgoszcz",
+        "district": "Bydgoszcz",
+        "province": "kujawsko-pomorskie"
+      },
+      "ts": "2021-04-21T09:12:53+02:00",
+      "type": "E"
+    },
+    {
+      "authentication_methods": [
+        2,
+        4,
+        8,
+        32
+      ],
+      "latitude": 54.552669,
+      "longitude": 18.421093,
+      "payment_methods": [
+        2,
+        128
+      ],
+      "pool_id": 84074,
+      "id": 99770,
+      "images": [],
+      "location": {
+        "city": "Gdynia",
+        "community": "Gdynia",
+        "district": "Gdynia",
+        "province": "pomorskie"
+      },
+      "ts": "2021-04-21T09:12:53+02:00",
+      "type": "E"
+    },
+    {
+      "authentication_methods": [
+        2,
+        4,
+        8,
+        32
+      ],
+      "latitude": 54.552669,
+      "longitude": 18.421093,
+      "payment_methods": [
+        2,
+        128
+      ],
+      "pool_id": 84074,
+      "id": 99771,
+      "images": [],
+      "location": {
+        "city": "Gdynia",
+        "community": "Gdynia",
+        "district": "Gdynia",
+        "province": "pomorskie"
+      },
+      "ts": "2021-04-21T09:50:14+02:00",
+      "type": "E"
+    },
+    {
+      "authentication_methods": [
+        2,
+        4,
+        8,
+        32
+      ],
+      "latitude": 54.552669,
+      "longitude": 18.421093,
+      "payment_methods": [
+        2,
+        128
+      ],
+      "pool_id": 84074,
+      "id": 99772,
+      "images": [],
+      "location": {
+        "city": "Gdynia",
+        "community": "Gdynia",
+        "district": "Gdynia",
+        "province": "pomorskie"
+      },
+      "ts": "2021-04-21T09:12:53+02:00",
+      "type": "E"
+    },
+    {
+      "authentication_methods": [
+        2,
+        4,
+        8,
+        32
+      ],
+      "latitude": 53.024431,
+      "longitude": 18.645387,
+      "payment_methods": [
+        2,
+        128
+      ],
+      "pool_id": 84075,
+      "id": 99773,
+      "images": [],
+      "location": {
+        "city": "Toruń",
+        "community": "Toruń",
+        "district": "Toruń",
+        "province": "kujawsko-pomorskie"
+      },
+      "ts": "2021-04-21T09:12:53+02:00",
+      "type": "E"
+    },
+    {
+      "authentication_methods": [
+        2,
+        4,
+        8,
+        32
+      ],
+      "latitude": 53.024431,
+      "longitude": 18.645387,
+      "payment_methods": [
+        2,
+        128
+      ],
+      "pool_id": 84075,
+      "id": 99774,
+      "images": [],
+      "location": {
+        "city": "Toruń",
+        "community": "Toruń",
+        "district": "Toruń",
+        "province": "kujawsko-pomorskie"
+      },
+      "ts": "2021-04-21T09:12:53+02:00",
+      "type": "E"
+    },
+    {
+      "authentication_methods": [
+        2,
+        4,
+        8,
+        32
+      ],
+      "latitude": 54.331298,
+      "longitude": 18.53429,
+      "payment_methods": [
+        2,
+        128
+      ],
+      "pool_id": 84076,
+      "id": 99775,
+      "images": [],
+      "location": {
+        "city": "Gdańsk",
+        "community": "Gdańsk",
+        "district": "Gdańsk",
+        "province": "pomorskie"
+      },
+      "ts": "2021-04-22T00:22:00+02:00",
+      "type": "E"
+    },
+    {
+      "authentication_methods": [
+        2,
+        4,
+        8,
+        32
+      ],
+      "latitude": 54.331298,
+      "longitude": 18.53429,
+      "payment_methods": [
+        2,
+        128
+      ],
+      "pool_id": 84076,
+      "id": 99776,
+      "images": [],
+      "location": {
+        "city": "Gdańsk",
+        "community": "Gdańsk",
+        "district": "Gdańsk",
+        "province": "pomorskie"
+      },
+      "ts": "2022-05-12T20:55:00+02:00",
+      "type": "E"
+    },
+    {
+      "authentication_methods": [
+        2,
+        4,
+        8,
+        32
+      ],
+      "latitude": 53.033875,
+      "longitude": 18.728638,
+      "payment_methods": [
+        2,
+        128
+      ],
+      "pool_id": 84077,
+      "id": 99777,
+      "images": [],
+      "location": {
+        "city": "Lubicz Dolny",
+        "community": "Lubicz",
+        "district": "toruński",
+        "province": "kujawsko-pomorskie"
+      },
+      "ts": "2021-05-18T13:43:14+02:00",
+      "type": "E"
+    },
+    {
+      "authentication_methods": [
+        2,
+        4,
+        8,
+        32
+      ],
+      "latitude": 53.033875,
+      "longitude": 18.728638,
+      "payment_methods": [
+        2,
+        128
+      ],
+      "pool_id": 84077,
+      "id": 99778,
+      "images": [],
+      "location": {
+        "city": "Lubicz Dolny",
+        "community": "Lubicz",
+        "district": "toruński",
+        "province": "kujawsko-pomorskie"
+      },
+      "ts": "2021-05-10T17:00:04+02:00",
+      "type": "E"
+    },
+    {
+      "authentication_methods": [
+        2,
+        4,
+        8,
+        32
+      ],
+      "latitude": 54.386957,
+      "longitude": 18.646041,
+      "payment_methods": [
+        2,
+        128
+      ],
+      "pool_id": 84078,
+      "id": 99779,
+      "images": [],
+      "location": {
+        "city": "Gdańsk",
+        "community": "Gdańsk",
+        "district": "Gdańsk",
+        "province": "pomorskie"
+      },
+      "ts": "2021-10-14T13:27:04+02:00",
+      "type": "E"
+    },
+    {
+      "authentication_methods": [
+        2,
+        4,
+        8,
+        32
+      ],
+      "latitude": 54.386957,
+      "longitude": 18.646041,
+      "payment_methods": [
+        2,
+        128
+      ],
+      "pool_id": 84078,
+      "id": 99780,
+      "images": [],
+      "location": {
+        "city": "Gdańsk",
+        "community": "Gdańsk",
+        "district": "Gdańsk",
+        "province": "pomorskie"
+      },
+      "ts": "2021-10-14T14:24:05+02:00",
+      "type": "E"
+    },
+    {
+      "authentication_methods": [
+        2,
+        4,
+        8,
+        32
+      ],
+      "latitude": 54.38687,
+      "longitude": 18.645397,
+      "payment_methods": [
+        2,
+        128
+      ],
+      "pool_id": 84079,
+      "id": 99781,
+      "images": [],
+      "location": {
+        "city": "Gdańsk",
+        "community": "Gdańsk",
+        "district": "Gdańsk",
+        "province": "pomorskie"
+      },
+      "ts": "2021-10-14T14:24:05+02:00",
+      "type": "E"
+    },
+    {
+      "authentication_methods": [
+        2,
+        4,
+        8,
+        32
+      ],
+      "latitude": 54.38687,
+      "longitude": 18.645397,
+      "payment_methods": [
+        2,
+        128
+      ],
+      "pool_id": 84079,
+      "id": 99782,
+      "images": [],
+      "location": {
+        "city": "Gdańsk",
+        "community": "Gdańsk",
+        "district": "Gdańsk",
+        "province": "pomorskie"
+      },
+      "ts": "2021-10-14T14:24:05+02:00",
+      "type": "E"
+    },
+    {
+      "authentication_methods": [
+        2,
+        4,
+        8,
+        32
+      ],
+      "latitude": 54.529118,
+      "longitude": 18.505725,
+      "payment_methods": [
+        2,
+        128
+      ],
+      "pool_id": 84080,
+      "id": 99783,
+      "images": [],
+      "location": {
+        "city": "Gdynia",
+        "community": "Gdynia",
+        "district": "Gdynia",
+        "province": "pomorskie"
+      },
+      "ts": "2021-12-30T21:03:04+01:00",
+      "type": "E"
+    },
+    {
+      "authentication_methods": [
+        2,
+        4,
+        8,
+        32
+      ],
+      "latitude": 54.331913,
+      "longitude": 18.534183,
+      "payment_methods": [
+        2,
+        128
+      ],
+      "pool_id": 84081,
+      "id": 99784,
+      "images": [],
+      "location": {
+        "city": "Gdańsk",
+        "community": "Gdańsk",
+        "district": "Gdańsk",
+        "province": "pomorskie"
+      },
+      "ts": "2021-12-30T21:08:51+01:00",
+      "type": "E"
+    },
+    {
+      "authentication_methods": [
+        2,
+        4,
+        8,
+        32
+      ],
+      "latitude": 54.330404,
+      "longitude": 18.535801,
+      "payment_methods": [
+        2,
+        128
+      ],
+      "pool_id": 84082,
+      "id": 99785,
+      "images": [],
+      "location": {
+        "city": "Gdańsk",
+        "community": "Gdańsk",
+        "district": "Gdańsk",
+        "province": "pomorskie"
+      },
+      "ts": "2021-12-30T21:12:54+01:00",
+      "type": "E"
+    },
+    {
+      "authentication_methods": [
+        2,
+        4,
+        8,
+        32
+      ],
+      "latitude": 54.330404,
+      "longitude": 18.535801,
+      "payment_methods": [
+        2,
+        128
+      ],
+      "pool_id": 84082,
+      "id": 99786,
+      "images": [],
+      "location": {
+        "city": "Gdańsk",
+        "community": "Gdańsk",
+        "district": "Gdańsk",
+        "province": "pomorskie"
+      },
+      "ts": "2021-12-30T21:12:54+01:00",
+      "type": "E"
+    },
+    {
+      "authentication_methods": [
+        2,
+        4,
+        8,
+        32
+      ],
+      "latitude": 54.494819,
+      "longitude": 18.535762,
+      "payment_methods": [
+        2,
+        128
+      ],
+      "pool_id": 84083,
+      "id": 99787,
+      "images": [],
+      "location": {
+        "city": "Gdynia",
+        "community": "Gdynia",
+        "district": "Gdynia",
+        "province": "pomorskie"
+      },
+      "ts": "2021-12-30T21:24:44+01:00",
+      "type": "E"
+    },
+    {
+      "authentication_methods": [
+        2,
+        4,
+        8,
+        32
+      ],
+      "latitude": 54.494819,
+      "longitude": 18.535762,
+      "payment_methods": [
+        2,
+        128
+      ],
+      "pool_id": 84083,
+      "id": 99788,
+      "images": [],
+      "location": {
+        "city": "Gdynia",
+        "community": "Gdynia",
+        "district": "Gdynia",
+        "province": "pomorskie"
+      },
+      "ts": "2021-12-30T21:24:44+01:00",
+      "type": "E"
+    },
+    {
+      "authentication_methods": [
+        2,
+        4,
+        8,
+        32
+      ],
+      "latitude": 53.114208,
+      "longitude": 18.055876,
+      "payment_methods": [
+        2,
+        128
+      ],
+      "pool_id": 84084,
+      "id": 99789,
+      "images": [],
+      "location": {
+        "city": "Bydgoszcz",
+        "community": "Bydgoszcz",
+        "district": "Bydgoszcz",
+        "province": "kujawsko-pomorskie"
+      },
+      "ts": "2022-05-12T20:29:48+02:00",
+      "type": "E"
+    },
+    {
+      "authentication_methods": [
+        2,
+        4,
+        8,
+        32
+      ],
+      "latitude": 53.114208,
+      "longitude": 18.055876,
+      "payment_methods": [
+        2,
+        128
+      ],
+      "pool_id": 84084,
+      "id": 99790,
+      "images": [],
+      "location": {
+        "city": "Bydgoszcz",
+        "community": "Bydgoszcz",
+        "district": "Bydgoszcz",
+        "province": "kujawsko-pomorskie"
+      },
+      "ts": "2022-05-12T20:29:48+02:00",
+      "type": "E"
+    },
+    {
+      "authentication_methods": [
+        2,
+        4,
+        8,
+        32
+      ],
       "latitude": 52.426035,
       "longitude": 16.921526,
       "payment_methods": [
@@ -36098,5 +36773,5 @@
       "type": "E"
     }
   ],
-  "generated": "2022-06-09T22:10:05+02:00"
+  "generated": "2022-06-09T22:25:06+02:00"
 }
