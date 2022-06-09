@@ -35056,6 +35056,56 @@
     },
     {
       "authentication_methods": [
+        2,
+        4,
+        8,
+        32
+      ],
+      "latitude": 52.689676,
+      "longitude": 18.987797,
+      "payment_methods": [
+        2,
+        128
+      ],
+      "pool_id": 84067,
+      "id": 99758,
+      "images": [],
+      "location": {
+        "city": "Włocławek",
+        "community": "Włocławek",
+        "district": "Włocławek",
+        "province": "kujawsko-pomorskie"
+      },
+      "ts": "2022-05-26T15:28:51+02:00",
+      "type": "E"
+    },
+    {
+      "authentication_methods": [
+        2,
+        4,
+        8,
+        32
+      ],
+      "latitude": 52.689676,
+      "longitude": 18.987797,
+      "payment_methods": [
+        2,
+        128
+      ],
+      "pool_id": 84067,
+      "id": 99759,
+      "images": [],
+      "location": {
+        "city": "Włocławek",
+        "community": "Włocławek",
+        "district": "Włocławek",
+        "province": "kujawsko-pomorskie"
+      },
+      "ts": "2022-05-26T15:28:51+02:00",
+      "type": "E"
+    },
+    {
+      "authentication_methods": [
         32
       ],
       "latitude": 51.692222,
@@ -36673,5 +36723,5 @@
       "type": "E"
     }
   ],
-  "generated": "2022-06-09T16:10:05+02:00"
+  "generated": "2022-06-09T16:25:06+02:00"
 }

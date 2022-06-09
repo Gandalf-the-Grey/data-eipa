@@ -74591,6 +74591,56 @@
       "fuel_types": [],
       "gas_connector_interfaces": [],
       "hydrogen_refill_solutions": [],
+      "station_id": 99758,
+      "charging_solutions": [
+        {
+          "mode": 6,
+          "power": 22
+        }
+      ],
+      "connectors": [
+        {
+          "interfaces": [
+            17
+          ],
+          "cable_attached": true,
+          "power": 22,
+          "ts": "2022-05-26T15:38:20+02:00"
+        }
+      ],
+      "code": "PL-MRE-EGB43A8PG",
+      "id": 264129,
+      "ts": "2022-05-26T15:28:51+02:00"
+    },
+    {
+      "fuel_types": [],
+      "gas_connector_interfaces": [],
+      "hydrogen_refill_solutions": [],
+      "station_id": 99759,
+      "charging_solutions": [
+        {
+          "mode": 7,
+          "power": 30
+        }
+      ],
+      "connectors": [
+        {
+          "interfaces": [
+            29
+          ],
+          "cable_attached": true,
+          "power": 30,
+          "ts": "2022-05-26T15:38:20+02:00"
+        }
+      ],
+      "code": "PL-MRE-ERZJDT0ZX",
+      "id": 264130,
+      "ts": "2022-05-26T15:28:51+02:00"
+    },
+    {
+      "fuel_types": [],
+      "gas_connector_interfaces": [],
+      "hydrogen_refill_solutions": [],
       "station_id": 42367,
       "charging_solutions": [
         {
@@ -76788,5 +76838,5 @@
       "ts": "2022-06-01T19:11:44+02:00"
     }
   ],
-  "generated": "2022-06-09T16:10:09+02:00"
+  "generated": "2022-06-09T16:25:09+02:00"
 }
