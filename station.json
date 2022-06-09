@@ -19551,6 +19551,30 @@
       "authentication_methods": [
         32
       ],
+      "latitude": 53.4227566,
+      "longitude": 14.5461036,
+      "payment_methods": [
+        2,
+        4,
+        16,
+        32
+      ],
+      "pool_id": 84035,
+      "id": 99718,
+      "images": [],
+      "location": {
+        "city": "Szczecin",
+        "community": "Szczecin",
+        "district": "Szczecin",
+        "province": "zachodniopomorskie"
+      },
+      "ts": "2022-06-07T15:04:13+02:00",
+      "type": "E"
+    },
+    {
+      "authentication_methods": [
+        32
+      ],
       "latitude": 54.1909027,
       "longitude": 16.1832829,
       "payment_methods": [
@@ -30967,6 +30991,28 @@
     },
     {
       "authentication_methods": [
+        32
+      ],
+      "latitude": 51.713465,
+      "longitude": 19.460592,
+      "payment_methods": [
+        64,
+        128
+      ],
+      "pool_id": 83842,
+      "id": 99442,
+      "images": [],
+      "location": {
+        "city": "Łódź",
+        "community": "Łódź",
+        "district": "Łódź",
+        "province": "łódzkie"
+      },
+      "ts": "2022-05-24T08:01:09+02:00",
+      "type": "E"
+    },
+    {
+      "authentication_methods": [
         0
       ],
       "latitude": 52.091516,
@@ -36677,5 +36723,5 @@
       "type": "E"
     }
   ],
-  "generated": "2022-06-09T05:10:06+02:00"
+  "generated": "2022-06-09T05:25:07+02:00"
 }
