@@ -33828,56 +33828,6 @@
       "type": "E"
     },
     {
-      "authentication_methods": [
-        2,
-        4,
-        8,
-        32
-      ],
-      "latitude": 54.399472,
-      "longitude": 18.628459,
-      "payment_methods": [
-        2,
-        128
-      ],
-      "pool_id": 84007,
-      "id": 99678,
-      "images": [],
-      "location": {
-        "city": "Gdańsk",
-        "community": "Gdańsk",
-        "district": "Gdańsk",
-        "province": "pomorskie"
-      },
-      "ts": "2021-02-11T15:13:42+01:00",
-      "type": "E"
-    },
-    {
-      "authentication_methods": [
-        2,
-        4,
-        8,
-        32
-      ],
-      "latitude": 54.399472,
-      "longitude": 18.628459,
-      "payment_methods": [
-        2,
-        128
-      ],
-      "pool_id": 84007,
-      "id": 99679,
-      "images": [],
-      "location": {
-        "city": "Gdańsk",
-        "community": "Gdańsk",
-        "district": "Gdańsk",
-        "province": "pomorskie"
-      },
-      "ts": "2021-02-11T15:24:27+01:00",
-      "type": "E"
-    },
-    {
       "authentication_methods": [],
       "latitude": 51.309684,
       "longitude": 15.724304,
@@ -36797,5 +36747,5 @@
       "type": "E"
     }
   ],
-  "generated": "2022-06-10T17:10:06+02:00"
+  "generated": "2022-06-10T17:25:05+02:00"
 }
