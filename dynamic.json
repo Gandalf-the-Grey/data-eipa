@@ -54,8 +54,8 @@
       ],
       "status": {
         "availability": 1,
-        "status": 0,
-        "ts": "2022-06-10T08:34:07+02:00"
+        "status": 1,
+        "ts": "2022-06-10T10:14:07+02:00"
       }
     },
     {
@@ -5066,8 +5066,8 @@
       ],
       "status": {
         "availability": 1,
-        "status": 1,
-        "ts": "2022-06-10T08:52:40+02:00"
+        "status": 0,
+        "ts": "2022-06-10T10:14:50+02:00"
       }
     },
     {
@@ -7816,8 +7816,8 @@
       ],
       "status": {
         "availability": 1,
-        "status": 0,
-        "ts": "2022-06-10T09:36:06+02:00"
+        "status": 1,
+        "ts": "2022-06-10T10:14:16+02:00"
       }
     },
     {
@@ -7839,7 +7839,7 @@
       "status": {
         "availability": 1,
         "status": 1,
-        "ts": "2022-06-10T10:06:01+02:00"
+        "ts": "2022-06-10T10:14:14+02:00"
       }
     },
     {
@@ -22403,7 +22403,7 @@
       "status": {
         "availability": 1,
         "status": 1,
-        "ts": "2022-06-10T07:56:04+02:00"
+        "ts": "2022-06-10T08:14:46+02:00"
       }
     },
     {
@@ -22424,7 +22424,7 @@
       "status": {
         "availability": 1,
         "status": 1,
-        "ts": "2022-06-10T07:56:04+02:00"
+        "ts": "2022-06-10T08:14:46+02:00"
       }
     },
     {
@@ -23263,8 +23263,8 @@
       ],
       "status": {
         "availability": 1,
-        "status": 1,
-        "ts": "2022-06-10T07:41:48+02:00"
+        "status": 0,
+        "ts": "2022-06-10T08:14:24+02:00"
       }
     },
     {
@@ -23432,7 +23432,7 @@
       "status": {
         "availability": 1,
         "status": 1,
-        "ts": "2022-06-10T08:14:01+02:00"
+        "ts": "2022-06-10T08:14:55+02:00"
       }
     },
     {
@@ -69449,13 +69449,13 @@
         {
           "price": "1.70",
           "unit": "kWh",
-          "ts": "2022-06-07T10:13:24+02:00",
+          "ts": "2022-06-10T10:14:18+02:00",
           "literal": "Ładowanie mocą 50 kW"
         },
         {
           "price": "0.34",
           "unit": "min",
-          "ts": "2022-06-07T10:13:24+02:00",
+          "ts": "2022-06-10T10:14:19+02:00",
           "literal": "Ładowanie mocą 50 kW"
         }
       ],
@@ -69472,13 +69472,13 @@
         {
           "price": "1.22",
           "unit": "kWh",
-          "ts": "2022-06-07T10:13:25+02:00",
+          "ts": "2022-06-10T10:14:19+02:00",
           "literal": "Ładowanie energii elektrycznej złączem/gniazdem AC"
         },
         {
           "price": "0.34",
           "unit": "min",
-          "ts": "2022-06-07T10:13:25+02:00",
+          "ts": "2022-06-10T10:14:20+02:00",
           "literal": "Ładowanie energii elektrycznej złączem/gniazdem AC"
         }
       ],
@@ -69495,13 +69495,13 @@
         {
           "price": "1.70",
           "unit": "kWh",
-          "ts": "2022-06-07T10:13:31+02:00",
+          "ts": "2022-06-10T10:14:26+02:00",
           "literal": "Ładowanie mocą 50 kW"
         },
         {
           "price": "0.34",
           "unit": "min",
-          "ts": "2022-06-07T10:13:31+02:00",
+          "ts": "2022-06-10T10:14:26+02:00",
           "literal": "Ładowanie mocą 50 kW"
         }
       ],
@@ -69518,13 +69518,13 @@
         {
           "price": "1.22",
           "unit": "kWh",
-          "ts": "2022-06-07T10:13:32+02:00",
+          "ts": "2022-06-10T10:14:27+02:00",
           "literal": "Ładowanie energii elektrycznej złączem/gniazdem AC"
         },
         {
           "price": "0.34",
           "unit": "min",
-          "ts": "2022-06-07T10:13:32+02:00",
+          "ts": "2022-06-10T10:14:27+02:00",
           "literal": "Ładowanie energii elektrycznej złączem/gniazdem AC"
         }
       ],
@@ -69583,7 +69583,20 @@
     {
       "point_id": 127299,
       "code": "PL-PKN-E81820101",
-      "prices": [],
+      "prices": [
+        {
+          "price": "1.70",
+          "unit": "kWh",
+          "ts": "2022-06-10T10:14:04+02:00",
+          "literal": "Ładowanie mocą 50 kW"
+        },
+        {
+          "price": "0.34",
+          "unit": "min",
+          "ts": "2022-06-10T10:14:04+02:00",
+          "literal": "Ładowanie mocą 50 kW"
+        }
+      ],
       "status": {
         "availability": 1,
         "status": 1,
@@ -69597,13 +69610,13 @@
         {
           "price": "1.22",
           "unit": "kWh",
-          "ts": "2022-06-07T10:13:10+02:00",
+          "ts": "2022-06-10T10:14:05+02:00",
           "literal": "Ładowanie energii elektrycznej złączem/gniazdem AC"
         },
         {
           "price": "0.34",
           "unit": "min",
-          "ts": "2022-06-07T10:13:10+02:00",
+          "ts": "2022-06-10T10:14:05+02:00",
           "literal": "Ładowanie energii elektrycznej złączem/gniazdem AC"
         }
       ],
@@ -69666,13 +69679,13 @@
         {
           "price": "1.70",
           "unit": "kWh",
-          "ts": "2022-06-07T10:13:27+02:00",
+          "ts": "2022-06-10T10:14:22+02:00",
           "literal": "Ładowanie mocą 50 kW"
         },
         {
           "price": "0.34",
           "unit": "min",
-          "ts": "2022-06-07T10:13:27+02:00",
+          "ts": "2022-06-10T10:14:22+02:00",
           "literal": "Ładowanie mocą 50 kW"
         }
       ],
@@ -69689,13 +69702,13 @@
         {
           "price": "1.22",
           "unit": "kWh",
-          "ts": "2022-06-07T10:13:28+02:00",
+          "ts": "2022-06-10T10:14:23+02:00",
           "literal": "Ładowanie energii elektrycznej złączem/gniazdem AC"
         },
         {
           "price": "0.34",
           "unit": "min",
-          "ts": "2022-06-07T10:13:28+02:00",
+          "ts": "2022-06-10T10:14:23+02:00",
           "literal": "Ładowanie energii elektrycznej złączem/gniazdem AC"
         }
       ],
@@ -69758,13 +69771,13 @@
         {
           "price": "1.70",
           "unit": "kWh",
-          "ts": "2022-06-07T10:13:16+02:00",
+          "ts": "2022-06-10T10:14:11+02:00",
           "literal": "Ładowanie mocą 50 kW"
         },
         {
           "price": "0.34",
           "unit": "min",
-          "ts": "2022-06-07T10:13:17+02:00",
+          "ts": "2022-06-10T10:14:11+02:00",
           "literal": "Ładowanie mocą 50 kW"
         }
       ],
@@ -69781,13 +69794,13 @@
         {
           "price": "1.22",
           "unit": "kWh",
-          "ts": "2022-06-07T10:13:17+02:00",
+          "ts": "2022-06-10T10:14:12+02:00",
           "literal": "Ładowanie energii elektrycznej złączem/gniazdem AC"
         },
         {
           "price": "0.34",
           "unit": "min",
-          "ts": "2022-06-07T10:13:18+02:00",
+          "ts": "2022-06-10T10:14:12+02:00",
           "literal": "Ładowanie energii elektrycznej złączem/gniazdem AC"
         }
       ],
@@ -69804,13 +69817,13 @@
         {
           "price": "1.70",
           "unit": "kWh",
-          "ts": "2022-06-07T10:13:20+02:00",
+          "ts": "2022-06-10T10:14:15+02:00",
           "literal": "Ładowanie mocą 50 kW"
         },
         {
           "price": "0.34",
           "unit": "min",
-          "ts": "2022-06-07T10:13:20+02:00",
+          "ts": "2022-06-10T10:14:15+02:00",
           "literal": "Ładowanie mocą 50 kW"
         }
       ],
@@ -69827,13 +69840,13 @@
         {
           "price": "1.22",
           "unit": "kWh",
-          "ts": "2022-06-07T10:13:21+02:00",
+          "ts": "2022-06-10T10:14:16+02:00",
           "literal": "Ładowanie energii elektrycznej złączem/gniazdem AC"
         },
         {
           "price": "0.34",
           "unit": "min",
-          "ts": "2022-06-07T10:13:21+02:00",
+          "ts": "2022-06-10T10:14:16+02:00",
           "literal": "Ładowanie energii elektrycznej złączem/gniazdem AC"
         }
       ],
@@ -69850,13 +69863,13 @@
         {
           "price": "1.70",
           "unit": "kWh",
-          "ts": "2022-06-07T10:13:13+02:00",
+          "ts": "2022-06-10T10:14:08+02:00",
           "literal": "Ładowanie mocą 50 kW"
         },
         {
           "price": "0.34",
           "unit": "min",
-          "ts": "2022-06-07T10:13:13+02:00",
+          "ts": "2022-06-10T10:14:08+02:00",
           "literal": "Ładowanie mocą 50 kW"
         }
       ],
@@ -69873,13 +69886,13 @@
         {
           "price": "1.22",
           "unit": "kWh",
-          "ts": "2022-06-07T10:13:14+02:00",
+          "ts": "2022-06-10T10:14:08+02:00",
           "literal": "Ładowanie energii elektrycznej złączem/gniazdem AC"
         },
         {
           "price": "0.34",
           "unit": "min",
-          "ts": "2022-06-07T10:13:14+02:00",
+          "ts": "2022-06-10T10:14:09+02:00",
           "literal": "Ładowanie energii elektrycznej złączem/gniazdem AC"
         }
       ],
@@ -69896,13 +69909,13 @@
         {
           "price": "2.04",
           "unit": "kWh",
-          "ts": "2022-06-07T10:13:34+02:00",
+          "ts": "2022-06-10T10:14:30+02:00",
           "literal": "Ładowanie mocą 100 kW"
         },
         {
           "price": "0.34",
           "unit": "min",
-          "ts": "2022-06-07T10:13:34+02:00",
+          "ts": "2022-06-10T10:14:30+02:00",
           "literal": "Ładowanie mocą 100 kW"
         }
       ],
@@ -69919,13 +69932,13 @@
         {
           "price": "1.70",
           "unit": "kWh",
-          "ts": "2022-06-07T10:13:35+02:00",
+          "ts": "2022-06-10T10:14:31+02:00",
           "literal": "Ładowanie mocą 50 kW"
         },
         {
           "price": "0.34",
           "unit": "min",
-          "ts": "2022-06-07T10:13:35+02:00",
+          "ts": "2022-06-10T10:14:31+02:00",
           "literal": "Ładowanie mocą 50 kW"
         }
       ],
@@ -69942,13 +69955,13 @@
         {
           "price": "1.22",
           "unit": "kWh",
-          "ts": "2022-06-07T10:13:36+02:00",
+          "ts": "2022-06-10T10:14:33+02:00",
           "literal": "Ładowanie energii elektrycznej złączem/gniazdem AC"
         },
         {
           "price": "0.34",
           "unit": "min",
-          "ts": "2022-06-07T10:13:36+02:00",
+          "ts": "2022-06-10T10:14:33+02:00",
           "literal": "Ładowanie energii elektrycznej złączem/gniazdem AC"
         }
       ],
@@ -69965,13 +69978,13 @@
         {
           "price": "2.04",
           "unit": "kWh",
-          "ts": "2022-06-07T10:13:43+02:00",
+          "ts": "2022-06-10T10:14:41+02:00",
           "literal": "Ładowanie mocą 100 kW"
         },
         {
           "price": "0.34",
           "unit": "min",
-          "ts": "2022-06-07T10:13:43+02:00",
+          "ts": "2022-06-10T10:14:41+02:00",
           "literal": "Ładowanie mocą 100 kW"
         }
       ],
@@ -69988,13 +70001,13 @@
         {
           "price": "1.70",
           "unit": "kWh",
-          "ts": "2022-06-07T10:13:44+02:00",
+          "ts": "2022-06-10T10:14:42+02:00",
           "literal": "Ładowanie mocą 50 kW"
         },
         {
           "price": "0.34",
           "unit": "min",
-          "ts": "2022-06-07T10:13:44+02:00",
+          "ts": "2022-06-10T10:14:42+02:00",
           "literal": "Ładowanie mocą 50 kW"
         }
       ],
@@ -70011,13 +70024,13 @@
         {
           "price": "1.22",
           "unit": "kWh",
-          "ts": "2022-06-07T10:13:45+02:00",
+          "ts": "2022-06-10T10:14:43+02:00",
           "literal": "Ładowanie energii elektrycznej złączem/gniazdem AC"
         },
         {
           "price": "0.34",
           "unit": "min",
-          "ts": "2022-06-07T10:13:45+02:00",
+          "ts": "2022-06-10T10:14:43+02:00",
           "literal": "Ładowanie energii elektrycznej złączem/gniazdem AC"
         }
       ],
@@ -70034,13 +70047,13 @@
         {
           "price": "2.04",
           "unit": "kWh",
-          "ts": "2022-06-07T10:13:39+02:00",
+          "ts": "2022-06-10T10:14:36+02:00",
           "literal": "Ładowanie mocą 100 kW"
         },
         {
           "price": "0.34",
           "unit": "min",
-          "ts": "2022-06-07T10:13:39+02:00",
+          "ts": "2022-06-10T10:14:36+02:00",
           "literal": "Ładowanie mocą 100 kW"
         }
       ],
@@ -70057,13 +70070,13 @@
         {
           "price": "1.70",
           "unit": "kWh",
-          "ts": "2022-06-07T10:13:40+02:00",
+          "ts": "2022-06-10T10:14:37+02:00",
           "literal": "Ładowanie mocą 50 kW"
         },
         {
           "price": "0.34",
           "unit": "min",
-          "ts": "2022-06-07T10:13:40+02:00",
+          "ts": "2022-06-10T10:14:37+02:00",
           "literal": "Ładowanie mocą 50 kW"
         }
       ],
@@ -70080,13 +70093,13 @@
         {
           "price": "1.22",
           "unit": "kWh",
-          "ts": "2022-06-07T10:13:41+02:00",
+          "ts": "2022-06-10T10:14:38+02:00",
           "literal": "Ładowanie energii elektrycznej złączem/gniazdem AC"
         },
         {
           "price": "0.34",
           "unit": "min",
-          "ts": "2022-06-07T10:13:41+02:00",
+          "ts": "2022-06-10T10:14:38+02:00",
           "literal": "Ładowanie energii elektrycznej złączem/gniazdem AC"
         }
       ],
@@ -70356,13 +70369,13 @@
         {
           "price": "2.04",
           "unit": "kWh",
-          "ts": "2022-06-07T10:13:48+02:00",
+          "ts": "2022-06-10T10:14:46+02:00",
           "literal": "Ładowanie mocą 100 kW"
         },
         {
           "price": "0.34",
           "unit": "min",
-          "ts": "2022-06-07T10:13:48+02:00",
+          "ts": "2022-06-10T10:14:46+02:00",
           "literal": "Ładowanie mocą 100 kW"
         }
       ],
@@ -70379,13 +70392,13 @@
         {
           "price": "1.70",
           "unit": "kWh",
-          "ts": "2022-06-07T10:13:49+02:00",
+          "ts": "2022-06-10T10:14:47+02:00",
           "literal": "Ładowanie mocą 50 kW"
         },
         {
           "price": "0.34",
           "unit": "min",
-          "ts": "2022-06-07T10:13:49+02:00",
+          "ts": "2022-06-10T10:14:47+02:00",
           "literal": "Ładowanie mocą 50 kW"
         }
       ],
@@ -70402,13 +70415,13 @@
         {
           "price": "1.22",
           "unit": "kWh",
-          "ts": "2022-06-07T10:13:50+02:00",
+          "ts": "2022-06-10T10:14:48+02:00",
           "literal": "Ładowanie energii elektrycznej złączem/gniazdem AC"
         },
         {
           "price": "0.34",
           "unit": "min",
-          "ts": "2022-06-07T10:13:50+02:00",
+          "ts": "2022-06-10T10:14:48+02:00",
           "literal": "Ładowanie energii elektrycznej złączem/gniazdem AC"
         }
       ],
@@ -70425,13 +70438,13 @@
         {
           "price": "2.04",
           "unit": "kWh",
-          "ts": "2022-06-07T10:13:52+02:00",
+          "ts": "2022-06-10T10:14:50+02:00",
           "literal": "Ładowanie mocą 100 kW"
         },
         {
           "price": "0.34",
           "unit": "min",
-          "ts": "2022-06-07T10:13:53+02:00",
+          "ts": "2022-06-10T10:14:51+02:00",
           "literal": "Ładowanie mocą 100 kW"
         }
       ],
@@ -70448,13 +70461,13 @@
         {
           "price": "1.70",
           "unit": "kWh",
-          "ts": "2022-06-07T10:13:53+02:00",
+          "ts": "2022-06-10T10:14:52+02:00",
           "literal": "Ładowanie mocą 50 kW"
         },
         {
           "price": "0.34",
           "unit": "min",
-          "ts": "2022-06-07T10:13:53+02:00",
+          "ts": "2022-06-10T10:14:52+02:00",
           "literal": "Ładowanie mocą 50 kW"
         }
       ],
@@ -70471,13 +70484,13 @@
         {
           "price": "1.22",
           "unit": "kWh",
-          "ts": "2022-06-07T10:13:54+02:00",
+          "ts": "2022-06-10T10:14:52+02:00",
           "literal": "Ładowanie energii elektrycznej złączem/gniazdem AC"
         },
         {
           "price": "0.34",
           "unit": "min",
-          "ts": "2022-06-07T10:13:54+02:00",
+          "ts": "2022-06-10T10:14:53+02:00",
           "literal": "Ładowanie energii elektrycznej złączem/gniazdem AC"
         }
       ],
@@ -70494,13 +70507,13 @@
         {
           "price": "1.70",
           "unit": "kWh",
-          "ts": "2022-06-07T10:14:01+02:00",
+          "ts": "2022-06-10T10:15:00+02:00",
           "literal": "Ładowanie mocą 50 kW"
         },
         {
           "price": "0.34",
           "unit": "min",
-          "ts": "2022-06-07T10:14:02+02:00",
+          "ts": "2022-06-10T10:15:00+02:00",
           "literal": "Ładowanie mocą 50 kW"
         }
       ],
@@ -70517,13 +70530,13 @@
         {
           "price": "1.22",
           "unit": "kWh",
-          "ts": "2022-06-07T10:14:02+02:00",
+          "ts": "2022-06-10T10:15:01+02:00",
           "literal": "Ładowanie energii elektrycznej złączem/gniazdem AC"
         },
         {
           "price": "0.34",
           "unit": "min",
-          "ts": "2022-06-07T10:14:03+02:00",
+          "ts": "2022-06-10T10:15:01+02:00",
           "literal": "Ładowanie energii elektrycznej złączem/gniazdem AC"
         }
       ],
@@ -70540,13 +70553,13 @@
         {
           "price": "2.04",
           "unit": "kWh",
-          "ts": "2022-06-07T10:13:57+02:00",
+          "ts": "2022-06-10T10:14:55+02:00",
           "literal": "Ładowanie mocą 100 kW"
         },
         {
           "price": "0.34",
           "unit": "min",
-          "ts": "2022-06-07T10:13:57+02:00",
+          "ts": "2022-06-10T10:14:55+02:00",
           "literal": "Ładowanie mocą 100 kW"
         }
       ],
@@ -70563,13 +70576,13 @@
         {
           "price": "1.70",
           "unit": "kWh",
-          "ts": "2022-06-07T10:13:58+02:00",
+          "ts": "2022-06-10T10:14:56+02:00",
           "literal": "Ładowanie mocą 50 kW"
         },
         {
           "price": "0.34",
           "unit": "min",
-          "ts": "2022-06-07T10:13:58+02:00",
+          "ts": "2022-06-10T10:14:56+02:00",
           "literal": "Ładowanie mocą 50 kW"
         }
       ],
@@ -70586,13 +70599,13 @@
         {
           "price": "1.22",
           "unit": "kWh",
-          "ts": "2022-06-07T10:13:59+02:00",
+          "ts": "2022-06-10T10:14:57+02:00",
           "literal": "Ładowanie energii elektrycznej złączem/gniazdem AC"
         },
         {
           "price": "0.34",
           "unit": "min",
-          "ts": "2022-06-07T10:13:59+02:00",
+          "ts": "2022-06-10T10:14:58+02:00",
           "literal": "Ładowanie energii elektrycznej złączem/gniazdem AC"
         }
       ],
@@ -79557,7 +79570,7 @@
       "status": {
         "availability": 1,
         "status": 1,
-        "ts": "2022-06-10T10:11:11+02:00"
+        "ts": "2022-06-10T10:12:11+02:00"
       }
     },
     {
@@ -79573,7 +79586,7 @@
       "status": {
         "availability": 1,
         "status": 1,
-        "ts": "2022-06-10T10:11:11+02:00"
+        "ts": "2022-06-10T10:12:11+02:00"
       }
     },
     {
@@ -79589,7 +79602,7 @@
       "status": {
         "availability": 1,
         "status": 1,
-        "ts": "2022-06-10T10:11:11+02:00"
+        "ts": "2022-06-10T10:12:11+02:00"
       }
     },
     {
@@ -79599,7 +79612,7 @@
       "status": {
         "availability": 1,
         "status": 1,
-        "ts": "2022-06-10T10:11:11+02:00"
+        "ts": "2022-06-10T10:12:11+02:00"
       }
     },
     {
@@ -79609,7 +79622,7 @@
       "status": {
         "availability": 1,
         "status": 1,
-        "ts": "2022-06-10T10:11:11+02:00"
+        "ts": "2022-06-10T10:12:11+02:00"
       }
     },
     {
@@ -79619,7 +79632,7 @@
       "status": {
         "availability": 1,
         "status": 1,
-        "ts": "2022-06-10T10:11:11+02:00"
+        "ts": "2022-06-10T10:12:11+02:00"
       }
     },
     {
@@ -82030,5 +82043,5 @@
       }
     }
   ],
-  "generated": "2022-06-10T10:14:04+02:00"
+  "generated": "2022-06-10T10:15:04+02:00"
 }
