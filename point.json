@@ -65886,56 +65886,6 @@
       "fuel_types": [],
       "gas_connector_interfaces": [],
       "hydrogen_refill_solutions": [],
-      "station_id": 36645,
-      "charging_solutions": [
-        {
-          "mode": 6,
-          "power": 22
-        }
-      ],
-      "connectors": [
-        {
-          "interfaces": [
-            10
-          ],
-          "cable_attached": true,
-          "power": 22,
-          "ts": "2020-09-14T09:14:14+02:00"
-        }
-      ],
-      "code": "PL-CXM-E293CD4D5",
-      "id": 112374,
-      "ts": "2020-09-14T09:14:14+02:00"
-    },
-    {
-      "fuel_types": [],
-      "gas_connector_interfaces": [],
-      "hydrogen_refill_solutions": [],
-      "station_id": 36645,
-      "charging_solutions": [
-        {
-          "mode": 6,
-          "power": 22
-        }
-      ],
-      "connectors": [
-        {
-          "interfaces": [
-            10
-          ],
-          "cable_attached": true,
-          "power": 22,
-          "ts": "2020-09-14T09:14:15+02:00"
-        }
-      ],
-      "code": "PL-CXM-EA912991C",
-      "id": 112375,
-      "ts": "2020-09-14T09:14:15+02:00"
-    },
-    {
-      "fuel_types": [],
-      "gas_connector_interfaces": [],
-      "hydrogen_refill_solutions": [],
       "station_id": 36646,
       "charging_solutions": [
         {
@@ -76980,5 +76930,5 @@
       "ts": "2022-06-01T19:11:44+02:00"
     }
   ],
-  "generated": "2022-06-10T12:10:09+02:00"
+  "generated": "2022-06-10T12:25:09+02:00"
 }

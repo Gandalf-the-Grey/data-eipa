@@ -29550,30 +29550,6 @@
       "authentication_methods": [
         32
       ],
-      "latitude": 50.7661645,
-      "longitude": 16.2659983,
-      "payment_methods": [
-        2,
-        4,
-        16,
-        32
-      ],
-      "pool_id": 31805,
-      "id": 36645,
-      "images": [],
-      "location": {
-        "city": "Wałbrzych",
-        "community": "Wałbrzych",
-        "district": "Wałbrzych",
-        "province": "dolnośląskie"
-      },
-      "ts": "2020-12-09T15:21:02+01:00",
-      "type": "E"
-    },
-    {
-      "authentication_methods": [
-        32
-      ],
       "latitude": 50.3071632,
       "longitude": 18.7831268,
       "payment_methods": [
@@ -36821,5 +36797,5 @@
       "type": "E"
     }
   ],
-  "generated": "2022-06-10T12:10:06+02:00"
+  "generated": "2022-06-10T12:25:05+02:00"
 }
