@@ -3394,8 +3394,8 @@
       ],
       "status": {
         "availability": 1,
-        "status": 1,
-        "ts": "2022-06-10T10:09:47+02:00"
+        "status": 0,
+        "ts": "2022-06-10T10:34:50+02:00"
       }
     },
     {
@@ -3790,8 +3790,8 @@
       ],
       "status": {
         "availability": 1,
-        "status": 1,
-        "ts": "2022-06-09T23:08:19+02:00"
+        "status": 0,
+        "ts": "2022-06-10T10:34:52+02:00"
       }
     },
     {
@@ -9511,7 +9511,7 @@
       "status": {
         "availability": 1,
         "status": 0,
-        "ts": "2022-06-10T09:28:33+02:00"
+        "ts": "2022-06-10T10:34:16+02:00"
       }
     },
     {
@@ -9731,7 +9731,7 @@
       "status": {
         "availability": 1,
         "status": 1,
-        "ts": "2022-06-03T19:06:05+02:00"
+        "ts": "2022-06-10T10:34:36+02:00"
       }
     },
     {
@@ -9753,7 +9753,7 @@
       "status": {
         "availability": 1,
         "status": 1,
-        "ts": "2022-06-07T14:12:54+02:00"
+        "ts": "2022-06-10T10:34:38+02:00"
       }
     },
     {
@@ -22968,9 +22968,9 @@
         }
       ],
       "status": {
-        "availability": 0,
+        "availability": 1,
         "status": 0,
-        "ts": "2022-06-10T08:33:44+02:00"
+        "ts": "2022-06-10T08:34:34+02:00"
       }
     },
     {
@@ -23263,8 +23263,8 @@
       ],
       "status": {
         "availability": 1,
-        "status": 0,
-        "ts": "2022-06-10T08:29:39+02:00"
+        "status": 1,
+        "ts": "2022-06-10T08:34:10+02:00"
       }
     },
     {
@@ -23432,7 +23432,7 @@
       "status": {
         "availability": 1,
         "status": 1,
-        "ts": "2022-06-10T08:34:02+02:00"
+        "ts": "2022-06-10T08:35:00+02:00"
       }
     },
     {
@@ -64148,13 +64148,13 @@
         {
           "price": "1.22",
           "unit": "kWh",
-          "ts": "2022-06-07T10:32:02+02:00",
+          "ts": "2022-06-10T10:34:05+02:00",
           "literal": "Ładowanie energii elektrycznej złączem/gniazdem AC"
         },
         {
           "price": "0.34",
           "unit": "min",
-          "ts": "2022-06-07T10:32:02+02:00",
+          "ts": "2022-06-10T10:34:05+02:00",
           "literal": "Ładowanie energii elektrycznej złączem/gniazdem AC"
         }
       ],
@@ -64171,13 +64171,13 @@
         {
           "price": "1.22",
           "unit": "kWh",
-          "ts": "2022-06-07T10:32:03+02:00",
+          "ts": "2022-06-10T10:34:07+02:00",
           "literal": "Ładowanie energii elektrycznej złączem/gniazdem AC"
         },
         {
           "price": "0.34",
           "unit": "min",
-          "ts": "2022-06-07T10:32:03+02:00",
+          "ts": "2022-06-10T10:34:07+02:00",
           "literal": "Ładowanie energii elektrycznej złączem/gniazdem AC"
         }
       ],
@@ -64194,13 +64194,13 @@
         {
           "price": "1.22",
           "unit": "kWh",
-          "ts": "2022-06-07T10:32:05+02:00",
+          "ts": "2022-06-10T10:34:10+02:00",
           "literal": "Ładowanie energii elektrycznej złączem/gniazdem AC"
         },
         {
           "price": "0.34",
           "unit": "min",
-          "ts": "2022-06-07T10:32:06+02:00",
+          "ts": "2022-06-10T10:34:10+02:00",
           "literal": "Ładowanie energii elektrycznej złączem/gniazdem AC"
         }
       ],
@@ -64217,13 +64217,13 @@
         {
           "price": "1.22",
           "unit": "kWh",
-          "ts": "2022-06-07T10:32:06+02:00",
+          "ts": "2022-06-10T10:34:11+02:00",
           "literal": "Ładowanie energii elektrycznej złączem/gniazdem AC"
         },
         {
           "price": "0.34",
           "unit": "min",
-          "ts": "2022-06-07T10:32:06+02:00",
+          "ts": "2022-06-10T10:34:11+02:00",
           "literal": "Ładowanie energii elektrycznej złączem/gniazdem AC"
         }
       ],
@@ -64240,13 +64240,13 @@
         {
           "price": "1.22",
           "unit": "kWh",
-          "ts": "2022-06-07T10:32:09+02:00",
+          "ts": "2022-06-10T10:34:14+02:00",
           "literal": "Ładowanie energii elektrycznej złączem/gniazdem AC"
         },
         {
           "price": "0.34",
           "unit": "min",
-          "ts": "2022-06-07T10:32:09+02:00",
+          "ts": "2022-06-10T10:34:14+02:00",
           "literal": "Ładowanie energii elektrycznej złączem/gniazdem AC"
         }
       ],
@@ -64263,13 +64263,13 @@
         {
           "price": "1.22",
           "unit": "kWh",
-          "ts": "2022-06-07T10:32:10+02:00",
+          "ts": "2022-06-10T10:34:15+02:00",
           "literal": "Ładowanie energii elektrycznej złączem/gniazdem AC"
         },
         {
           "price": "0.34",
           "unit": "min",
-          "ts": "2022-06-07T10:32:10+02:00",
+          "ts": "2022-06-10T10:34:15+02:00",
           "literal": "Ładowanie energii elektrycznej złączem/gniazdem AC"
         }
       ],
@@ -64286,13 +64286,13 @@
         {
           "price": "1.22",
           "unit": "kWh",
-          "ts": "2022-06-07T10:32:12+02:00",
+          "ts": "2022-06-10T10:34:18+02:00",
           "literal": "Ładowanie energii elektrycznej złączem/gniazdem AC"
         },
         {
           "price": "0.34",
           "unit": "min",
-          "ts": "2022-06-07T10:32:13+02:00",
+          "ts": "2022-06-10T10:34:18+02:00",
           "literal": "Ładowanie energii elektrycznej złączem/gniazdem AC"
         }
       ],
@@ -64309,13 +64309,13 @@
         {
           "price": "1.22",
           "unit": "kWh",
-          "ts": "2022-06-07T10:32:14+02:00",
+          "ts": "2022-06-10T10:34:19+02:00",
           "literal": "Ładowanie energii elektrycznej złączem/gniazdem AC"
         },
         {
           "price": "0.34",
           "unit": "min",
-          "ts": "2022-06-07T10:32:14+02:00",
+          "ts": "2022-06-10T10:34:19+02:00",
           "literal": "Ładowanie energii elektrycznej złączem/gniazdem AC"
         }
       ],
@@ -64332,13 +64332,13 @@
         {
           "price": "1.22",
           "unit": "kWh",
-          "ts": "2022-06-07T10:32:16+02:00",
+          "ts": "2022-06-10T10:34:21+02:00",
           "literal": "Ładowanie energii elektrycznej złączem/gniazdem AC"
         },
         {
           "price": "0.34",
           "unit": "min",
-          "ts": "2022-06-07T10:32:16+02:00",
+          "ts": "2022-06-10T10:34:22+02:00",
           "literal": "Ładowanie energii elektrycznej złączem/gniazdem AC"
         }
       ],
@@ -64355,13 +64355,13 @@
         {
           "price": "1.22",
           "unit": "kWh",
-          "ts": "2022-06-07T10:32:17+02:00",
+          "ts": "2022-06-10T10:34:22+02:00",
           "literal": "Ładowanie energii elektrycznej złączem/gniazdem AC"
         },
         {
           "price": "0.34",
           "unit": "min",
-          "ts": "2022-06-07T10:32:17+02:00",
+          "ts": "2022-06-10T10:34:23+02:00",
           "literal": "Ładowanie energii elektrycznej złączem/gniazdem AC"
         }
       ],
@@ -64378,13 +64378,13 @@
         {
           "price": "1.22",
           "unit": "kWh",
-          "ts": "2022-06-07T10:32:20+02:00",
+          "ts": "2022-06-10T10:34:25+02:00",
           "literal": "Ładowanie energii elektrycznej złączem/gniazdem AC"
         },
         {
           "price": "0.34",
           "unit": "min",
-          "ts": "2022-06-07T10:32:20+02:00",
+          "ts": "2022-06-10T10:34:25+02:00",
           "literal": "Ładowanie energii elektrycznej złączem/gniazdem AC"
         }
       ],
@@ -64401,13 +64401,13 @@
         {
           "price": "1.22",
           "unit": "kWh",
-          "ts": "2022-06-07T10:32:21+02:00",
+          "ts": "2022-06-10T10:34:26+02:00",
           "literal": "Ładowanie energii elektrycznej złączem/gniazdem AC"
         },
         {
           "price": "0.34",
           "unit": "min",
-          "ts": "2022-06-07T10:32:21+02:00",
+          "ts": "2022-06-10T10:34:26+02:00",
           "literal": "Ładowanie energii elektrycznej złączem/gniazdem AC"
         }
       ],
@@ -64424,13 +64424,13 @@
         {
           "price": "1.22",
           "unit": "kWh",
-          "ts": "2022-06-07T10:32:23+02:00",
+          "ts": "2022-06-10T10:34:29+02:00",
           "literal": "Ładowanie energii elektrycznej złączem/gniazdem AC"
         },
         {
           "price": "0.34",
           "unit": "min",
-          "ts": "2022-06-07T10:32:24+02:00",
+          "ts": "2022-06-10T10:34:29+02:00",
           "literal": "Ładowanie energii elektrycznej złączem/gniazdem AC"
         }
       ],
@@ -64447,13 +64447,13 @@
         {
           "price": "1.22",
           "unit": "kWh",
-          "ts": "2022-06-07T10:32:24+02:00",
+          "ts": "2022-06-10T10:34:30+02:00",
           "literal": "Ładowanie energii elektrycznej złączem/gniazdem AC"
         },
         {
           "price": "0.34",
           "unit": "min",
-          "ts": "2022-06-07T10:32:25+02:00",
+          "ts": "2022-06-10T10:34:30+02:00",
           "literal": "Ładowanie energii elektrycznej złączem/gniazdem AC"
         }
       ],
@@ -64470,13 +64470,13 @@
         {
           "price": "1.22",
           "unit": "kWh",
-          "ts": "2022-06-07T10:32:27+02:00",
+          "ts": "2022-06-10T10:34:32+02:00",
           "literal": "Ładowanie energii elektrycznej złączem/gniazdem AC"
         },
         {
           "price": "0.34",
           "unit": "min",
-          "ts": "2022-06-07T10:32:27+02:00",
+          "ts": "2022-06-10T10:34:33+02:00",
           "literal": "Ładowanie energii elektrycznej złączem/gniazdem AC"
         }
       ],
@@ -64493,13 +64493,13 @@
         {
           "price": "1.22",
           "unit": "kWh",
-          "ts": "2022-06-07T10:32:28+02:00",
+          "ts": "2022-06-10T10:34:33+02:00",
           "literal": "Ładowanie energii elektrycznej złączem/gniazdem AC"
         },
         {
           "price": "0.34",
           "unit": "min",
-          "ts": "2022-06-07T10:32:28+02:00",
+          "ts": "2022-06-10T10:34:34+02:00",
           "literal": "Ładowanie energii elektrycznej złączem/gniazdem AC"
         }
       ],
@@ -64516,13 +64516,13 @@
         {
           "price": "1.22",
           "unit": "kWh",
-          "ts": "2022-06-07T10:32:31+02:00",
+          "ts": "2022-06-10T10:34:36+02:00",
           "literal": "Ładowanie energii elektrycznej złączem/gniazdem AC"
         },
         {
           "price": "0.34",
           "unit": "min",
-          "ts": "2022-06-07T10:32:31+02:00",
+          "ts": "2022-06-10T10:34:36+02:00",
           "literal": "Ładowanie energii elektrycznej złączem/gniazdem AC"
         }
       ],
@@ -64539,13 +64539,13 @@
         {
           "price": "1.22",
           "unit": "kWh",
-          "ts": "2022-06-07T10:32:32+02:00",
+          "ts": "2022-06-10T10:34:37+02:00",
           "literal": "Ładowanie energii elektrycznej złączem/gniazdem AC"
         },
         {
           "price": "0.34",
           "unit": "min",
-          "ts": "2022-06-07T10:32:32+02:00",
+          "ts": "2022-06-10T10:34:37+02:00",
           "literal": "Ładowanie energii elektrycznej złączem/gniazdem AC"
         }
       ],
@@ -64562,13 +64562,13 @@
         {
           "price": "1.22",
           "unit": "kWh",
-          "ts": "2022-06-07T10:32:34+02:00",
+          "ts": "2022-06-10T10:34:40+02:00",
           "literal": "Ładowanie energii elektrycznej złączem/gniazdem AC"
         },
         {
           "price": "0.34",
           "unit": "min",
-          "ts": "2022-06-07T10:32:34+02:00",
+          "ts": "2022-06-10T10:34:40+02:00",
           "literal": "Ładowanie energii elektrycznej złączem/gniazdem AC"
         }
       ],
@@ -64585,13 +64585,13 @@
         {
           "price": "1.22",
           "unit": "kWh",
-          "ts": "2022-06-07T10:32:35+02:00",
+          "ts": "2022-06-10T10:34:41+02:00",
           "literal": "Ładowanie energii elektrycznej złączem/gniazdem AC"
         },
         {
           "price": "0.34",
           "unit": "min",
-          "ts": "2022-06-07T10:32:35+02:00",
+          "ts": "2022-06-10T10:34:41+02:00",
           "literal": "Ładowanie energii elektrycznej złączem/gniazdem AC"
         }
       ],
@@ -64608,13 +64608,13 @@
         {
           "price": "1.22",
           "unit": "kWh",
-          "ts": "2022-06-07T10:32:38+02:00",
+          "ts": "2022-06-10T10:34:44+02:00",
           "literal": "Ładowanie energii elektrycznej złączem/gniazdem AC"
         },
         {
           "price": "0.34",
           "unit": "min",
-          "ts": "2022-06-07T10:32:38+02:00",
+          "ts": "2022-06-10T10:34:44+02:00",
           "literal": "Ładowanie energii elektrycznej złączem/gniazdem AC"
         }
       ],
@@ -64631,13 +64631,13 @@
         {
           "price": "1.22",
           "unit": "kWh",
-          "ts": "2022-06-07T10:32:39+02:00",
+          "ts": "2022-06-10T10:34:45+02:00",
           "literal": "Ładowanie energii elektrycznej złączem/gniazdem AC"
         },
         {
           "price": "0.34",
           "unit": "min",
-          "ts": "2022-06-07T10:32:39+02:00",
+          "ts": "2022-06-10T10:34:45+02:00",
           "literal": "Ładowanie energii elektrycznej złączem/gniazdem AC"
         }
       ],
@@ -64654,13 +64654,13 @@
         {
           "price": "1.22",
           "unit": "kWh",
-          "ts": "2022-06-07T10:32:42+02:00",
+          "ts": "2022-06-10T10:34:47+02:00",
           "literal": "Ładowanie energii elektrycznej złączem/gniazdem AC"
         },
         {
           "price": "0.34",
           "unit": "min",
-          "ts": "2022-06-07T10:32:42+02:00",
+          "ts": "2022-06-10T10:34:48+02:00",
           "literal": "Ładowanie energii elektrycznej złączem/gniazdem AC"
         }
       ],
@@ -64677,13 +64677,13 @@
         {
           "price": "1.22",
           "unit": "kWh",
-          "ts": "2022-06-07T10:32:43+02:00",
+          "ts": "2022-06-10T10:34:48+02:00",
           "literal": "Ładowanie energii elektrycznej złączem/gniazdem AC"
         },
         {
           "price": "0.34",
           "unit": "min",
-          "ts": "2022-06-07T10:32:43+02:00",
+          "ts": "2022-06-10T10:34:49+02:00",
           "literal": "Ładowanie energii elektrycznej złączem/gniazdem AC"
         }
       ],
@@ -64700,13 +64700,13 @@
         {
           "price": "1.22",
           "unit": "kWh",
-          "ts": "2022-06-07T10:32:45+02:00",
+          "ts": "2022-06-10T10:34:51+02:00",
           "literal": "Ładowanie energii elektrycznej złączem/gniazdem AC"
         },
         {
           "price": "0.34",
           "unit": "min",
-          "ts": "2022-06-07T10:32:45+02:00",
+          "ts": "2022-06-10T10:34:51+02:00",
           "literal": "Ładowanie energii elektrycznej złączem/gniazdem AC"
         }
       ],
@@ -64723,13 +64723,13 @@
         {
           "price": "1.22",
           "unit": "kWh",
-          "ts": "2022-06-07T10:32:46+02:00",
+          "ts": "2022-06-10T10:34:52+02:00",
           "literal": "Ładowanie energii elektrycznej złączem/gniazdem AC"
         },
         {
           "price": "0.34",
           "unit": "min",
-          "ts": "2022-06-07T10:32:46+02:00",
+          "ts": "2022-06-10T10:34:52+02:00",
           "literal": "Ładowanie energii elektrycznej złączem/gniazdem AC"
         }
       ],
@@ -64746,13 +64746,13 @@
         {
           "price": "1.22",
           "unit": "kWh",
-          "ts": "2022-06-07T10:32:49+02:00",
+          "ts": "2022-06-10T10:34:55+02:00",
           "literal": "Ładowanie energii elektrycznej złączem/gniazdem AC"
         },
         {
           "price": "0.34",
           "unit": "min",
-          "ts": "2022-06-07T10:32:49+02:00",
+          "ts": "2022-06-10T10:34:55+02:00",
           "literal": "Ładowanie energii elektrycznej złączem/gniazdem AC"
         }
       ],
@@ -64769,13 +64769,13 @@
         {
           "price": "1.22",
           "unit": "kWh",
-          "ts": "2022-06-07T10:32:50+02:00",
+          "ts": "2022-06-10T10:34:56+02:00",
           "literal": "Ładowanie energii elektrycznej złączem/gniazdem AC"
         },
         {
           "price": "0.34",
           "unit": "min",
-          "ts": "2022-06-07T10:32:50+02:00",
+          "ts": "2022-06-10T10:34:56+02:00",
           "literal": "Ładowanie energii elektrycznej złączem/gniazdem AC"
         }
       ],
@@ -64792,13 +64792,13 @@
         {
           "price": "1.22",
           "unit": "kWh",
-          "ts": "2022-06-07T10:32:52+02:00",
+          "ts": "2022-06-10T10:34:58+02:00",
           "literal": "Ładowanie energii elektrycznej złączem/gniazdem AC"
         },
         {
           "price": "0.34",
           "unit": "min",
-          "ts": "2022-06-07T10:32:53+02:00",
+          "ts": "2022-06-10T10:34:59+02:00",
           "literal": "Ładowanie energii elektrycznej złączem/gniazdem AC"
         }
       ],
@@ -64815,13 +64815,13 @@
         {
           "price": "1.22",
           "unit": "kWh",
-          "ts": "2022-06-07T10:32:53+02:00",
+          "ts": "2022-06-10T10:34:59+02:00",
           "literal": "Ładowanie energii elektrycznej złączem/gniazdem AC"
         },
         {
           "price": "0.34",
           "unit": "min",
-          "ts": "2022-06-07T10:32:54+02:00",
+          "ts": "2022-06-10T10:35:00+02:00",
           "literal": "Ładowanie energii elektrycznej złączem/gniazdem AC"
         }
       ],
@@ -64838,13 +64838,13 @@
         {
           "price": "1.22",
           "unit": "kWh",
-          "ts": "2022-06-07T10:32:56+02:00",
+          "ts": "2022-06-10T10:35:02+02:00",
           "literal": "Ładowanie energii elektrycznej złączem/gniazdem AC"
         },
         {
           "price": "0.34",
           "unit": "min",
-          "ts": "2022-06-07T10:32:56+02:00",
+          "ts": "2022-06-10T10:35:02+02:00",
           "literal": "Ładowanie energii elektrycznej złączem/gniazdem AC"
         }
       ],
@@ -64861,13 +64861,13 @@
         {
           "price": "1.22",
           "unit": "kWh",
-          "ts": "2022-06-07T10:32:57+02:00",
+          "ts": "2022-06-10T10:35:03+02:00",
           "literal": "Ładowanie energii elektrycznej złączem/gniazdem AC"
         },
         {
           "price": "0.34",
           "unit": "min",
-          "ts": "2022-06-07T10:32:57+02:00",
+          "ts": "2022-06-10T10:35:03+02:00",
           "literal": "Ładowanie energii elektrycznej złączem/gniazdem AC"
         }
       ],
@@ -66459,9 +66459,9 @@
         }
       ],
       "status": {
-        "availability": 0,
+        "availability": 1,
         "status": 0,
-        "ts": "2022-06-10T10:32:31+02:00"
+        "ts": "2022-06-10T10:33:21+02:00"
       }
     },
     {
@@ -79582,7 +79582,7 @@
       "status": {
         "availability": 1,
         "status": 1,
-        "ts": "2022-06-10T10:31:11+02:00"
+        "ts": "2022-06-10T10:32:11+02:00"
       }
     },
     {
@@ -79598,7 +79598,7 @@
       "status": {
         "availability": 1,
         "status": 1,
-        "ts": "2022-06-10T10:31:11+02:00"
+        "ts": "2022-06-10T10:32:11+02:00"
       }
     },
     {
@@ -79614,7 +79614,7 @@
       "status": {
         "availability": 1,
         "status": 1,
-        "ts": "2022-06-10T10:31:11+02:00"
+        "ts": "2022-06-10T10:32:11+02:00"
       }
     },
     {
@@ -79624,7 +79624,7 @@
       "status": {
         "availability": 1,
         "status": 1,
-        "ts": "2022-06-10T10:31:11+02:00"
+        "ts": "2022-06-10T10:32:11+02:00"
       }
     },
     {
@@ -79634,7 +79634,7 @@
       "status": {
         "availability": 1,
         "status": 1,
-        "ts": "2022-06-10T10:31:11+02:00"
+        "ts": "2022-06-10T10:32:11+02:00"
       }
     },
     {
@@ -79644,7 +79644,7 @@
       "status": {
         "availability": 1,
         "status": 1,
-        "ts": "2022-06-10T10:31:11+02:00"
+        "ts": "2022-06-10T10:32:11+02:00"
       }
     },
     {
@@ -82055,5 +82055,5 @@
       }
     }
   ],
-  "generated": "2022-06-10T10:34:05+02:00"
+  "generated": "2022-06-10T10:35:04+02:00"
 }
