@@ -19575,6 +19575,30 @@
       "authentication_methods": [
         32
       ],
+      "latitude": 53.438083,
+      "longitude": 14.543972,
+      "payment_methods": [
+        2,
+        4,
+        16,
+        32
+      ],
+      "pool_id": 84062,
+      "id": 99755,
+      "images": [],
+      "location": {
+        "city": "Szczecin",
+        "community": "Szczecin",
+        "district": "Szczecin",
+        "province": "zachodniopomorskie"
+      },
+      "ts": "2022-06-09T13:40:14+02:00",
+      "type": "E"
+    },
+    {
+      "authentication_methods": [
+        32
+      ],
       "latitude": 54.1909027,
       "longitude": 16.1832829,
       "payment_methods": [
@@ -30292,6 +30316,30 @@
     },
     {
       "authentication_methods": [
+        32
+      ],
+      "latitude": 50.766219,
+      "longitude": 16.265977,
+      "payment_methods": [
+        2,
+        4,
+        16,
+        32
+      ],
+      "pool_id": 83518,
+      "id": 99024,
+      "images": [],
+      "location": {
+        "city": "Wałbrzych",
+        "community": "Wałbrzych",
+        "district": "Wałbrzych",
+        "province": "dolnośląskie"
+      },
+      "ts": "2022-05-11T11:52:14+02:00",
+      "type": "E"
+    },
+    {
+      "authentication_methods": [
         0
       ],
       "latitude": 52.376321,
@@ -36773,5 +36821,5 @@
       "type": "E"
     }
   ],
-  "generated": "2022-06-10T05:10:08+02:00"
+  "generated": "2022-06-10T05:25:06+02:00"
 }

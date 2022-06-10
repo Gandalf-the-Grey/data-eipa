@@ -41696,6 +41696,56 @@
       "fuel_types": [],
       "gas_connector_interfaces": [],
       "hydrogen_refill_solutions": [],
+      "station_id": 99755,
+      "charging_solutions": [
+        {
+          "mode": 6,
+          "power": 22
+        }
+      ],
+      "connectors": [
+        {
+          "interfaces": [
+            10
+          ],
+          "cable_attached": true,
+          "power": 22,
+          "ts": "2022-06-09T13:40:17+02:00"
+        }
+      ],
+      "code": "PL-TEO-E7DF77602",
+      "id": 264124,
+      "ts": "2022-06-09T13:40:17+02:00"
+    },
+    {
+      "fuel_types": [],
+      "gas_connector_interfaces": [],
+      "hydrogen_refill_solutions": [],
+      "station_id": 99755,
+      "charging_solutions": [
+        {
+          "mode": 6,
+          "power": 22
+        }
+      ],
+      "connectors": [
+        {
+          "interfaces": [
+            10
+          ],
+          "cable_attached": true,
+          "power": 22,
+          "ts": "2022-06-09T13:40:15+02:00"
+        }
+      ],
+      "code": "PL-TEO-EC1B522DB",
+      "id": 264123,
+      "ts": "2022-06-09T13:40:15+02:00"
+    },
+    {
+      "fuel_types": [],
+      "gas_connector_interfaces": [],
+      "hydrogen_refill_solutions": [],
       "station_id": 98253,
       "charging_solutions": [
         {
@@ -67383,6 +67433,56 @@
       "fuel_types": [],
       "gas_connector_interfaces": [],
       "hydrogen_refill_solutions": [],
+      "station_id": 99024,
+      "charging_solutions": [
+        {
+          "mode": 6,
+          "power": 22
+        }
+      ],
+      "connectors": [
+        {
+          "interfaces": [
+            17
+          ],
+          "cable_attached": true,
+          "power": 22,
+          "ts": "2022-05-11T11:47:29+02:00"
+        }
+      ],
+      "code": "PL-CXM-EREV00039",
+      "id": 263119,
+      "ts": "2022-05-11T11:46:51+02:00"
+    },
+    {
+      "fuel_types": [],
+      "gas_connector_interfaces": [],
+      "hydrogen_refill_solutions": [],
+      "station_id": 99024,
+      "charging_solutions": [
+        {
+          "mode": 7,
+          "power": 44
+        }
+      ],
+      "connectors": [
+        {
+          "interfaces": [
+            29
+          ],
+          "cable_attached": true,
+          "power": 44,
+          "ts": "2022-05-11T11:47:39+02:00"
+        }
+      ],
+      "code": "PL-CXM-EREV00040",
+      "id": 263120,
+      "ts": "2022-05-11T11:46:51+02:00"
+    },
+    {
+      "fuel_types": [],
+      "gas_connector_interfaces": [],
+      "hydrogen_refill_solutions": [],
       "station_id": 43390,
       "charging_solutions": [],
       "connectors": [
@@ -76880,5 +76980,5 @@
       "ts": "2022-06-01T19:11:44+02:00"
     }
   ],
-  "generated": "2022-06-10T05:10:12+02:00"
+  "generated": "2022-06-10T05:25:09+02:00"
 }
